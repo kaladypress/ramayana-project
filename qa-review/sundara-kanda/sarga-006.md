@@ -166,8 +166,8 @@ sarveṣāṁ samatikramya bhavanāni samantataḥ |
 āsasādātha lakṣmīvān rākṣasendraniveśanam ||
 
 29.
-rāvaṇasyopaśāyinyo dadarśa harisattamaḥ |
-vicaran hariśārdūlo rākṣasīḥ vikr̥tekṣaṇāḥ ||
+rāvaṇasyopaśāyinyaḥ dadarśa harisattamaḥ |
+vicaran hariśārdūlaḥ rākṣasīḥ vikr̥tekṣaṇāḥ ||
 
 30.
 śūlamudgarahastāḥ ca śakto tomaradhāriṇīḥ |

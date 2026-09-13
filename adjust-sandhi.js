@@ -28,6 +28,8 @@ const content = fs.readFileSync(filePath, 'utf8');
 const lines = content.split('\n');
 const processedLines = [];
 
+const vowelRegex = /(ai|au|a|ā|i|ī|u|ū|e|o|r\u0325\u0304|r\u0325|l\u0325\u0304|l\u0325)/gi;
+
 // Helper function to resolve sandhi at a break point
 function resolveSandhi(text) {
     let t = text.trim();
@@ -35,30 +37,35 @@ function resolveSandhi(text) {
         return t.slice(0, -1) + 'ḥ';
     } else if (t.endsWith('o') || t.endsWith('ō')) {
         // Most words ending in 'o' at a break are 'aḥ' (e.g. rāmo -> rāmaḥ)
-        // Exceptions like vocatives (prabho) are rare at quarter-ends but watch out!
         return t.slice(0, -1) + 'aḥ';
     }
     return t;
 }
 
-// Helper function to resolve intra-line external visarga sandhi (separated by spaces)
-function resolveIntraLineSandhi(line) {
-    // Replaces trailing 'ś', 's', 'r' of a word with 'ḥ' when followed by a space
-    // e.g. "citrais toraṇair" -> "citraiḥ toraṇaiḥ"
-    // "rūpyakopahitaiś citrais" -> "rūpyakopahitaiḥ citraiḥ"
+// Helper function to resolve sandhi at the 8-syllable quarter line break (for Anushtubh)
+function applyQuarterLineSandhi(line) {
+    // Preserve leading whitespace
+    const leadingSpaceMatch = line.match(/^\s*/);
+    const leadingSpace = leadingSpaceMatch ? leadingSpaceMatch[0] : '';
     
-    // Convert word-final ś followed by space and c/ch/ś
-    let modified = line.replace(/ś(\s+)(c|ch|ś)/g, 'ḥ$1$2');
-    // Convert word-final s followed by space and t/th/s
-    modified = modified.replace(/s(\s+)(t|th|s)/g, 'ḥ$1$2');
-    // Convert word-final r followed by space and any consonant (common in external sandhi before soft consonants)
-    // Actually, 'r' followed by a space is almost always a visarga (e.g., toraṇair hemabhūṣitaiḥ -> toraṇaiḥ)
-    modified = modified.replace(/r(\s+)([b-df-hj-np-tv-zśṣḥ])/g, 'ḥ$1$2');
+    const words = line.trim().split(/\s+/);
+    let syllableCount = 0;
     
-    // Also handle 'o' to 'aḥ' if it's explicitly separated by space in padapatha (less safe, so leaving out for now)
+    for (let i = 0; i < words.length; i++) {
+        const matches = words[i].match(vowelRegex);
+        const count = matches ? matches.length : 0;
+        syllableCount += count;
+        
+        // If we hit exactly 8 syllables (quarter line in Anushtubh)
+        if (syllableCount === 8) {
+            words[i] = resolveSandhi(words[i]);
+            break; // Stop after finding the quarter line
+        }
+    }
     
-    return modified;
+    return leadingSpace + words.join(' ');
 }
+
 
 for (let i = 0; i < lines.length; i++) {
     let line = lines[i];
@@ -70,26 +77,22 @@ for (let i = 0; i < lines.length; i++) {
         continue;
     }
 
-    // Apply intra-line sandhi resolution
-    line = resolveIntraLineSandhi(line);
-    // update trimmed after intraline changes
-    trimmed = line.trim();
-
     // If the line contains a semicolon (used in Sarga 5 / Upajati meter to denote the half-line)
     if (line.includes(';')) {
         let parts = line.split(';');
         let part1 = resolveSandhi(parts[0]);
         let part2 = parts.slice(1).join(';').trim(); // Just in case there are multiple
         
-        processedLines.push(part1);
-        processedLines.push(part2);
+        processedLines.push(part1 + ' ; ' + part2);
     } else {
-        // If it's a Sanskrit line but doesn't end with a danda (| or ||)
-        // it might be a quarter-shloka ending where sandhi wasn't resolved.
+        // Break sandhi at the 8th syllable quarter-line
+        line = applyQuarterLineSandhi(line);
+        trimmed = line.trim();
+
+        // Also check if we need to resolve sandhi at the very end of the line (before | or ||)
         if (!trimmed.endsWith('|') && !trimmed.endsWith('||')) {
             // Only apply if it looks like a sandhi character
             if (trimmed.endsWith('ś') || trimmed.endsWith('s') || trimmed.endsWith('r') || trimmed.endsWith('o') || trimmed.endsWith('ō')) {
-                // We will preserve the original leading whitespace
                 const leadingSpace = line.match(/^\s*/)[0];
                 line = leadingSpace + resolveSandhi(trimmed);
             }
