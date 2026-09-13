@@ -21,10 +21,10 @@ These rules apply whenever generating, editing, or reviewing English meanings/tr
 
 - Maintain reverence and dignity in the translation — this is sacred literature.
 - Use transliterated Sanskrit terms (ISO-15919) where they convey meaning better than English equivalents.
-- When grouping meanings for multiple ślokas, do so within a Markdown blockquote. Prefix each line with `>` and start the block with bold text indicating the ślokas covered. For example:
-  `> **Meaning 52-56:** ...`
+- When grouping meanings for multiple ślokas, do so within a Markdown blockquote. Prefix each line with `>` and start the block with the word "Meaning" colored in blue and bolded indicating the ślokas covered. Use HTML for the color. For example:
+  `> <span style="color:blue">**Meaning 52-56:**</span> ...`
   `> ...continuation of translation...`
-- Wrap meaning lines to ~80 characters for readability, ensuring every wrapped line starts with `> `.
+- **CRITICAL:** Wrap meaning lines to ~80 characters for readability, ensuring every wrapped line starts with `> `. Do not output one single long line for the entire blockquote.
 - **Variant Readings (Pāṭhāntara):** If there are extra verses or variant readings present in the Gorakhpur text but absent in others, label them sequentially as `Patha-1.`, `Patha-2.`, etc., rather than standard numbered ślokas. Their meanings should be prefixed similarly (e.g., "Patha-1: ...").
 - **Definitive Source:** The primary source for translation verification, verse numbering, and inclusion/omission of specific ślokas is the **Gorakhpur (Gita Press) Telugu edition**. Be aware that this may contain variant readings (pāṭha-bhedas) or extra verses compared to other editions.
 - **NEVER use web search or external sources to find translations.** Always generate the translations and meanings using internal intelligence, knowledge of the Rāmāyaṇa, and Sanskrit proficiency.
