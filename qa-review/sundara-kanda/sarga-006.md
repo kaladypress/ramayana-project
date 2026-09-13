@@ -23,8 +23,8 @@ vicitrābhiśca kakṣyābhiḥ dvāraiśca rucirairvr̥tam ||
 > the sun, the palace was guarded by terrifying Rākṣasas, much like a great
 > forest is protected by fierce lions. The Kapikuñjara shone with splendor upon
 > seeing the magnificent palace, which featured beautiful gates overlaid with
-> silver and adorned with gold, as well as wonderful courtyards and brilliant
-> doors.
+> silver and adorned with gold, as well as wonderful courtyards and splendid
+> entrances.
 ---
 
 5.
@@ -55,7 +55,7 @@ varābharaṇanirhrādaiḥ samudrasvananiḥsvanam ||
 > brave, untiring great warriors mounted on elephants, and unshakeable horses
 > pulling chariots. It was constantly active with resounding chariots that were
 > covered in lion and tiger skins and adorned with ivory, gold, and silver.
-> Filled with numerous gems, it housed magnificent seats and served as a vast
+> Filled with numerous gems, it housed magnificent furnishings and served as a vast
 > dwelling for great chariots. Thousands of beautiful and wonderful birds and
 > animals filled the space on all sides. Well-protected by disciplined
 > border-guards and Rākṣasas, and brimming with the most excellent and beautiful
@@ -90,11 +90,9 @@ cacāra hanumāṁstatra rāvaṇasya samīpataḥ ||
 > echoed with the sounds of Bherī, Mr̥daṅga, and the blowing of conches. It was
 > a place where daily worship was performed, sacrifices were offered on festive
 > days, and it was deeply revered by all Rākṣasas. Deep and resounding like the
-> mighty ocean, the great Kapi beheld that massive palace of the great-souled
+> mighty ocean, Hanumān beheld that massive palace of the great-souled
 > one, draped in magnificent gems. Teeming with elephants, horses, and chariots,
-> and shining in its structural glory, the great Kapi considered it the very
-> ornament of Laṅkā. Thus, Hanumān fearlessly wandered there in the vicinity of
-> Rāvaṇa.
+> and shining in its structural glory, Hanumān considered it the very jewel of Laṅkā. Thus, Hanumān fearlessly wandered in the vicinity of the palace.
 ---
 
 16.
@@ -145,20 +143,9 @@ kramamāṇaḥ krameṇaiva hanūmān mārutātmajaḥ ||
 teṣu teṣu mahārheṣu bhavaneṣu mahāyaśāḥ |
 teṣām r̥ddhimatām r̥ddhiṁ dadarśa sa mahākapiḥ ||
 
-> **Meaning 16-27:** The fearless Vānara
-> wandered from house to house, exploring the gardens and mansions of the
-> Rākṣasas. The swift and immensely brave Hanumān bounded to the residence of
-> Prahasta, then leaped to the house of Mahāpārśva. The great Kapi then leaped
-> to the cloud-like house of Kumbhakarṇa, and subsequently to that of Vibhīṣaṇa,
-> Mahōdara, Virūpākṣa, Vidyujjihva, and Vidyunmālī. He bounded to the houses of
-> Vajradaṁṣṭra, the swift Śuka, and the intelligent Sāraṇa. The leader of the
-> monkeys went to the house of Indrajit, Jambumālī, Sumālī, Raśmikētu,
-> Sūryaśatru, and Vajrakāya. The son of Vāyu continued his sequential search
-> through the houses of Dhūmrākṣa, Saṁpāti, Vidyudrūpa, Bhīma, Ghana, Vighana,
-> Śukanābha, Vakra, Śaṭha, Vikaṭa, Hrasvakarṇa, Daṁṣṭra, Rōmaśa, Yuddhōnmatta,
-> Matta, Dhvajagrīva, the roaring one, Vidyujjihva, Indrajihva, Hastimukha,
-> Karāla, Piśāca, and Śōṇitākṣa. The highly famous great Kapi beheld the immense
-> prosperity of these affluent Rākṣasas within their highly valuable mansions.
+> **Meaning 16-27:** The fearless Hanumān wandered from house to house, exploring the gardens and mansions of the Rākṣasas. The swift and immensely brave Hanumān bounded to the residence of Prahasta, then leaped to the house of Mahāpārśva. The great Kapi then leaped to the cloud-like house of Kumbhakarṇa, and subsequently to that of Vibhīṣaṇa, Mahōdara, Virūpākṣa, Vidyujjihva, and Vidyunmālī. He bounded to the houses of Vajradaṁṣṭra, the swift Śuka, and the intelligent Sāraṇa. Then to the house of Indrajit, Jambumālī, Sumālī, Raśmikētu, Sūryaśatru, and Vajrakāya. The son of Vāyu continued his sequential search through the houses of Dhūmrākṣa, Saṁpāti, Vidyudrūpa, Bhīma, Ghana, Vighana, Śukanābha, Vakra, Śaṭha, Vikaṭa, Hrasvakarṇa, Daṁṣṭra, Rōmaśa, Yuddhōnmatta, Matta, Dhvajagrīva, the roaring one, Vidyujjihva, Indrajihva, Hastimukha,
+Karāla, Piśāca, and Śōṇitākṣa. He beheld the immense
+prosperity of these affluent Rākṣasas within their highly valuable mansions.
 ---
 
 28.
@@ -195,17 +182,13 @@ dadarśa rākṣasendrasya rāvaṇasya niveśane ||
 
 > **Meaning 28-35:** Having bypassed all these
 > mansions, the glorious one finally reached the residence of the Rākṣasa king.
-> While wandering, the tiger among monkeys saw hideous, deformed-eyed female
+> While wandering, Hanumān saw hideous, deformed-eyed female
 > Rākṣasas who slept near Rāvaṇa as his guards, holding spears, clubs, śaktis,
 > and tōmaras. Inside the house of the Rākṣasa lord, he observed various troops
 > of guards, including gigantic Rākṣasas wielding diverse weapons, and
 > exceptionally swift steeds in hues of red, white, and bright colors. He saw
 > noble, beautifully formed elephants—capable of crushing enemy elephants,
-> highly trained in combat, and equal to Airāvata in battle. These destroyers of
-> enemy armies showered like rain-clouds and streamed fluid like mountains.
-> Resounding like roaring clouds, they were unassailable by enemies in combat.
-> In the residence of Rāvaṇa, he saw a thousand troop divisions adorned with
-> gold and covered in golden nets, shining brilliantly like the morning sun.
+> highly trained in combat, and equal to Airāvata in battle. These formidable elephants dripped ichor like monsoon clouds and sounded like the roar of a thunderous mass of clouds, making them unconquerable in battle. Furthermore, Hanuman beheld thousands of troops and vehicles, all splendidly adorned and covered with glittering gold, shining brilliantly like the afternoon sun.
 ---
 
 36.
@@ -219,14 +202,16 @@ dadarśa rākṣasendrasya rāvaṇasya niveśane ||
 
 38.
 sa mandaratalaprakhyaṁ mayūrasthānasaṁkulam |
+
+39.
 dhvajayaṣṭibhirākīrṇaṁ dadarśa bhavanottamam |
 anantaratnanicayaṁ nidhijālaṁ samantataḥ ||
 
-39.
+40.
 dhīraniṣṭhitakarmāntaṁ gr̥haṁ bhūtapateriva ||
 arcirbhiścāpi ratnānāṁ tejasā rāvaṇasya ca |
 
-> **Meaning 36-39:** The Kapi, the son of
+> **Meaning 36-40:** The Kapi, the son of
 > Māruta, beheld palanquins of diverse shapes, wondrous creeper-bowers, and
 > beautiful picture-galleries. Within the residence of Rāvaṇa, he also saw
 > various play-houses, artificial wooden mountains, a beautiful house of
@@ -237,31 +222,26 @@ arcirbhiścāpi ratnānāṁ tejasā rāvaṇasya ca |
 > Kubera (the Lord of Wealth).
 ---
 
-40.
+41.
 virarājātha tad veśma raśmimān iva raśmibhiḥ |
 jāmbūnadamayāny eva śayanāny āsanāni ca |
 bhājanāni ca śubhrāṇi dadarśa hariyūthapaḥ ||
 
-41.
+42.
 madhvāsavakr̥takledaṁ maṇibhājanasaṁkulam |
 manoramam asaṁbādhaṁ kuberabhavanaṁ yathā ||
 
-42.
+43.
 nūpurāṇāṁ ca ghoṣeṇa kāñcīnāṁ ninadena ca |
 mr̥daṅgatalaghoṣaiśca ghoṣavadbhirvināditam ||
 
-43.
+44.
 prāsādasaṁghātayutaṁ strīratnaśatasaṁkulam |
 suvyūḍhakakṣyaṁ hanumān praviveśa mahāgr̥ham ||
 
 > **Meaning 40-43:** Illuminated by the radiant
 > light of the gems and the inherent splendor of Rāvaṇa, that mansion shone
-> brilliantly like the sun with its rays. The leader of the monkeys saw beds and
-> seats made entirely of Jāmbūnada gold, along with immaculate, shining vessels.
-> Wet with the moisture of honey and wine, and crowded with jewel-encrusted
-> vessels, the spacious, mind-captivating palace looked exactly like the abode
-> of Kubera. Resounding with the chiming of anklets, the tinkling of
-> waist-bands, and the rhythmic beating of Mr̥daṅgas, Hanumān entered that great
-> mansion, which featured well-arranged courtyards, a multitude of smaller
-> palaces, and was crowded with hundreds of jewel-like women.
+> brilliantly like the sun with its rays. Hanuman saw beds and
+> furnishings made entirely of Jāmbūnada gold, along with immaculate, shining vessels.
+> The palace was drenched in sweet wine and intoxicating drinks, and scattered with an abundance of gem-studded vessels. Delightful and spacious, it truly resembled the heavenly palace of Kubera, the God of Wealth. The entire area was constantly resounding with loud, vibrant noises, including the tinkling sounds of women's anklets, the jingling of their waistbands, and the festive beats of mridanga drums.Hanuman entered the great inner mansion, a massive structure surrounded by many smaller palaces. This grand dwelling was meticulously arranged with well-structured inner chambers and was crowded with hundreds of the finest, most beautiful women, who were likened to jewels.
 ---

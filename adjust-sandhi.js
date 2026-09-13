@@ -42,6 +42,21 @@ function resolveSandhi(text) {
     return t;
 }
 
+// Helper to join words within a quarter, stripping spaces after ś, s, r
+function joinQuarter(words) {
+    let result = '';
+    for (let i = 0; i < words.length; i++) {
+        result += words[i];
+        if (i < words.length - 1) {
+            // If the word ends in a fused sandhi consonant, do not add space
+            if (!words[i].match(/[śsr]$/)) {
+                result += ' ';
+            }
+        }
+    }
+    return result;
+}
+
 // Helper function to resolve sandhi at the 8-syllable quarter line break (for Anushtubh)
 function applyQuarterLineSandhi(line) {
     // Preserve leading whitespace
@@ -51,21 +66,35 @@ function applyQuarterLineSandhi(line) {
     const words = line.trim().split(/\s+/);
     let syllableCount = 0;
     
+    let firstQuarter = [];
+    let secondQuarter = [];
+    
     for (let i = 0; i < words.length; i++) {
         const matches = words[i].match(vowelRegex);
         const count = matches ? matches.length : 0;
-        syllableCount += count;
         
-        // If we hit exactly 8 syllables (quarter line in Anushtubh)
-        if (syllableCount === 8) {
-            words[i] = resolveSandhi(words[i]);
-            break; // Stop after finding the quarter line
+        if (syllableCount < 8) {
+            if (syllableCount + count === 8) {
+                firstQuarter.push(resolveSandhi(words[i]));
+            } else {
+                firstQuarter.push(words[i]);
+            }
+        } else {
+            secondQuarter.push(words[i]);
         }
+        syllableCount += count;
     }
     
-    return leadingSpace + words.join(' ');
+    // If we didn't perfectly hit an 8-syllable boundary, fallback to returning the original words
+    if (firstQuarter.length === 0 || secondQuarter.length === 0) {
+        return line;
+    }
+    
+    const q1 = joinQuarter(firstQuarter);
+    const q2 = joinQuarter(secondQuarter);
+    
+    return leadingSpace + q1 + ' ' + q2;
 }
-
 
 for (let i = 0; i < lines.length; i++) {
     let line = lines[i];
@@ -79,11 +108,21 @@ for (let i = 0; i < lines.length; i++) {
 
     // If the line contains a semicolon (used in Sarga 5 / Upajati meter to denote the half-line)
     if (line.includes(';')) {
+        const leadingSpace = line.match(/^\s*/)[0];
         let parts = line.split(';');
-        let part1 = resolveSandhi(parts[0]);
-        let part2 = parts.slice(1).join(';').trim(); // Just in case there are multiple
         
-        processedLines.push(part1 + ' ; ' + part2);
+        // Process first quarter
+        let p1Words = parts[0].trim().split(/\s+/);
+        if (p1Words.length > 0) {
+            p1Words[p1Words.length - 1] = resolveSandhi(p1Words[p1Words.length - 1]);
+        }
+        let q1 = joinQuarter(p1Words);
+        
+        // Process second quarter
+        let p2Words = parts.slice(1).join(';').trim().split(/\s+/);
+        let q2 = joinQuarter(p2Words);
+        
+        processedLines.push(leadingSpace + q1 + ' ' + q2);
     } else {
         // Break sandhi at the 8th syllable quarter-line
         line = applyQuarterLineSandhi(line);

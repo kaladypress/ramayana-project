@@ -6,9 +6,12 @@ These rules apply whenever generating, editing, or reviewing English meanings/tr
 
 ### Forbidden Terms & Replacements
 
-| ❌ Do NOT use | ✅ Use instead |
+**ABSOLUTE BAN:** The English word "monkey" or "monkeys" MUST NEVER appear anywhere in the meaning blocks, even in literal translations of compound words (e.g., `hariśārdūla` or `kapikuñjara`).
+
+| ❌ Do NOT use (Under any circumstance) | ✅ Use instead |
 |---|---|
-| monkey / monkeys | Hanumān, Kapīśreṣṭha, Vānara(s), Plavaṅgama, or the specific epithet from the śloka |
+| monkey / monkeys | Hanumān, Kapīśreṣṭha, Vānara(s), Plavaṅgama, Kapi, Hari, or the specific epithet from the śloka |
+| "tiger among monkeys" / "leader of monkeys" | "tiger among Vānaras", "Hariśārdūla", "leader of Vānaras", "Hariyūthapa", or "Hanumān" |
 | lord | god, goddess, or preferably devathā(s) / devatā(s) |
 
 ### Character Names & Epithets
