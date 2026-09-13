@@ -1,8 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 
-const inputPath = 'c:/Users/mhari/Projects/ramayana-project/qa-review/sundara-kanda/sarga-003.md';
-const outputPath = 'c:/Users/mhari/Projects/ramayana-project/source/sundarakanda/sarga-003.txt';
+const inputPath = process.argv[2] || 'c:/Users/mhari/Projects/ramayana-project/qa-review/sundara-kanda/sarga-004.md';
+const outputPath = process.argv[3] || 'c:/Users/mhari/Projects/ramayana-project/source/sundarakanda/sarga-004.txt';
 
 const lines = fs.readFileSync(inputPath, 'utf8').split('\n');
 
