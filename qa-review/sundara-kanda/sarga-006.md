@@ -3,19 +3,19 @@
 ---
 1.
 sa nikāmaṁ vināmeṣu vicaran kāmarūpadhr̥k |
-vicacāra kapiḥ laṅkāṁ lāghavena samanvitaḥ ||
+vicacāra kapirlaṅkāṁ lāghavena samanvitaḥ ||
 
 2.
 āsasādātha lakṣmīvān rākṣasendraniveśanam |
 prākāreṇārkavarṇena bhāsvareṇābhisaṁvr̥tam ||
 
 3.
-rakṣitaṁ rākṣasaiḥ bhīmaiḥ siṁhair iva mahad vanam |
+rakṣitaṁ rākṣasairbhīmaiḥ siṁhairiva mahad vanam |
 samīkṣamāṇo bhavanaṁ cakāśe kapikuñjaraḥ ||
 
 4.
-rūpyakopahitaiḥ citraiḥ toraṇaiḥ hemabhūṣitaiḥ |
-vicitrābhiḥ ca kakṣyābhiḥ dvāraiḥ ca ruciraiḥ vr̥tam ||
+rūpyakopahitaiścitraiḥ toraṇairhemabhūṣitaiḥ |
+vicitrābhiśca kakṣyābhiḥ dvāraiśca rucirairvr̥tam ||
 
 > **Meaning 1-4:** The swift Hanumān, who could
 > assume any form at will, wandered through Laṅkā and reached the glorious
@@ -28,24 +28,24 @@ vicitrābhiḥ ca kakṣyābhiḥ dvāraiḥ ca ruciraiḥ vr̥tam ||
 ---
 
 5.
-gajāsthitaiḥ mahāmātraiḥ śūraiḥ ca vigataśramaiḥ |
+gajāsthitairmahāmātraiḥ śūraiśca vigataśramaiḥ |
 upasthitam asaṁhāryaiḥ hayaiḥ syandanayāyibhiḥ ||
 
 6.
 siṁhavyāghratanutrāṇaiḥ dāntakāñcanarājataiḥ |
-ghoṣavadbhiḥ vicitraiḥ ca sadā vicaritaṁ rathaiḥ ||
+ghoṣavadbhirvicitraiśca sadā vicaritaṁ rathaiḥ ||
 
 7.
 bahuratnasamākīrṇaṁ parārdhyāsanabhājanam |
 mahārathasamāvāsaṁ mahārathamahāsanam ||
 
 8.
-dr̥śyaiḥ ca paramodāraiḥ taiḥ taiḥ ca mr̥gapakṣibhiḥ |
-vividhaiḥ bahusāhasraiḥ paripūrṇaṁ samantataḥ ||
+dr̥śyaiśca paramodāraiḥ taistaiśca mr̥gapakṣibhiḥ |
+vividhairbahusāhasraiḥ paripūrṇaṁ samantataḥ ||
 
 9.
-vinītair antapālaiḥ ca rakṣobhiḥ ca surakṣitam |
-mukhyābhiḥ ca varastrībhiḥ paripūrṇaṁ samantataḥ ||
+vinītairantapālaiśca rakṣobhiśca surakṣitam |
+mukhyābhiśca varastrībhiḥ paripūrṇaṁ samantataḥ ||
 
 10.
 muditapramadā ratnaṁ rākṣasendraniveśanam |
@@ -65,7 +65,7 @@ varābharaṇanirhrādaiḥ samudrasvananiḥsvanam ||
 ---
 
 11.
-tad rājaguṇasaṁpannaṁ mukhyaiḥ ca varacandanaiḥ |
+tad rājaguṇasaṁpannaṁ mukhyaiśca varacandanaiḥ |
 mahājanaiḥ samākīrṇaṁ siṁhairiva mahadvanam ||
 
 12.
@@ -99,7 +99,7 @@ cacāra hanumāṁstatra rāvaṇasya samīpataḥ ||
 
 16.
 gr̥hād gr̥haṁ rākṣasānām udyānāni ca vānaraḥ |
-vīkṣamāṇo hyasaṁtrastaḥ prāsādāṁḥ ca cacāra saḥ ||
+vīkṣamāṇo hyasaṁtrastaḥ prāsādāṁśca cacāra saḥ ||
 
 17.
 avaplutya mahāvegaḥ prahastasya niveśanam |
@@ -111,7 +111,7 @@ vibhīṣaṇasya ca tathā pupluve sa mahākapiḥ ||
 
 19.
 mahodarasya ca tathā virūpākṣasya caiva hi |
-vidyujjihvasya bhavanaṁ vidyunmāleḥ tathaiva ca |
+vidyujjihvasya bhavanaṁ vidyunmālestathaiva ca |
 
 20.
 vajradaṁṣṭrasya ca tathā pupluve sa mahākapiḥ |
@@ -119,10 +119,10 @@ vajradaṁṣṭrasya ca tathā pupluve sa mahākapiḥ |
 
 21.
 tathā cendrajito veśma jagāma hariyūthapaḥ |
-jambumāleḥ sumāleḥ ca jagāma hariyūthapaḥ ||
+jambumāleḥ sumāleśca jagāma hariyūthapaḥ ||
 
 22.
-raśmiketoḥ ca bhavanaṁ sūryaśatroḥ tathaiva ca |
+raśmiketośca bhavanaṁ sūryaśatrostathaiva ca |
 vajrakāyasya ca tathā pupluvē sa mahākapiḥ ||
 
 23.
@@ -167,15 +167,15 @@ sarveṣāṁ samatikramya bhavanāni samantataḥ |
 
 29.
 rāvaṇasyopaśāyinyaḥ dadarśa harisattamaḥ |
-vicaran hariśārdūlaḥ rākṣasīḥ vikr̥tekṣaṇāḥ ||
+vicaran hariśārdūlaḥ rākṣasīrvikr̥tekṣaṇāḥ ||
 
 30.
-śūlamudgarahastāḥ ca śakto tomaradhāriṇīḥ |
-dadarśa vividhān gulmāṁḥ tasya rakṣaḥpateḥ gr̥he ||
+śūlamudgarahastāśca śakto tomaradhāriṇīḥ |
+dadarśa vividhān gulmāṁḥ tasya rakṣaḥpatergr̥he ||
 
 31.
 rākṣasāṁśca mahākāyān nānāpraharaṇōdyatān |
-raktāñ śvetān sitāṁḥ caiva harīṁḥ caiva mahājavān ||
+raktāñ śvetān sitāṁścaiva harīṁścaiva mahājavān ||
 
 32.
 kulīnān rūpasaṁpannān gajān paragajārujān |
@@ -183,14 +183,14 @@ niṣṭhitān gajaśikṣāyām airāvatasamān yudhi ||
 
 33.
 nihantr̥̄n parasainyānāṁ gr̥he tasmin dadarśa saḥ |
-kṣarataḥ ca yathā meghān sravataḥ ca yathā girīn ||
+kṣarataśca yathā meghān sravataśca yathā girīn ||
 
 34.
 meghastanitanirghoṣān durdharṣān samare paraiḥ |
-sahasraṁ vāhinīḥ tatra jāmbūnadapariṣkr̥tāḥ ||
+sahasraṁ vāhinīstatra jāmbūnadapariṣkr̥tāḥ ||
 
 35.
-hemajālair avicchinnāḥ taruṇādityasaṁnibhāḥ |
+hemajālairavicchinnāḥ taruṇādityasaṁnibhāḥ |
 dadarśa rākṣasendrasya rāvaṇasya niveśane ||
 
 > **Meaning 28-35:** Having bypassed all these
@@ -209,7 +209,7 @@ dadarśa rākṣasendrasya rāvaṇasya niveśane ||
 ---
 
 36.
-śibikā vividhākārāḥ sa kapiḥ mārutātmajaḥ |
+śibikā vividhākārāḥ sa kapirmārutātmajaḥ |
 latāgr̥hāṇi citrāṇi citraśālāgr̥hāṇi ca ||
 
 37.
@@ -219,12 +219,12 @@ dadarśa rākṣasendrasya rāvaṇasya niveśane ||
 
 38.
 sa mandaratalaprakhyaṁ mayūrasthānasaṁkulam |
-dhvajayaṣṭibhir ākīrṇaṁ dadarśa bhavanottamam |
+dhvajayaṣṭibhirākīrṇaṁ dadarśa bhavanottamam |
 anantaratnanicayaṁ nidhijālaṁ samantataḥ ||
 
 39.
-dhīraniṣṭhitakarmāntaṁ gr̥haṁ bhūtapater iva ||
-arcirbhiḥ cāpi ratnānāṁ tejasā rāvaṇasya ca |
+dhīraniṣṭhitakarmāntaṁ gr̥haṁ bhūtapateriva ||
+arcirbhiścāpi ratnānāṁ tejasā rāvaṇasya ca |
 
 > **Meaning 36-39:** The Kapi, the son of
 > Māruta, beheld palanquins of diverse shapes, wondrous creeper-bowers, and
@@ -248,7 +248,7 @@ manoramam asaṁbādhaṁ kuberabhavanaṁ yathā ||
 
 42.
 nūpurāṇāṁ ca ghoṣeṇa kāñcīnāṁ ninadena ca |
-mr̥daṅgatalaghoṣaiḥ ca ghoṣavadbhiḥ vināditam ||
+mr̥daṅgatalaghoṣaiśca ghoṣavadbhirvināditam ||
 
 43.
 prāsādasaṁghātayutaṁ strīratnaśatasaṁkulam |
