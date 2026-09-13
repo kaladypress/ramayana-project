@@ -36,7 +36,7 @@ These rules apply whenever generating, editing, or reviewing English meanings/tr
 - Foot-notes and commentary references go in `qa-review/Foot-Notes`.
 - When encountering terms for celestial beings (Yakṣas, Kinnaras, Gandharvas, Nāgas, Vidyādharas, Cāraṇas, Siddhas, etc.), add them to the glossary on first occurrence.
 
-## Data Tracking (Flora, Fauna, Geography, Architecture, Weapons, Instruments, Adornments & Colors)
+## Data Tracking (Flora, Fauna, Geography, Architecture, Weapons, Instruments, Adornments, Colors & Food)
 
 - **Flora & Fauna:** Any plants, trees, flowers, birds, or animals mentioned must be logged in `qa-review/Flora-Fauna`.
 - **Geography:** Any mountains, rivers, cities, or specific regions mentioned must be logged in `qa-review/Geography`.
@@ -45,5 +45,6 @@ These rules apply whenever generating, editing, or reviewing English meanings/tr
 - **Musical Instruments:** Any specific musical instruments (e.g., Vīṇā, Mr̥daṅga) mentioned must be logged in `qa-review/Musical-Instruments`.
 - **Jewelry, Clothing, Gems & Metals:** Any specific types of ornaments, garments, gems, precious stones, or metals (e.g., Vaidūrya/cat's-eye, Muktā/pearl, Kāñcana/gold, Keyūra, Kuṇḍala) must be logged in `qa-review/Jewelry-Clothing`.
 - **Colors & Shades:** Any specific references to hues, pigments, or shades (e.g., Pāṇḍura, Nīla) used to describe objects or beings must be logged in `qa-review/Colors-Shades`.
+- **Food & Ingredients:** Any references to food, spices, ingredients, incense, or aromatics (e.g., Agaru, Candana) must be logged in `qa-review/Food-Ingredients`.
 - **Metadata Requirement:** All entries in these tracking lists MUST be maintained as a clean list and include detailed metadata in the format: `Item (Description) - [Kanda, Sarga, Śloka, Location/Context]`. 
   *Example:* `Karnikara (Tree) - [Sundara Kanda, Sarga 2, Verse 9, Lanka]`

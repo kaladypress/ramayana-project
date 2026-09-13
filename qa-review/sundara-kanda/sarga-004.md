@@ -3,200 +3,149 @@
 ---
 1.
 sa nirjitya purīṁ śrēṣṭhāṁ laṁkāṁ tāṁ kāmarūpiṇīm |
-vikramēṇa mahātējāḥ hanumān kapisattamaḥ |
-advārēṇa ca mahābāhuḥ prākāram abhipupluvē ||
+vikramēṇa mahātējāḥ hanumān kapisattamaḥ ||
 
-> **Meaning 1:** Having conquered that preeminent city of Laṅkā, which could change form at will, by his sheer prowess, the highly radiant Kapisattama, the great-armed Hanumān, leapt over the rampart where there was no gate.
----
 
 2.
-praviśya nagarīṁ laṁkāṁ kapirāja hitaṁkaraḥ |
-cakrē’tha pādaṁ savyaṁ ca śatrūṇāṁ sa tu mūrdhani ||
+advārēṇa ca mahābāhuḥ prākāram abhipupluvē |
+praviśya nagarīṁ laṁkāṁ kapirāja hitaṁkaraḥ ||
 
-> **Meaning 2:** Having entered the city of Laṅkā, that benefactor of the Kapirāja (Sugrīva) placed his left foot upon the heads of the enemies.
+
+> **Meaning 1-2:** The mighty and valorous Hanuman, acting for the welfare of Sugriva, conquered the city's deity with his strength. He then entered Lanka not through the main entrance, but by leaping over the perimeter wall.
 ---
 
 3.
-praviṣṭas sattvasaṁpannō niśāyāṁ mārutātmajaḥ |
-sa mahāpatham āsthāya muktāpuṣpavirājitam ||
+cakrē’tha pādaṁ savyaṁ ca śatrūṇāṁ sa tu mūrdhani |
+praviṣṭas sattvasaṁpannō niśāyāṁ mārutātmajaḥ ||
 
-> **Meaning 3:** Having entered at night, the courageous son of Vāyu then took to the main pathway, which was adorned with pearls and flowers.
+
+> **Meaning 3:** The mighty Hanumān, the son of the Wind-god, full of power and resolve, entered the city at night, placing his left foot forward
 ---
 
 4.
-tatas tu tāṁ purīṁ laṁkāṁ ramyām abhiyayau kapiḥ ||
-
-> **Meaning 4:** Then the Kapi advanced through that beautiful city of Laṅkā.
----
+sa mahāpatham āsthāya muktāpuṣpavirājitam |
+tatastu tāṁ purīṁ laṁkāṁ ramyām abhiyayau kapiḥ ||
 
 5.
 hasitōtkr̥ṣṭaninadaiḥ tūryaghōṣapurassaraiḥ |
 vajrāṁkuśanikāśaiśca vajrajālavibhūṣitaiḥ ||
 
-> **Meaning 5:** With the sounds of joyous laughter and the preceding resonance of musical instruments, surrounded by structures resembling diamond goads and adorned with diamond lattices...
----
-
 6.
 gr̥hamēghaiḥ purī ramyā babhāsē dyaur ivāṁbudaiḥ |
 prajajvāla tadā laṁkā rakṣōgaṇagr̥haiś śubhaiḥ ||
-
-> **Meaning 6:** ...with houses rising like clouds, the beautiful city shone like the sky filled with clouds. Laṅkā was illuminated by the auspicious mansions of the Rākṣasas.
----
 
 7.
 sitābhrasadr̥śaiś citraiḥ padmasvastika saṁsthitaiḥ |
 vardhamānagr̥haiś cāpi sarvata ssuvibhūṣitaiḥ ||
 
-> **Meaning 7:** It was well-adorned on all sides by expanding mansions resembling white clouds, structured marvelously in the shapes of lotuses and svastikas.
+
+> **Meaning 4-7:** Proceeding along the main pathway adorned with pearls and flowers, Hanumān advanced through the beautiful city of Laṅkā. The beautiful city shone brightly with the roar of laughter and loud shouts, accompanied by the sound of musical instruments. The mansions, which were as dazzling as thunderbolts and adorned with networks of diamonds, resembled masses of clouds, causing the entire city to shine like the sky illuminated by rain-bearing clouds.
+Lanka was ablaze with the auspicious and beautiful houses of the Rakshasa multitude. These elaborate houses, which looked like white clouds, were wonderfully varied in design, built in different shapes. Some of the houses were embellished with signs of the lotus and the Swastika, and some were in the shape of Vardhamaananaamaka (which does not have an entrance in the south), and splendidly embellished everywhere with symbols of prosperity. 
+
 ---
 
 8.
 tāṁ citramālyābharaṇāṁ kapirājahitaṁkaraḥ |
 rāghavārthaṁ caran cchrīmān dadarśa ca nanaṁda ca ||
 
-> **Meaning 8:** The glorious benefactor of the Kapirāja, wandering for the sake of Rāghava, saw that city adorned with wondrous garlands and ornaments, and he rejoiced.
----
-
 9.
 bhavanād bhavanaṁ gacchan dadarśa pavanātmajaḥ |
 vividhākr̥tirūpāṇi bhavanāni tatas tataḥ ||
 
-> **Meaning 9:** Going from mansion to mansion, the son of Vāyu saw houses of various shapes and forms here and there.
+> **Meaning 7-9:** The glorious Hanuman, who acts for the welfare of the King of the Vanaras (Sugriva), while wandering for the sake of Rama's mission, saw the city which was embellished with wonderful garlands and ornaments with delight (with confidence that the mission will be successful). Hanuman moved forward, observing every building, each of which was superior to the last and of varied shapes.
 ---
 
 10.
 śuśrāva madhuraṁ gītaṁ tristhānasvarabhūṣitam |
 strīṇāṁ madasamr̥ddhānāṁ divi cāpsarasām iva ||
 
-> **Meaning 10:** He heard the sweet singing of intoxicated women, adorned with the three registers of notes, resembling the Apsarās in heaven.
----
-
 11.
 śuśrāva kāṁcīninadaṁ nūpurāṇāṁ ca nissvanam |
 sōpānaninadāṁścaiva bhavanēṣu mahātmanām ||
-
-> **Meaning 11:** He heard the tinkling of waist-bands, the chiming of anklets, and the sound of footsteps on the stairways in the mansions of the eminent ones.
----
 
 12.
 āsphōṭitaninādāṁśca kṣvēlitāṁśca tatas tataḥ |
 śuśrāva japatāṁ tatra maṁtrān rakṣōgr̥hēṣu vai ||
 
-> **Meaning 12:** He heard the sounds of clapping and joyful shouts here and there, and the chanting of mantras by those reciting them in the houses of the Rākṣasas.
----
-
 13.
 svādhyāyaniratāṁścaiva yātudhānān dadarśa saḥ |
 rāvaṇastavasaṁyuktān garjatō rākṣasān api ||
 
-> **Meaning 13:** He saw Yātudhānas engaged in Vedic studies, and roaring Rākṣasas who were engaged in praising Rāvaṇa.
+> **Meaning 10-13:** In the mansions of the eminent, he heard the sweet singing of intoxicated women—rich with notes from the three vocal registers—resembling the celestial Apsarās. He listened to the tinkling of waist-bands, the chiming of anklets, and the footsteps echoing on the stairways. Amidst the joyful sounds of clapping and cheering, he heard the chanting of mantras by those engaged in rituals, and saw Yātudhānas devoted to Vedic studies alongside roaring Rākṣasas singing praises of Rāvaṇa.
 ---
 
 14.
 rājamārgaṁ samāvr̥tya sthitaṁ rakṣōbalaṁ mahat |
 dadarśa madhyamē gulmē rāvaṇasya carān bahūn ||
 
-> **Meaning 14:** Covering the royal highway stood a massive army of Rākṣasas. He saw many of Rāvaṇa's spies stationed in the central encampment.
----
-
 15.
 dīkṣitān jaṭilān muṁḍān gō’jināṁbaravāsasaḥ |
 darbhamuṣṭipraharaṇān agnikuṁḍāyudhāṁs tathā ||
-
-> **Meaning 15:** Some were initiated, some had matted hair, some were bald, and some wore cow-hide garments. Some carried handfuls of Darbha grass as weapons, and some had fire-altars as their weapons.
----
 
 16.
 kūṭamudgarapāṇīṁśca daṁḍāyudhadharān api |
 ēkākṣān ēkakarṇāṁśca laṁbōdarapayōdharān ||
 
-> **Meaning 16:** Some held mallets and clubs in their hands, some wielded staffs as weapons. Some had only one eye, some had only one ear, and some had pot-bellies and sagging breasts.
----
-
 17.
 karālān bhugnavaktrāṁśca vikaṭān vāmanāṁs tathā |
 dhanvinaḥ khaḍginaścaiva śataghnīmusalāyudhān ||
 
-> **Meaning 17:** There were dreadful ones, those with crooked faces, misshapen ones, and dwarfs. There were archers, swordsmen, and those armed with Śataghnīs (hundred-killers) and maces.
+> **Meaning 14-17:** Covering the royal highway stood a massive army of Rākṣasas. In the central encampment, he saw a multitude of Rāvaṇa's spies and guards. They presented a terrifying and diverse sight: some were initiated into vows, some had matted hair or were bald, and others wore cow-hide garments. Some wielded handfuls of Darbha grass or portable fire-altars as weapons, while others held mallets, clubs, and staffs. Among them were dreadful figures with a single eye or a single ear, those with pot-bellies and sagging breasts, as well as misshapen, crooked-faced, and dwarfish warriors armed with bows, swords, maces, and fearsome Śataghnīs.
 ---
 
 18.
 parighōttamahastāṁśca vicitrakavacōjjvalān |
 nātisthūlān nātikr̥śān nātidīrghāti hrasvakān ||
 
-> **Meaning 18:** Some held excellent iron clubs and shone in marvelous armor. They were neither too fat nor too thin, neither too tall nor too short.
----
-
 19.
 nātigaurān nātikr̥ṣṇān nātikubjān na vāmanān |
 virūpān bahurūpāṁśca surūpāṁśca suvarcasaḥ |
 dhvajīn patākinaścaiva dadarśa vividhāyudhān ||
 
-> **Meaning 19:** They were neither too fair nor too dark, neither too hunched nor dwarfish. Some were deformed, some could take many forms, some were handsome and highly radiant. He saw them bearing banners, flags, and diverse weapons.
----
-
 20.
 śaktivr̥kṣāyudhāṁścaiva paṭṭiśāśanidhāriṇaḥ |
 kṣēpaṇīpāśahastāṁśca dadarśa sa mahākapiḥ ||
-
-> **Meaning 20:** The great Kapi saw them armed with spears and uprooted trees, wielding Paṭṭiśas and swords, holding slings and nooses in their hands.
----
 
 21.
 sragviṇas tvanuliptāṁśca varābharaṇabhūṣitān |
 nānāvēṣasamāyuktān yathāsvairagatān bahūn |
 tīkṣṇaśūladharāṁścaiva vajriṇaśca mahābalān ||
 
-> **Meaning 21:** Wearing garlands, smeared with sandal paste, and adorned with excellent ornaments, many wandered about in various attires as they pleased. There were immensely powerful ones holding sharp tridents and thunderbolts.
+> **Meaning 18-21:** The great Kapi saw warriors of every conceivable form—neither too fat nor too thin, neither too tall nor too short, neither too fair nor too dark. Some were deformed, others could take myriad shapes, and some were exceptionally handsome and radiant. Shining in marvelous armor, they held excellent iron clubs, banners, and flags. They were armed with spears, uprooted trees, swords, slings, and nooses. Wearing garlands, smeared with sandal paste, and adorned with exquisite ornaments, these immensely powerful soldiers wandered about freely in various attires, wielding sharp tridents and thunderbolts.
 ---
 
 22.
 śatasāhasram avyagraṁ ārakṣaṁ madhyamaṁ kapiḥ |
 rakṣō’dhipatinirdiṣṭaṁ dadarśāṁtaḥ purāgrataḥ ||
 
-> **Meaning 22:** The Kapi saw a central guard of a hundred thousand soldiers, attentive and stationed by the command of the lord of the Rākṣasas, in front of the inner apartments.
----
-
 23.
 sa tadā tad gr̥haṁ dr̥ṣṭvā mahāhāṭakatōraṇam |
 rākṣasēṁdrasya vikhyātaṁ adrimūrdhni pratiṣṭhitam ||
-
-> **Meaning 23:** Then he saw that renowned house of the Rākṣasa king, established on the summit of the mountain, possessing great golden archways.
----
 
 24.
 puṁḍarīkāvataṁsābhiḥ parighābhir alaṁkr̥tam |
 prākārāvr̥tam atyaṁtaṁ dadarśa sa mahākapiḥ ||
 
-> **Meaning 24:** It was adorned with moats decorated with lotuses, and thoroughly enclosed by ramparts. The great Kapi beheld it.
+> **Meaning 22-24:** Stationed by the command of the Rākṣasa lord, an attentive central guard of a hundred thousand soldiers protected the area just in front of the inner apartments. The great Kapi then laid eyes on the renowned palace of the Rākṣasa king. Perched on the summit of the mountain, the majestic structure featured massive golden archways, lotus-filled moats, and formidable enclosing ramparts.
 ---
 
 25.
 triviṣṭapanibhaṁ divyaṁ divyanādavināditam |
 vājihēṣitasaṁghuṣṭaṁ nāditaṁ bhūṣaṇais tathā ||
 
-> **Meaning 25:** Resembling heaven itself, it was divine and echoed with celestial sounds. It was filled with the neighing of horses and the tinkling of ornaments.
----
-
 26.
 rathair yānair vimānaiśca tathā hayagajaiś śubhaiḥ |
 vāraṇaiśca caturdaṁtaiḥ śvētābhranicayōpamaiḥ ||
-
-> **Meaning 26:** It was filled with chariots, vehicles, and aerial cars (Vimānas), as well as auspicious horses and elephants, including elephants with four tusks that resembled masses of white clouds.
----
 
 27.
 bhūṣitaṁ ruciradvāraṁ mattaiśca mr̥gapakṣibhiḥ |
 rakṣitaṁ sumahāvīraiḥ yātudhānais sahasraśaḥ ||
 
-> **Meaning 27:** It was adorned with beautiful gates and filled with intoxicated animals and birds. It was guarded by thousands of exceedingly heroic Yātudhānas.
+> **Meaning 25-27:** It was divine, and resembled heaven and resounded with divine sounds, the neighing of horses, and the jingling of ornaments. It was splendidly furnished with chariots, palanquins, and aerial cars (vimānas), as well as fine horses and elephants, and large, four-tusked elephants that resembled masses of white clouds. The palace had beautiful gates, adorned with excited (or intoxicated) deer and birds, and was guarded by thousands of extremely mighty Rakshasas.
 ---
 
 28.
 rākṣasādhipatēr guptaṁ āvivēśa gr̥haṁ kapiḥ ||
-
-> **Meaning 28:** The Kapi entered that well-guarded house of the lord of the Rākṣasas.
----
 
 29.
 sa hēmajāṁbūnada cakravālaṁ
@@ -204,5 +153,5 @@ mahārha muktāmaṇi bhūṣitāṁtam |
 parārthya kālāgurucaṁdanāktaṁ
 sa rāvaṇāṁtaḥpuram āvivēśa ||
 
-> **Meaning 29:** Enclosed by walls of gold and Jāmbūnada gold, its interiors adorned with invaluable pearls and gems, and smeared with excellent black aloe and sandalwood paste—he entered that inner palace of Rāvaṇa.
+> **Meaning 28-29:** Despite this formidable defense, Hanuman entered the inner palace of Ravana. He entered the inner palace of Ravana, which was embellished with circles of gold, beautifully decorated inside with invaluable pearls and precious gems, and anointed with supreme black Aguru and sandalwood paste. 
 ---
