@@ -170,7 +170,7 @@ na śakyamadya tē draṣṭuṁ purīyaṁ vānarādhama ||
 tatassa kapiśārdūlaḥ tāmuvāca niśācarīm |
 dr̥ṣṭvā purīmimāṁ bhadrē punaryāsyē yathāgatam ||
 
-> **Meaning 31-37:** Hearing the words of Laṅkā, Hanumān, the son of Vāyu and the foremost among Vānaras, stood resolute like another mountain. Seeing her in the deformed shape of a woman, the intelligent and courageous Vānarapuṅgava spoke: "I have come here simply to see the city of Laṅkā with its towers, ramparts, and gateways, for my curiosity is great. My arrival is only to see the forests, gardens, groves, and the preeminent mansions of Laṅkā." Hearing his words, Laṅkā, capable of assuming any form, spoke harsh words again: "O foolish one, without defeating me, who is protected by the lord of Rākṣasas, you cannot see this city today, O lowest of Vānaras!" Then the Hanumān replied humbly to the night-wandering woman: "O auspicious one, after seeing this city, I will return the way I came."
+> **Meaning 31-37:** Hearing the words of Laṅkā, Hanumān, the son of Vāyu and the foremost among Vānaras, stood resolute like another mountain. Seeing her in the deformed shape of a woman, the intelligent and courageous Vānarapuṅgava spoke: "I have come here simply to see the city of Laṅkā with its towers, ramparts, and gateways, for my curiosity is great. My arrival is only to see the forests, gardens, groves, and the preeminent mansions of Laṅkā." Hearing his words, Laṅkā, capable of assuming any form, spoke harsh words again: "O foolish one, without defeating me, who is protected by the king of Rākṣasas, you cannot see this city today, O lowest of Vānaras!" Then the Hanumān replied humbly to the night-wandering woman: "O auspicious one, after seeing this city, I will return the way I came."
 ---
 
 38.

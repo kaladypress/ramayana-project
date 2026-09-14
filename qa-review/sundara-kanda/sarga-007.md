@@ -22,7 +22,7 @@ mahītale sarvaguṇottarāṇi dadarśa laṅkādhipatergr̥hāṇi ||
 > season intertwined with lightning and flocks of birds. He beheld the various
 > halls of the residences, including excellent armories for conches, weapons,
 > and bows, as well as captivating and vast moon-chambers on those
-> mountain-like mansions. The Kapi saw houses shining with diverse treasures,
+> mountain-like mansions. Hanumān saw houses shining with diverse treasures,
 > acquired by Rāvaṇa's own might and highly revered even by Devas and Asuras.
 > Flawless and assembled with immense effort, the mansions of the king of Laṅkā
 > appeared as if constructed by the divine architect Maya himself, surpassing
@@ -45,7 +45,7 @@ haṁsapravekairiva vāhyamānaṁ śriyā yutaṁ khe sukr̥tāṁ vimānam ||
 yathā nagāgraṁ bahudhātucitraṁ yathā nabhaśca grahacandracitram |
 dadarśa yuktīkr̥tameghacitraṁ vimānaratnaṁ bahuratnacitram ||
 
-> **Meaning 5-8:** Then, he saw the most excellent mansion, towering like a
+> **Meaning 5-8:** Then, he saw the most excellent Pushpaka, towering like a
 > cloud. Captivating and beautifully crafted from gold, its incomparable form
 > perfectly suited the immense might of the Rākṣasa king. Like a piece of
 > heaven descended upon the earth, it blazed with splendor, studded with
@@ -53,7 +53,7 @@ dadarśa yuktīkr̥tameghacitraṁ vimānaratnaṁ bahuratnacitram ||
 > the fallen blossoms of diverse trees. Illuminated by the most excellent women,
 > it shone like a rain-cloud lit by lightning. Endowed with brilliant radiance,
 > it appeared to be drawn by the finest swans, resembling an aerial chariot of
-> the virtuous traversing the sky. Hanumān beheld that jewel among Vimānas,
+> the virtuous traversing the sky. Hanumān beheld that jewel among Vimānas (aircraft),
 > which was as colorful as a mountain peak rich in minerals, as splendid as the
 > night sky adorned with the moon and planets, and as picturesque as a cluster
 > of vividly colored clouds.
@@ -71,15 +71,14 @@ punaśca padmāni sakesarāṇi dhanyāni citrāṇi tathā vanāni ||
 puṣpāhvayaṁ nāma virājamānaṁ ratnaprabhābhiśca vivardhamānam |
 veśmottamānām api coccamānaṁ mahākapistatra mahāvimānam ||
 
-> **Meaning 9-11:** The great Kapi saw that magnificent Vimāna named Puṣpaka,
-> which stood supremely tall even among the most excellent mansions, its
-> radiance endlessly multiplied by the glow of precious gems. It featured
-> exquisite artistic creations—landscapes filled with mountain ranges, mountains
-> covered in canopies of trees, trees laden with blooming flowers, and flowers
-> perfectly crafted with delicate petals and filaments. It also displayed
-> beautifully carved white mansions, delightful lotus ponds blossoming with
-> flowers, lotuses complete with their filaments, and picturesque, enchanting
-> forests.
+> **Meaning 9-11:** It featured exquisite artistic creations—landscapes filled
+> with mountain ranges, mountains covered in canopies of trees, trees laden with
+> blooming flowers, and flowers perfectly crafted with delicate petals and
+> filaments. It also displayed beautifully carved white mansions, delightful
+> lotus ponds blossoming with flowers, lotuses complete with their filaments,
+> and picturesque, enchanting forests. The Mahākapi saw that magnificent Vimāna
+> named Puṣpaka, which stood supremely tall even among the most excellent
+> mansions, its radiance endlessly multiplied by the glow of precious gems.
 ---
 
 12.
