@@ -102,8 +102,7 @@ punaśca tat paramasugandhi sundaraṁ himātyaye nagam iva cārukandaram ||
 > colors using diverse precious materials, and beautiful-limbed horses depicted
 > true to their noble breeds. With wings composed of coral and Jāmbūnada gold
 > shaped like flowers, and gracefully inclined curved wings, these beautifully
-> faced artificial birds appeared as radiant as the very wings of Kāma (the God
-> of Love). There were elegantly trunked elephants depicted holding lotus petals
+> faced artificial birds appeared as radiant as the very wings of Kāma (Manmatha). There were elegantly trunked elephants depicted holding lotus petals
 > and filaments, reverently serving Goddess Lakṣmī, who was beautifully crafted
 > seated upon a lotus, holding a lotus in her graceful hands. Approaching that
 > magnificent mansion, which was as radiant as a beautiful mountain, Hanumān

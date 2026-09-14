@@ -24,6 +24,7 @@ These rules apply whenever generating, editing, or reviewing English meanings/tr
 
 - Maintain reverence and dignity in the translation — this is sacred literature.
 - Use transliterated Sanskrit terms (ISO-15919) where they convey meaning better than English equivalents.
+- **Sequential Meaning Flow:** When providing meanings for a block of verses, the narrative sequence of the meaning block MUST strictly mirror the sequential order of the ślokas themselves. Do not reorder or shuffle the concepts into a general summary; maintain the exact order as they appear in the original text.
 - When grouping meanings for multiple ślokas, do so within a Markdown blockquote. Prefix each line with `>` and start the block with the word "Meaning" colored in blue and bolded indicating the ślokas covered. Use HTML for the color. For example:
   `> <span style="color:blue">**Meaning 52-56:**</span> ...`
   `> ...continuation of translation...`
