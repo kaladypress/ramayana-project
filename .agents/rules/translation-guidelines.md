@@ -25,8 +25,8 @@ These rules apply whenever generating, editing, or reviewing English meanings/tr
 - Maintain reverence and dignity in the translation — this is sacred literature.
 - Use transliterated Sanskrit terms (ISO-15919) where they convey meaning better than English equivalents.
 - **Sequential Meaning Flow:** When providing meanings for a block of verses, the narrative sequence of the meaning block MUST strictly mirror the sequential order of the ślokas themselves. Do not reorder or shuffle the concepts into a general summary; maintain the exact order as they appear in the original text.
-- When grouping meanings for multiple ślokas, do so within a Markdown blockquote. Prefix each line with `>` and start the block with the word "Meaning" colored in blue and bolded indicating the ślokas covered. Use HTML for the color. For example:
-  `> <span style="color:blue">**Meaning 52-56:**</span> ...`
+- When grouping meanings for multiple ślokas, do so within a Markdown blockquote. Prefix each line with `>` and start the block with the word "Meaning" bolded indicating the ślokas covered. For example:
+  `> **Meaning 52-56:** ...`
   `> ...continuation of translation...`
 - **CRITICAL:** Wrap meaning lines to ~80 characters for readability, ensuring every wrapped line starts with `> `. Do not output one single long line for the entire blockquote.
 - **Variant Readings (Pāṭhāntara):** If there are extra verses or variant readings present in the Gorakhpur text but absent in others, label them sequentially as `Patha-1.`, `Patha-2.`, etc., rather than standard numbered ślokas. Their meanings should be prefixed similarly (e.g., "Patha-1: ...").

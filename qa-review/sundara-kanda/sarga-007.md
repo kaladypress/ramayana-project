@@ -118,7 +118,7 @@ adr̥śya tāṁ janakasutāṁ supūjitāṁ suduḥkhitāṁ patiguṇaveganir
 tatastadā bahuvidhabhāvitātmanaḥ kr̥tātmano janakasutāṁ suvartmanaḥ |
 apaśyato ’bhavad atiduḥkhitaṁ manaḥ sucakṣuṣaḥ pravicarato mahātmanaḥ ||
 
-> **Meaning 16-17:** As the Kapi continued to wander through that revered city
+> **Meaning 16-17:** As Hanuman continued to wander through that revered city
 > protected by the mighty arms of the ten-faced Rāvaṇa, he could not find the
 > highly honored daughter of Janaka, who was deeply sorrowful and utterly devoted
 > to the virtues of her husband. Not seeing Sītā, the great-souled Hanumān—a
