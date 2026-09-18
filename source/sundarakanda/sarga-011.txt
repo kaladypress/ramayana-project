@@ -1,28 +1,17 @@
 === Sarga 11 ===
 
----
 1.
 avadhūya ca tāṁ buddhiṁ babhūvāvasthitastadā |
 jagāma cāparāṁ cintāṁ sītāṁ prati mahākapiḥ ||
 
-=== meaning ===
-
----
 2.
 na rāmeṇa viyuktā sā svaptum arhati bhāminī |
 na bhoktuṁ nāpy alaṁkartuṁ na pānam upasevitum ||
 
-=== meaning ===
-
----
 3.
 nānyaṁ naram upasthātuṁ surāṇām api ceśvaram |
 na hi rāmasamaḥ kaścid vidyate tridaśeṣv api |
 
-
-=== meaning ===
-
----
 4.
 anyeyam iti niścitya pānabhūmau cacāra saḥ |
 pānabhūmau hariśreṣṭhaḥ sītāsaṁdarśanotsukaḥ ||
@@ -31,115 +20,66 @@ pānabhūmau hariśreṣṭhaḥ sītāsaṁdarśanotsukaḥ ||
 krīḍitenāparāḥ klāntā gītena ca tathā parāḥ |
 nr̥ttena cāparāḥ klāntāḥ pānaviprahatāstathā ||
 
-=== meaning ===
-
----
 6.
 murajeṣu mr̥daṅgeṣu pīṭhikāsu ca saṁsthitāḥ |
 tathāstaraṇamukhyyeṣu saṁviṣṭāścāparāḥ striyaḥ ||
 
-=== meaning ===
-
----
 7.
 aṅganānāṁ sahasreṇa bhūṣitena vibhūṣaṇaiḥ |
 rūpasaṁlāpaśīlena yuktagītārthabhāṣiṇā ||
 
-=== meaning ===
-
----
 8.
 deśakālābhiyuktena yuktavākyābhidhāyinā |
 ratābhiratasaṁsuptaṁ dadarśa hariyūthapaḥ ||
 
-=== meaning ===
 9.
 anyatrāpi varastrīṇāṁ rūpasaṁlāpaśālinām |
 sahasraṁ yuvatīnāṁ tu prasuptaṁ sa dadarśa ha ||
 
-=== meaning ===
 10.
 tāsāṁ madhye mahābāhuḥ śuśubhe rākṣaseśvaraḥ |
 goṣṭhe mahati mukhyānāṁ gavāṁ madhye yathā vr̥ṣaḥ ||
 
-=== meaning ===
-
----
 11.
 sa rākṣasendraḥ śuśubhe tābhiḥ parivr̥taḥ svayam |
 kareṇubhiryathāraṇyaṁ parikīrṇo mahādvipaḥ ||
 
-=== meaning ===
-
----
 12.
 sarvakāmairupetāṁ ca pānabhūmiṁ mahātmanaḥ |
 dadarśa kapiśārdūlaḥ tasya rakṣaḥpatergr̥he ||
 
-=== meaning ===
-
----
 13.
 mr̥gāṇāṁ mahiṣāṇāṁ ca varāhāṇāṁ ca bhāgaśaḥ |
 tatra nyastāni māṁsāni pānabhūmau dadarśa saḥ ||
 
-=== meaning ===
-
----
 14.
 raukmeṣu ca viśaleṣu bhājaneṣv ardhabhakṣitān |
 dadarśa kapiśārdūla mayūrān kukkuṭāṁstathā ||
 
-=== meaning ===
-
----
 15.
 varāhavārdhrāṇasakān dadhisauvarcalāyutān |
 śalyān mr̥gamayūrāṁśca hanūmān anvavaikṣata ||
 
-=== meaning ===
-
----
 16.
 kr̥karān vividhān siddhāṁḥ cakorān ardhabhakṣitān |
 mahiṣān ekaśalyāṁśca chāgāṁśca kr̥taniṣṭhitān |
 
-
-=== meaning ===
-
----
 17.
 lekhyam uccāvacaṁ peyaṁ bhojyāni vividhāni ca ||
 tathāmlalavaṇottaṁsaiḥ vividhai rāgaṣāḍavaiḥ |
 
-
-=== meaning ===
-
----
 18.
-hāra nūpurakeyūraiḥ apaviddhairmahādhanaiḥ ||
-pānabhājanavikṣiptaiḥ phalaiśca vividhairapi |
+hāra nūpurakeyūraiḥ apaviddhairmahādhanaiḥ |
+pānabhājanavikṣiptaiḥ phalaiśca vividhairapi ||
 
-
-=== meaning ===
-
----
 19.
 kr̥tapuṣpopahārā bhūḥ adhikaṁ puṣyati śriyam |
 tatra tatra ca vinyastaiḥ suśliṣṭaiḥ śayanāsanaiḥ ||
 
-
-=== meaning ===
-
----
 20.
 pānabhūmirvinā vahniṁ pradīptevopalakṣyate |
 bahuprakārairvividhaiḥ varasaṁskārasaṁskr̥taiḥ ||
 
-
-=== meaning ===
-
----
 21.
 māṁsaiḥ kuśalasaṁyuktaiḥ pānabhūmigataiḥ pr̥thak |
 divyāḥ prasannā vividhāḥ surāḥ kr̥tasurā api ||
@@ -148,193 +88,108 @@ divyāḥ prasannā vividhāḥ surāḥ kr̥tasurā api ||
 śarkarāsavamādhvīkāḥ puṣpāsavaphalāsavāḥ |
 vāsacūrṇaiśca vividhaiḥ mr̥ṣṭāstaistaiḥ pr̥thakpr̥thak ||
 
-=== meaning ===
-
----
 23.
 saṁtatā śuśubhe bhūmiḥ mālyaiśca bahusaṁsthitaiḥ |
 hiraṇmayaiśca karakaiḥ bhājanaiḥ sphāṭikairapi ||
 
-
-=== meaning ===
-
----
 24.
 jāmbūnadamayaiścānyaiḥ karakairabhisaṁvr̥tā |
 rājateṣu ca kumbheṣu jāmbūnadamayeṣu ca ||
 
-
-=== meaning ===
-
----
 25.
 pānaśreṣṭhaṁ tadā bhūri kapistatra dadarśa ha |
 so ’paśyac chātakumbhāni śīdhormaṇimayāni ca ||
 
-
-=== meaning ===
-
----
 26.
 rājatāni ca pūrṇāni bhājanāni mahākapiḥ |
 kva cid ardhāvaśeṣāṇi kva cit pītāni sarvaśaḥ ||
 
-
-=== meaning ===
-
----
 27.
 kva cin naiva prapītāni pānāni sa dadarśa ha |
 kva cid bhakṣyāṁśca vividhān kva cit pānāni bhāgaśaḥ |
 kva cid annāvaśeṣāṇi paśyan vai vicacāra ha ||
 
-=== meaning ===
-
----
 28.
 kva cit prabhinnaiḥ karakaiḥ kva cid āloḍitairghaṭaiḥ |
 kva cit saṁpr̥ktamālyāni jalāni ca phalāni ca ||
 
-=== meaning ===
-
----
 29.
 śayanāny atra nārīṇāṁ śūnyāni bahudhā punaḥ |
 parasparaṁ samāśliṣya kāścit suptā varāṅganāḥ ||
 
-=== meaning ===
-
----
 30.
 kā cic ca vastram anyasyā apahr̥tyopaguhya ca |
 upagamyābalā suptā nidrābalaparājitā ||
 
-=== meaning ===
-
----
 31.
 tāsām ucchvāsavātena vastraṁ mālyaṁ ca gātrajam |
 nātyarthaṁ spandate citraṁ prāpya mandam ivānilam ||
 
-=== meaning ===
-
----
 32.
 candanasya ca śītasya śīdhormadhurasasya ca |
 vividhasya ca mālyasya puṣpasya vividhasya ca ||
 
-=== meaning ===
-
----
 33.
 bahudhā mārutastatra gandhaṁ vividham udvahan |
 snānānāṁ candanānāṁ ca dhūpānāṁ caiva mūrchitaḥ ||
 
-
-=== meaning ===
-
----
 34.
 pravavau surabhirgandhaḥ vimāne puṣpake tadā |
 śyāmāvadātāstatrānyāḥ kāścit kr̥ṣṇā varāṅganāḥ ||
 
-
-=== meaning ===
-
----
 35.
 kāścit kāñcanavarṇāṅgyaḥ pramadā rākṣasālaye |
 tāsāṁ nidrāvaśatvāc ca madanena vimūrchitam ||
 
-
-=== meaning ===
-
----
 36.
 padminīnāṁ prasuptānāṁ rūpam āsīd yathaiva hi |
 evaṁ sarvam aśeṣeṇa rāvaṇāntaḥpuraṁ kapiḥ |
 dadarśa sumahātejā na dadarśa ca jānakīm ||
 
-=== meaning ===
-
----
 37.
 nirīkṣamāṇaśca tataḥ tāḥ striyaḥ sa mahākapiḥ |
 jagāma mahatīṁ cintāṁ dharmasādhvasaśaṅkitaḥ ||
 
-=== meaning ===
-
----
 38.
 paradārāvarodhasya prasuptasya nirīkṣaṇam |
 idaṁ khalu mamātyarthaṁ dharmalopaṁ kariṣyati ||
 
-=== meaning ===
-
----
 39.
 na hi me paradārāṇāṁ dr̥ṣṭirviṣayavartinī |
 ayaṁ cātra mayā dr̥ṣṭaḥ paradāraparigrahaḥ ||
 
-=== meaning ===
-
----
 40.
 tasya prādurabhūc cintāpunar anyā manasvinaḥ |
 niścitaikāntacittasya kāryaniścayadarśinī ||
 
-=== meaning ===
-
----
 41.
 kāmaṁ dr̥ṣṭvā mayā sarvā viśvastā rāvaṇastriyaḥ |
 na tu me manasaḥ kiṁ cid vaikr̥tyam upapadyate ||
 
-=== meaning ===
-
----
 42.
 mano hi hetuḥ sarveṣām indriyāṇāṁ pravartate |
 śubhāśubhāsv avasthāsu tac ca me suvyavasthitam ||
 
-=== meaning ===
-
----
 43.
 nānyatra hi mayā śakyā vaidehī parimārgitum |
 striyo hi strīṣu dr̥śyante sadā saṁparimārgaṇe ||
 
-=== meaning ===
-
----
 44.
 yasya sattvasya yā yoniḥ tasyāṁ tat parimārgyate |
 na śakyaṁ pramadā naṣṭā mr̥gīṣu parimārgitum ||
 
-=== meaning ===
-
----
 45.
 tad idaṁ mārgitaṁ tāvac chuddhena manasā mayā |
 rāvaṇāntaḥpuraṁ saraṁ dr̥śyate na ca jānakī ||
 
-=== meaning ===
-
----
 46.
 devagandharvakanyāśca nāgakanyāśca vīryavān |
 avekṣamāṇo hanumān naivāpaśyata jānakīm ||
 
-=== meaning ===
-
----
 47.
 tām apaśyan kapistatra paśyaṁścānyā varastriyaḥ |
 apakramya tadā vīraḥ pradhyātum upacakrame ||
 
-=== meaning ===
-
----
 48.
 sa bhūyastu paraṁ śrīmān mārutiryatnamāsthitaḥ |
 āpānabhūmimutsṛjya tāṁ vicetuṁ pracakrame ||
