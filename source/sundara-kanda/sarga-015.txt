@@ -1,370 +1,166 @@
-=== Sarga 13 ===
-
----
+=== Sarga 15 ===
 1.
 sa vīkṣamāṇas tatrastho mārgamāṇaś ca maithilīm |
 avekṣamāṇaś ca mahīṁ sarvāṁ tām anvavaikṣata ||
-
-=== meaning ===
-
----
 2.
 santāna kalatābhiś ca pādapair upaśobhitām |
-divyagandharasopetāṁ sarvataḥ samalaṁkr̥tām ||
-
-=== meaning ===
-
----
+divyagandharasopetāṁ sarvataḥ samalaṅkr̥tām ||
 3.
-tāṁ sa nandanasaṁkāśāṁ mr̥gapakṣibhir āvr̥tām |
-harmyaprāsādasaṁbādhāṁ kokilākulaniḥsvanām ||
-
-=== meaning ===
-
----
+tāṁ sa nandanasaṅkāśāṁ mr̥gapakṣibhir āvr̥tām |
+harmyaprāsādasambādhāṁ kokilākulaniḥsvanām ||
 4.
 kāñcanotpalapadmābhir vāpībhir upaśobhitām |
 bahvāsanakuthopetāṁ bahubhūmigr̥hāyutām ||
-
-=== meaning ===
-
----
 5.
 sarvartukusumai ramyaiḥ phalavadbhiś ca pādapaiḥ |
 puṣpitānām aśokānāṁ śriyā sūryodayaprabhām ||
-
-=== meaning ===
-
----
 6.
 pradīptām iva tatrastho mārutiḥ samudaikṣata |
-niṣpatraśākhāṁ vihagaiḥ kriyamāṇām ivāsakr̥t |
-viniṣpatadbhiḥ śataśaś citraiḥ puṣpāvataṁsakaiḥ ||
-
-=== meaning ===
-
----
+niṣpatraśākhāṁ vihagaiḥ kriyamāṇām ivāsakr̥t ||
 7.
-āmūlapuṣpanicitair aśokaiḥ śokanāśanaiḥ |
-puṣpabhārātibhāraiś ca spr̥śadbhir iva medinīm ||
-
-=== meaning ===
-
----
+viniṣpatadbhiḥ śataśaś citraiḥ puṣpāvataṁsakaiḥ |
+āmūlapuṣpanicitair aśokaiḥ śokanāśanaiḥ ||
 8.
-karṇikāraiḥ kusumitaiḥ kiṁśukaiś ca supuṣpitaiḥ |
-sa deśaḥ prabhayā teṣāṁ pradīpta iva sarvataḥ ||
-
-=== meaning ===
-
----
+puṣpabhārātibhāraiś ca spr̥śadbhir iva medinīm |
+karṇikāraiḥ kusumitaiḥ kiṁśukaiś ca supuṣpitaiḥ ||
 9.
-puṁnāgāḥ saptaparṇāś ca campakoddālakās tathā |
-vivr̥ddhamūlā bahavaḥ śobhante sma supuṣpitāḥ ||
-
-=== meaning ===
-
----
+sa deśaḥ prabhayā teṣāṁ pradīpta iva sarvataḥ |
+punnāgāḥ saptaparṇāś ca campakoddālakās tathā ||
 10.
-śātakumbhanibhāḥ ke cit ke cid agniśikhopamāḥ |
-nīlāñjananibhāḥ ke cit tatrāśokāḥ sahasraśaḥ ||
-
-=== meaning ===
-
----
+vivr̥ddhamūlā bahavaḥ śobhante sma supuṣpitāḥ |
+śātakumbhanibhāḥ ke cit ke cid agniśikhopamāḥ ||
 11.
-nandanaṁ vividhodyānaṁ citraṁ caitrarathaṁ yathā |
-ativr̥ttam ivācintyaṁ divyaṁ ramyaṁ śriyā vr̥tam ||
-
-=== meaning ===
-
----
+nīlāñjananibhāḥ ke cit tatrāśokāḥ sahasraśaḥ |
+nandanaṁ vividhodyānaṁ citraṁ caitrarathaṁ yathā ||
 12.
-dvitīyam iva cākāśaṁ puṣpajyotirgaṇāyutam |
-puṣparatnaśataiś citraṁ pañcamaṁ sāgaraṁ yathā ||
-
-=== meaning ===
-
----
+ativr̥ttam ivācintyaṁ divyaṁ ramyaṁ śriyā vr̥tam |
+dvitīyam iva cākāśaṁ puṣpajyotirgaṇāyutam ||
 13.
-sarvartupuṣpair nicitaṁ pādapair madhugandhibhiḥ |
-nānāninādair udyānaṁ ramyaṁ mr̥gagaṇair dvijaiḥ ||
-
-=== meaning ===
-
----
+puṣparatnaśataiś citraṁ pañcamaṁ sāgaraṁ yathā |
+sarvartupuṣpair nicitaṁ pādapair madhugandhibhiḥ ||
 14.
+nānāninādair udyānaṁ ramyaṁ mr̥gagaṇair dvijaiḥ |
 anekagandhapravahaṁ puṇyagandhaṁ manoramam |
 śailendram iva gandhāḍhyaṁ dvitīyaṁ gandhamādanam ||
-
-=== meaning ===
-
----
 15.
-aśokavanikāyāṁ tu tasyāṁ vānarapuṁgavaḥ |
+aśokavanikāyāṁ tu tasyāṁ vānarapuṅgavaḥ |
 sa dadarśāvidūrasthaṁ caityaprāsādam ūrjitam ||
-
-=== meaning ===
-
----
 16.
 madhye stambhasahasreṇa sthitaṁ kailāsapāṇḍuram |
 pravālakr̥tasopānaṁ taptakāñcanavedikam ||
-
-=== meaning ===
-
----
 17.
 muṣṇantam iva cakṣūṁṣi dyotamānam iva śriyā |
 vimalaṁ prāṁśubhāvatvād ullikhantam ivāmbaram ||
-
-=== meaning ===
-
----
 18.
-tato malinasaṁvītāṁ rākṣasībhiḥ samāvr̥tām |
+tato malinasaṁvītāṁ rākṣasībhiḥ samāvr̥tām ||
+19.
 upavāsakr̥śāṁ dīnāṁ niḥśvasāntīṁ punaḥ punaḥ |
 dadarśa śuklapakṣādau candrarekhām ivāmalām ||
-
-=== meaning ===
-
----
-19.
+20.
 mandaprakhyāyamānena rūpeṇa ruciraprabhām |
 pinaddhāṁ dhūmajālena śikhām iva vibhāvasoḥ ||
-
-=== meaning ===
-
----
-20.
-pītenaikena saṁvītāṁ kliṣṭenottamavāsasā |
-sapaṅkām analaṁkārāṁ vipadmām iva padminīm ||
-
-=== meaning ===
-
----
 21.
-vrīḍitāṁ duḥkhasaṁtaptāṁ parimlānāṁ tapasvinīm |
-graheṇāṅgārakeṇaiva pīḍitām iva rohiṇīm ||
-
-=== meaning ===
-
----
+pītenaikena saṁvītāṁ kliṣṭenottamavāsasā |
+sapaṅkām analaṅkārāṁ vipadmām iva padminīm ||
 22.
+vrīḍitāṁ duḥkhasantaptāṁ parimlānāṁ tapasvinīm |
+graheṇāṅgārakeṇaiva pīḍitām iva rohiṇīm ||
+23.
 aśrupūrṇamukhīṁ dīnāṁ kr̥śām ananaśena ca |
 śokadhyānaparāṁ dīnāṁ nityaṁ duḥkhaparāyaṇām ||
-
-=== meaning ===
-
----
-23.
+24.
 priyaṁ janam apaśyantīṁ paśyantīṁ rākṣasīgaṇam |
 svagaṇena mr̥gīṁ hīnāṁ śvagaṇābhivr̥tām iva ||
-
-=== meaning ===
-
----
-24.
-nīlanāgābhayā veṇyā jaghanaṁ gatayaikayā |
-sukhārhāṁ duḥkhasaṁtaptāṁ vyasanānām akodivām ||
-
-=== meaning ===
-
----
 25.
-tāṁ samīkṣya viśālākṣīm adhikaṁ malināṁ kr̥śām |
-tarkayām āsa sīteti kāraṇair upapādibhiḥ ||
-
-=== meaning ===
-
----
+nīlanāgābhayā veṇyā jaghanaṁ gatayaikayā |
+nīlayā nīradāpāye vanarājya mahimiva||
 26.
-hriyamāṇā tadā tena rakṣasā kāmarūpiṇā |
-yathārūpā hi dr̥ṣṭā vai tathārūpeyam aṅganā ||
-
-=== meaning ===
-
----
+sukhārhāṁ duḥkhasantaptāṁ vyasanānām akodivām |
+tāṁ samīkṣya viśālākṣīm adhikaṁ malināṁ kr̥śām ||
 27.
-pūrṇacandrānanāṁ subhrūṁ cāruvr̥ttapayodharām |
-kurvantīṁ prabhayā devīṁ sarvā vitimirā diśaḥ ||
-
-=== meaning ===
-
----
+tarkayām āsa sīteti kāraṇair upapādibhiḥ |
+hriyamāṇā tadā tena rakṣasā kāmarūpiṇā ||
 28.
-tāṁ nīlakeśīṁ bimbauṣṭhīṁ sumadhyāṁ supratiṣṭhitām |
-sītāṁ padmapalāśākṣīṁ manmathasya ratiṁ yathā ||
-
-=== meaning ===
-
----
+yathārūpā hi dr̥ṣṭā vai tathārūpeyam aṅganā ||
+pūrṇacandrānanāṁ subhrūṁ cāruvr̥ttapayodharām |
 29.
-iṣṭāṁ sarvasya jagataḥ pūrṇacandraprabhām iva |
-bhūmau sutanum āsīnāṁ niyatām iva tāpasīm ||
-
-=== meaning ===
-
----
+kurvantīṁ prabhayā devīṁ sarvā vitimirā diśaḥ ||
+tāṁ nīlakeśīṁ bimbauṣṭhīṁ sumadhyāṁ supratiṣṭhitām |
 30.
-niḥśvāsabahulāṁ bhīruṁ bhujagendravadhūm iva |
-śokajālena mahatā vitatena na rājatīm ||
-
-=== meaning ===
-
----
+sītāṁ padmapalāśākṣīṁ manmathasya ratiṁ yathā ||
+iṣṭāṁ sarvasya jagataḥ pūrṇacandraprabhām iva |
 31.
-saṁsaktāṁ dhūmajālena śikhām iva vibhāvasoḥ |
-tāṁ smr̥tīm iva saṁdigdhām r̥ddhiṁ nipatitām iva ||
-
-=== meaning ===
-
----
+bhūmau sutanum āsīnāṁ niyatām iva tāpasīm ||
+niḥśvāsabahulāṁ bhīruṁ bhujagendravadhūm iva |
 32.
-vihatām iva ca śraddhām āśāṁ pratihatām iva |
-sopasargāṁ yathā siddhiṁ buddhiṁ sakaluṣām iva ||
-
-=== meaning ===
-
----
+śokajālena mahatā vitatena na rājatīm ||
+saṁsaktāṁ dhūmajālena śikhām iva vibhāvasoḥ |
 33.
-abhūtenāpavādena kīrtiṁ nipatitām iva |
-rāmoparodhavyathitāṁ rakṣoharaṇakarśitām ||
-
-=== meaning ===
-
----
+tāṁ smr̥tīm iva sandigdhām r̥ddhiṁ nipatitām iva ||
+vihatām iva ca śraddhām āśāṁ pratihatām iva |
 34.
-abalāṁ mr̥gaśāvākṣīṁ vīkṣamāṇāṁ tatas tataḥ |
+sopasargāṁ yathā siddhiṁ buddhiṁ sakaluṣām iva |
+abhūtenāpavādena kīrtiṁ nipatitām iva ||
+35.
+rāmoparodhavyathitāṁ rakṣoharaṇakarśitām |
+abalāṁ mr̥gaśāvākṣīṁ vīkṣamāṇāṁ tatas tataḥ ||
+36.
 bāṣpāmbupratipūrṇena kr̥ṣṇavaktrākṣipakṣmaṇā |
 vadanenāprasannena niḥśvasantīṁ punaḥ punaḥ ||
-
-=== meaning ===
-
----
-35.
+37.
 malapaṅkadharāṁ dīnāṁ maṇḍanārhām amaṇḍitām |
 prabhāṁ nakṣatrarājasya kālameghair ivāvr̥tām ||
-
-=== meaning ===
-
----
-36.
-tasya saṁdidihe buddhir muhuḥ sītāṁ nirīkṣya tu |
-āmnāyānām ayogena vidyāṁ praśithilām iva ||
-
-=== meaning ===
-
----
-37.
-duḥkhena bubudhe sītāṁ hanumān analaṁkr̥tām |
-saṁskāreṇa yathāhīnāṁ vācam arthāntaraṁ gatām ||
-
-=== meaning ===
-
----
 38.
+tasya sandidihe buddhir muhuḥ sītāṁ nirīkṣya tu |
+āmnāyānām ayogena vidyāṁ praśithilām iva ||
+39.
+duḥkhena bubudhe sītāṁ hanumān analaṅkr̥tām |
+saṁskāreṇa yathāhīnāṁ vācam arthāntaraṁ gatām ||
+40.
 tāṁ samīkṣya viśālākṣīṁ rājaputrīm aninditām |
 tarkayām āsa sīteti kāraṇair upapādayan ||
-
-=== meaning ===
-
----
-39.
+41.
 vaidehyā yāni cāṅgeṣu tadā rāmo ’nvakīrtayat |
 tāny ābharaṇajālāni gātraśobhīny alakṣayat ||
-
-=== meaning ===
-
----
-40.
+42.
 sukr̥tau karṇaveṣṭau ca śvadaṁṣṭrau ca susaṁsthitau |
 maṇividrumacitrāṇi hasteṣv ābharaṇāni ca ||
-
-=== meaning ===
-
----
-41.
+43.
 śyāmāni cirayuktatvāt tathā saṁsthānavanti ca |
 tāny evaitāni manye ’haṁ yāni rāmo ’vnakīrtayat ||
-
-=== meaning ===
-
----
-42.
+44.
 tatra yāny avahīnāni tāny ahaṁ nopalakṣaye |
 yāny asyā nāvahīnāni tānīmāni na saṁśayaḥ ||
-
-=== meaning ===
-
----
-43.
+45.
 pītaṁ kanakapaṭṭābhaṁ srastaṁ tad vasanaṁ śubham |
-uttarīyaṁ nagāsaktaṁ tadā dr̥ṣṭaṁ plavaṁgamaiḥ ||
-
-=== meaning ===
-
----
-44.
+uttarīyaṁ nagāsaktaṁ tadā dr̥ṣṭaṁ plavaṅgamaiḥ ||
+46.
 bhūṣaṇāni ca mukhyāni dr̥ṣṭāni dharaṇītale |
 anayaivāpaviddhāni svanavanti mahānti ca ||
-
-=== meaning ===
-
----
-45.
+47.
 idaṁ ciragr̥hītatvād vasanaṁ kliṣṭavattaram |
 tathā hi nūnaṁ tad varṇaṁ tathā śrīmad yathetarat ||
-
-=== meaning ===
-
----
-46.
+48.
 iyaṁ kanakavarṇāṅgī rāmasya mahiṣī priyā |
 pranaṣṭāpi satī yasya manaso na praṇaśyati ||
-
-=== meaning ===
-
----
-47.
+49.
 iyaṁ sā yat kr̥te rāmaś caturbhiḥ paritapyate |
 kāruṇyenānr̥śaṁsyena śokena madanena ca ||
-
-=== meaning ===
-
----
-48.
+50.
 strī pranaṣṭeti kāruṇyād āśritety ānr̥śaṁsyataḥ |
 patnī naṣṭeti śokena priyeti madanena ca ||
-
-=== meaning ===
-
----
-49.
+51.
 asyā devyā yathā rūpam aṅgapratyaṅgasauṣṭhavam |
 rāmasya ca yathārūpaṁ tasyeyam asitekṣaṇā ||
-
-=== meaning ===
-
----
-50.
+52.
 asyā devyā manas tasmiṁs tasya cāsyāṁ pratiṣṭhitam |
 teneyaṁ sa ca dharmātmā muhūrtam api jīvati ||
-
-=== meaning ===
-
----
-51.
+53.
+duṣkaraṁ kṛtavān rāmo hīno yadanayā prabhuḥ |
+dhārayatyātmano dehaṁ na śokenāvasīdati ||
+54.
 duṣkaraṁ kurute rāmo ya imāṁ mattakāśinīm |
 sītāṁ vinā mahābāhur muhūrtam api jīvati ||
-
-=== meaning ===
-
----
-52.
-evaṁ sītāṁ tadā dr̥ṣṭvā hr̥ṣṭaḥ pavanasaṁbhavaḥ |
+55.
+evaṁ sītāṁ tadā dr̥ṣṭvā hr̥ṣṭaḥ pavanasambhavaḥ |
 jagāma manasā rāmaṁ praśaśaṁsa ca taṁ prabhum ||
-
-=== meaning ===
-
----
