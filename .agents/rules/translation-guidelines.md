@@ -34,6 +34,74 @@ These rules apply whenever generating, editing, or reviewing English meanings/tr
 - **NEVER use web search or external sources to find translations.** Always generate the translations and meanings using internal intelligence, knowledge of the Rāmāyaṇa, and Sanskrit proficiency.
 - **Context Loading:** Before generating translations for a new sarga, always use the `view_file` tool to read the previous 1-2 completed sargas (including their meanings). This ensures the tone, rhythm, and narrative continuity remain perfectly consistent.
 
+## Epithet & Adjective Translation Framework
+
+### Governing Principle
+
+> **The epithet must land as poetry, not as anatomy.**
+
+Sanskrit *bahuvrīhi* compounds and vocative epithets are poetic devices that convey a single aesthetic impression (*rasa*). They must be rendered as **flowing English poetry**, never as mechanical compound-cracking or anatomical descriptions. If a phrase could appear in Fagles's *Iliad* or Heaney's *Beowulf* and feel natural, it passes. If it reads like a footnote or a medical report, it must be rewritten.
+
+### Banned Patterns
+
+| ❌ NEVER write | Why it fails |
+|---|---|
+| "beauty in every limb" | "limb" is clinical/anatomical; *aṅga* means form, feature, aspect |
+| "O lady with beautiful [body part]" | Mechanical compound-cracking; destroys poetic register |
+| Stacked vocatives: "O X! O Y! O Z!" | Reads like a checklist, not an incantation |
+| "one with [adjective] [body part]" | Footnote syntax, not epic poetry |
+| "limb" for *aṅga* | Always replace with "form," "feature," or restructure entirely |
+| "lady of auspicious limbs" for *suśroṇi* | Mistranslation — *suśroṇi* = "of graceful bearing/hips" |
+
+### Epithet Lookup Table
+
+Use Strategy 2 (Contextual Rendering) or Strategy 3 (Selective Preservation of Sanskrit Imagery) based on which produces the most natural English for the passage.
+
+| Sanskrit Epithet | ❌ Avoid | ✅ Preferred Renderings |
+|---|---|---|
+| *sarvāṅga sundarī* | "beauty in every limb" | "of faultless beauty" / "radiant in every way" / "flawless in every aspect" |
+| *suvibhaktāṅgī* | "beautifully proportioned limbs" | "of perfect form" / "exquisitely formed" |
+| *cārusmite* | "O lady with beautiful smile" | "bright-smiling one" / weave into sentence flow |
+| *cārudati* | "O lady with beautiful teeth" | fold into "radiance" or omit if stacked with other *cāru-* |
+| *cārunetre* | "O lady with beautiful eyes" | "enchanting one" / "luminous-eyed" |
+| *mṛganayanā / mṛgākṣī* | "O deer-eyed one" | "doe-eyed" (compound works in English) |
+| *padma/kamala-netrā* | "one with lotus eyes" | "lotus-eyed" (compound works in English) |
+| *viśālākṣī* | "one with large eyes" | "wide-eyed" / "the large-eyed princess" |
+| *suśroṇi* | "lady of auspicious limbs" | "graceful one" / "of graceful bearing" |
+| *subhru* | "O lady with beautiful eyebrows" | "fair-browed one" (compact compound) |
+| *tanvī / kṛśodarī* | "slender-bodied one" | "slender" / "the slender one" |
+| *varānane* | "O lady with an excellent face" | "fair-faced one" / "O radiant one" |
+| *śubhadarśane* | "O lady of auspicious appearance" | omit or weave: "there is no beauty to compare with yours" |
+| *asitakeśānte* | "O lady with beautiful dark hair" | "dark-tressed one" |
+| *vilāsinī* | "O charming lady" | "enchanting one" / "O enchanting one" |
+| *bhīru* | "O timid lady" | "shy one" / "O gentle one" (context-dependent) |
+| Stacked *cāru-* vocatives | "O lady with X! O lady with Y!" | Merge: "O enchanting one — your smile, your radiance, your eyes —" |
+
+### Speaker-Sensitive Voice
+
+The same epithet must **feel different** based on who speaks and when. Calibrate the emotional register:
+
+- **Rāvaṇa** addressing Sītā → **Intoxicated, obsessive, incantatory.** His epithets are weapons of seduction. Cascade them as a single wave, not a list. Use em-dashes to create breathless momentum.
+- **Hanumān** describing Sītā → **Reverent, grieving, awestruck.** He is witnessing a goddess in captivity. Epithets should be tender and restrained.
+- **Narrative voice** (poet's descriptions) → **Measured, majestic, epic.** The poet paints a scene. Epithets should feel like brushstrokes, not annotations.
+- **Rākṣasīs** taunting Sītā → **Crude, mocking, aggressive.** Their use of beauty-epithets is ironic — the translation should carry that edge.
+
+### Handling *aṅga* (अङ्ग)
+
+The Sanskrit word *aṅga* does NOT map to English "limb." It encompasses form, feature, aspect, part — a holistic concept. Apply these rules:
+
+1. **Never** translate *aṅga* as "limb" in beauty-epithets
+2. **Prefer** "form" or "feature" when a direct equivalent is needed
+3. **Best practice**: restructure the phrase entirely so *aṅga* disappears into natural English
+   - *mr̥duṣv aṅgeṣu* → "upon their soft forms" (not "on their tender limbs")
+   - *suvibhaktāṅgī* → "exquisitely formed" (not "with well-proportioned limbs")
+4. **Exception**: "limb" is acceptable ONLY for physical/anatomical contexts unrelated to beauty (e.g., a limb trembling from a blow, a severed limb in battle)
+
+### Reference Sarga
+
+**Sarga 20 (Sundara Kāṇḍa)** has been revised as the reference implementation of this framework. Consult it for tone, pacing, and epithet handling before translating any new sarga.
+
+
 ## Glossary Maintenance
 
 - The glossary lives at `qa-review/glossary-terms`.

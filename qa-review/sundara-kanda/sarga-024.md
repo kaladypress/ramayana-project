@@ -5,8 +5,8 @@
 tataḥ sītām upāgamya rākṣasyo vikr̥tānanāḥ |
 paruṣam paruṣā nārya ūcus tā vākyam apriyam ||
 
-> **Meaning 1:** Then, approaching Sītā, those Rākṣasīs of deformed faces, being
-> harsh-natured themselves, spoke these cruel and unpleasant words to the lady:
+> **Meaning 1:** Then, approaching Sītā, those deformed-faced
+> Rākṣasīs, harsh by nature, spoke these cruel and unpleasant words:
 
 ---
 2.
@@ -35,19 +35,19 @@ bhartāram upasaṅgamya viharasva yathāsukham ||
 mānuṣī mānuṣan tan tu rāmam icchasi śobhane |
 rājyād bhraṣṭam asiddhārthaṁ viklavan tam anindite ||
 
-> **Meaning 4-5:** "Having approached the Rākṣaseśvara, Rāvaṇa, the enjoyer of
-> the wealth of the three worlds, as your husband, sport with him according to
-> your pleasure! O beautiful one! Being a human woman, why do you desire that
-> human Rāma, who is fallen from his kingdom, whose purposes are unaccomplished,
-> and who is dejected, O blameless lady?"
+> **Meaning 4-5:** "Approach Rāvaṇa, the Rākṣaseśvara, the enjoyer of
+> the wealth of the three worlds, and take him as your husband — sport
+> with him as you please! Why do you, a mere human woman, still desire
+> that human Rāma — fallen from his kingdom, his purposes
+> unaccomplished, utterly dejected?"
 
 ---
 6.
 rākṣasīnāṁ vacaḥ śrutvā sītā padmanibhekṣaṇā |
 netrābhyām aśrupūrṇābhyām idaṁ vacanam abravīt ||
 
-> **Meaning 6:** Hearing the words of the Rākṣasīs, Sītā, whose eyes resembled
-> lotuses, with her eyes brimming with tears, spoke these words:
+> **Meaning 6:** Hearing the words of the Rākṣasīs, lotus-eyed Sītā,
+> her eyes brimming with tears, spoke:
 
 ---
 7.
@@ -130,25 +130,25 @@ neyam arhati bhartāraṁ rāvaṇaṁ rākṣasādhipam ||
 sā bhartsyamānā bhīmābhī rākṣasībhir varānanā |
 sā bāṣpam apamārjantī śiṁśapān tām upāgamat ||
 
-> **Meaning 17:** Being threatened by those terrifying Rākṣasīs, that lady of
-> beautiful face wiped away her tears and approached the Śiṁśapā tree.
+> **Meaning 17:** Threatened by those terrifying Rākṣasīs, that
+> fair-faced one wiped away her tears and approached the Śiṁśapā tree.
 
 ---
 18.
 tatas tāṁ śiṁśapāṁ sītā rākṣasībhiḥ samāvr̥tā |
 abhigamya viśālākṣī tasthau śokapariplutā ||
 
-> **Meaning 18:** Then, having approached that Śiṁśapā tree, Sītā, the
-> large-eyed one, surrounded by the Rākṣasīs, stood there completely overwhelmed
-> with sorrow.
+> **Meaning 18:** Then, having approached that Śiṁśapā tree, wide-eyed
+> Sītā, surrounded by the Rākṣasīs, stood there, engulfed in sorrow.
 
 ---
 19.
 tāṅ kr̥śān dīnavadanām malināmbaradhāriṇīm |
 bhartsayāñ cakrire bhīmā rākṣasyas tāḥ samantataḥ ||
 
-> **Meaning 19:** Those fearsome Rākṣasīs threatened her from all sides—her who
-> was emaciated, with a sorrowful face, wearing a soiled garment.
+> **Meaning 19:** Those fearsome Rākṣasīs threatened her from all
+> sides — emaciated as she was, her face drawn with sorrow, clad in a
+> soiled garment.
 
 ---
 20.
@@ -204,9 +204,9 @@ adya prabhr̥ti sarveṣāl lokānām īśvarī bhava ||
 agneḥ svāhā yathā devī śacīvendrasya śobhane |
 kin te rāmeṇa vaidehi kr̥paṇena gatāyuṣā ||
 
-> **Meaning 26:** "Just as the devatā Svāhā is to Agni, and Śacī is to Indra, O
-> beautiful one! What use to you is Rāma, a wretched man whose life is nearly
-> over, O Vaidehī?"
+> **Meaning 26:** "As the devatā Svāhā is to Agni, and Śacī to
+> Indra — what use is Rāma to you, O Vaidehī? A wretched man whose
+> life is nearly spent!"
 
 ---
 27.
@@ -277,8 +277,8 @@ sīte rākṣasarājena saha krīḍa yathāsukham |
 jānāsi hi yathā bhīru strīṇāṁ yauvanam adhruvam ||
 
 
-> **Meaning 34:** "O Sītā, sport happily with the king of the Rākṣasas! O timid
-> one, you surely know that the youth of women is fleeting!"
+> **Meaning 34:** "O Sītā, sport joyfully with the king of the
+> Rākṣasas! You surely know that the youth of women is fleeting!"
 
 ---
 35.
@@ -295,9 +295,9 @@ saha rākṣasarājena cara tvan madirekṣaṇe |
 strīsahasrāṇi te sapta vaśe sthāsyanti sundari ||
 
 
-> **Meaning 36:** "...roam in them with the king of the Rākṣasas, O lady with
-> intoxicating eyes! Seven thousand women shall remain under your submission, O
-> beautiful one!"
+> **Meaning 36:** "...roam in them with the king of the Rākṣasas, O
+> intoxicating-eyed one! Seven thousand women shall be under your
+> command!"
 
 ---
 37.
