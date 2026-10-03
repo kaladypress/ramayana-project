@@ -1,73 +1,82 @@
-=== Sarga 25 ===
+=== Sarga 27 ===
 
 ---
 1.
 ity uktāḥ sītayā ghoraṁ rākṣasyaḥ krodhamūrchitāḥ |
-kāś cij jagmus tad ākhyātuṁ rāvaṇasya tarasvinaḥ ||
+kāścij jagmustad ākhyātuṁ rāvaṇasya tarasvinaḥ ||
 
-=== meaning ===
+> **Meaning 1:** Having been spoken to thus in fearsome words
+> by Sītā, some of the Rākṣasīs, intoxicated with rage,
+> departed to report her defiance to the mighty Rāvaṇa.
 
 ---
 2.
 tataḥ sītām upāgamya rākṣasyo ghoradarśanāḥ |
 punaḥ paruṣam ekārtham anarthārtham athābruvan ||
 
-=== meaning ===
-
----
 3.
 hantedānīṁ tavānārye sīte pāpaviniścaye |
 rākṣasyo bhakṣayiṣyanti māṁsam etad yathāsukham ||
 
-=== meaning ===
+> **Meaning 2-3:** Then the terrifying Rākṣasīs approached Sītā again and
+> spoke harsh words aimed solely at her ruin: "Well then, you wretched and
+> wicked-minded Sītā! The Rākṣasīs will now feast on your flesh however they
+> please!"
 
 ---
 4.
-sītāṁ tābhir anāryābhir dr̥ṣṭvā saṁtarjitāṁ tadā |
+sītāṁ tābhiranāryābhiḥ dr̥ṣṭvā saṁtarjitāṁ tadā |
 rākṣasī trijaṭāvr̥ddhā śayānā vākyam abravīt ||
 
-=== meaning ===
+> **Meaning 4:** Seeing Sītā being thus threatened by those
+> ignoble Rākṣasīs, the aged Rākṣasī Trijaṭā, who had been
+> lying down, spoke these words:
 
 ---
 5.
 ātmānaṁ khādatānāryā na sītāṁ bhakṣayiṣyatha |
 janakasya sutām iṣṭāṁ snuṣāṁ daśarathasya ca ||
 
-=== meaning ===
+> **Meaning 5:** "Devour yourselves, O ignoble ones! You
+> shall not consume Sītā — the beloved daughter of Janaka
+> and the daughter-in-law of Daśaratha!"
 
 ---
 6.
-svapno hy adya mayā dr̥ṣṭo dāruṇo romaharṣaṇaḥ |
-rākṣasānām abhāvāya bhartur asyā bhavāya ca ||
+svapnaḥ hi adya mayā dr̥ṣṭaḥ dāruṇo romaharṣaṇaḥ |
+rākṣasānām abhāvāya bharturasyā bhavāya ca ||
 
-=== meaning ===
+> **Meaning 6:** "For I have seen a dream today — dreadful
+> and hair-raising — portending the destruction of the
+> Rākṣasas and the triumph of her husband!"
 
 ---
 7.
-evam uktās trijaṭayā rākṣasyaḥ krodhamūrchitāḥ |
-sarvā evābruvan bhītās trijaṭāṁ tām idaṁ vacaḥ ||
+evam uktāstrijaṭayā rākṣasyaḥ krodhamūrchitāḥ |
+sarvā evābruvan bhītāḥ trijaṭāṁ tām idaṁ vacaḥ ||
 
-=== meaning ===
+> **Meaning 7:** Hearing Trijaṭā speak thus, all those
+> Rākṣasīs — though intoxicated with anger — became
+> frightened and addressed her with these words:
 
 ---
 8.
-kathayasva tvayā dr̥ṣṭaḥ svapne ’yaṁ kīdr̥śo niśi ||
+kathayasva tvayā dr̥ṣṭaḥ svapne ayaṁ kīdr̥śo niśi |
+tāsāṁ śrutvā tu vacanaṁ rākṣasīnāṁ mukhodgatam ||
 
-=== meaning ===
-
----
 9.
-tāsāṁ śrutvā tu vacanaṁ rākṣasīnāṁ mukhodgatam |
-uvāca vacanaṁ kāle trijaṭāsvapnasaṁśritam ||
+uvāca vacanaṁ kāle trijaṭāsvapnasaṁśritam |
+gajadantamayīṁ divyāṁ śibikām antarikṣagām ||
 
-=== meaning ===
-
----
 10.
-gajadantamayīṁ divyāṁ śibikām antarikṣagām |
-yuktāṁ vājisahasreṇa svayam āsthāya rāghavaḥ ||
+yuktāṁ vājisahasreṇa svayam āsthāya rāghavaḥ |
+śuklamālyāṁbaradharō lakṣmaṇēna sahāgataḥ ||
 
-=== meaning ===
+> **Meaning 8-10:** "Tell us about this dream you had tonight — what was it
+> like?" Hearing the Rākṣasīs' words, Trijaṭā told them about the dream she had
+> seen at dawn: "I saw Rāghava wearing white garlands and white garments. He had
+> mounted a divine ivory palanquin that flies through the sky, drawn by a
+> thousand horses, and Lakṣmaṇa was with him."
 
 ---
 11.
@@ -75,196 +84,340 @@ svapne cādya mayā dr̥ṣṭā sītā śuklāmbarāvr̥tā |
 sāgareṇa parikṣiptaṁ śvetaparvatam āsthitā |
 rāmeṇa saṁgatā sītā bhāskareṇa prabhā yathā ||
 
-=== meaning ===
+> **Meaning 11:** "In my dream today, I saw Sītā dressed in white garments,
+> seated on a white mountain surrounded by the ocean. She was united with Rāma,
+> as inseparable from him as sunlight is from the sun."
 
 ---
 12.
-rāghavaś ca mayā dr̥ṣṭaś caturdantaṁ mahāgajam |
-ārūḍhaḥ śailasaṁkāśaṁ cacāra sahalakṣmaṇaḥ ||
+rāghavaśca mayā dr̥ṣṭaḥ caturdantaṁ mahāgajam ||
 
-=== meaning ===
-
----
 13.
-tatas tau naraśārdūlau dīpyamānau svatejasā |
-śuklamālyāmbaradharau jānakīṁ paryupasthitau ||
+ārūḍhaḥ śailasaṁkāśaṁ cacāra sahalakṣmaṇaḥ |
+tatastau naraśārdūlau dīpyamānau svatejasā ||
 
-=== meaning ===
-
----
 14.
-tatas tasya nagasyāgre ākāśasthasya dantinaḥ |
-bhartrā parigr̥hītasya jānakī skandham āśritā ||
+śuklamālyāmbaradharau jānakīṁ paryupasthitau |
+tatastasya nagasyāgre ākāśasthasya dantinaḥ ||
 
-=== meaning ===
-
----
 15.
-bhartur aṅkāt samutpatya tataḥ kamalalocanā |
-candrasūryau mayā dr̥ṣṭā pāṇibhyāṁ parimārjatī ||
+bhartrā parigr̥hītasya jānakī skandham āśritā |
+bharturaṅkāt samutpatya tataḥ kamalalocanā ||
 
-=== meaning ===
-
----
 16.
-tatas tābhyāṁ kumārābhyām āsthitaḥ sa gajottamaḥ |
+candrasūryau mayā dr̥ṣṭā pāṇibhyāṁ parimārjatī |
+tatastābhyāṁ kumārābhyām āsthitaḥ sa gajottamaḥ |
 sītayā ca viśālākṣyā laṅkāyā upari sthitaḥ ||
 
-=== meaning ===
+> **Meaning 12-16:** "I saw Rāghava, together with Lakṣmaṇa,
+> mounted upon a great four-tusked elephant, massive as a
+> mountain, roaming about. Then those two tigers among men,
+> blazing with their own splendour, wearing white garlands
+> and garments, approached Jānakī. Upon the summit of that
+> elephant, hovering in the sky, held by her husband, Jānakī
+> took her place on its shoulder. Then, leaping from her
+> husband's lap, I saw the lotus-eyed one touching the sun
+> and the moon with her two hands. That supreme elephant,
+> mounted by those two princes and wide-eyed Sītā, stood
+> poised above Laṅkā."
 
 ---
 17.
 pāṇḍurarṣabhayuktena rathenāṣṭayujā svayam |
-śuklamālyāmbaradharo lakṣmaṇena samāgataḥ |
+ihōpayātaḥ kākutsthaḥ sītayā saha bhāryayā ||
+
+18.
+śuklamālyāmbaradharaḥ lakṣmaṇena samāgataḥ |
 lakṣmaṇena saha bhrātrā sītayā saha bhāryayā ||
 
-=== meaning ===
-
----
-18.
-vimānāt puṣpakād adya rāvaṇaḥ patito bhuvi |
-kr̥ṣyapāṇaḥ striyā dr̥ṣṭo muṇḍaḥ kr̥ṣṇāmbaraḥ punaḥ ||
-
-=== meaning ===
+> **Meaning 17-18:** "Rāma, son of Raghu, himself came here in a
+> chariot yoked to eight white bulls, together with his wife
+> Sītā. Wearing white garlands and garments, joined by his
+> brother Lakṣmaṇa, he arrived with Lakṣmaṇa and with
+> his wife Sītā."
 
 ---
 19.
-rathena kharayuktena raktamālyānulepanaḥ |
-prayāto dakṣiṇām āśāṁ praviṣṭaḥ kardamaṁ hradam ||
+lakṣmaṇēna saha bhrātrā sītayā saha vīryavān |
+āruhya puṣpakaṁ divyaṁ vimānaṁ sūryasannibham ||
 
-=== meaning ===
-
----
 20.
-kaṇṭhe baddhvā daśagrīvaṁ pramadā raktavāsinī |
-kālī kardamaliptāṅgī diśaṁ yāmyāṁ prakarṣati ||
+uttarāṁ diśamālōkya jagāma puruṣōttamaḥ |
+ēvaṁ svapnē mayā dr̥ṣṭō rāmō viṣṇuparākramaḥ |
+lakṣmaṇēna saha bhrātrā sītayā saha bhāryayā || 20 ||
 
-=== meaning ===
-
----
 21.
-varāheṇa daśagrīvaḥ śiṁśumāreṇa cendrajit |
-uṣṭreṇa kumbhakarṇaś ca prayāto dakṣiṇāṁ diśam ||
+na hi rāmō mahātējāḥ śakyō jētuṁ surāsuraiḥ |
+rākṣasairvāpi cānyairvā svargaḥ pāpajanairiva || 21 ||
 
-=== meaning ===
+> **Meaning 19-21:** "The valiant one, together with his
+> brother Lakṣmaṇa and his wife Sītā, ascended the divine
+> Puṣpaka Vimāna, resplendent as the sun, and gazing toward
+> the northern direction, Puruṣōttama departed. Thus in my
+> dream I beheld Rāma, whose prowess equals that of Viṣṇu,
+> together with his brother Lakṣmaṇa and his wife Sītā.
+> Indeed, the supremely radiant Rāma cannot be conquered by
+> Suras or Asuras, by Rākṣasas or any others — just as
+> Svarga cannot be attained by the sinful."
 
 ---
 22.
-samājaś ca mahān vr̥tto gītavāditraniḥsvanaḥ |
-pibatāṁ raktamālyānāṁ rakṣasāṁ raktavāsasām ||
+rāvaṇaśca mayā dr̥ṣṭaḥ kṣitau tailasamukṣitaḥ ||
 
-=== meaning ===
-
----
 23.
-laṅkā ceyaṁ purī ramyā savājirathasaṁkulā |
-sāgare patitā dr̥ṣṭā bhagnagopuratoraṇā ||
+raktavāsāḥ pibanmattaḥ karavīrakr̥tasrajaḥ |
+vimānāt puṣpakād adya rāvaṇaḥ patito bhuvi ||
 
-=== meaning ===
+> **Meaning 22-23:** "I also saw Rāvaṇa, his body smeared
+> with oil, lying upon the ground. Clad in red garments,
+> drinking and intoxicated, wearing garlands of Karavīra
+> flowers — Rāvaṇa had fallen from the Puṣpaka Vimāna
+> to the earth."
 
 ---
 24.
-pītva tailaṁ pranr̥ttāś ca prahasantyo mahāsvanāḥ |
-laṅkāyāṁ bhasmarūkṣāyāṁ sarvā rākṣasayoṣitaḥ ||
+kr̥ṣyapāṇaḥ striyā dr̥ṣṭaḥ muṇḍaḥ kr̥ṣṇāmbaraḥ punaḥ |
+rathena kharayuktena raktamālyānulepanaḥ ||
 
-=== meaning ===
+> **Meaning 24:** "Then again he was seen being dragged by a
+> woman, his head shaven, clad in black garments, mounted
+> upon a chariot yoked to donkeys, wearing red garlands and
+> anointed with red unguents."
 
 ---
 25.
-kumbhakarṇādayaś ceme sarve rākṣasapuṁgavāḥ |
-raktaṁ nivasanaṁ gr̥hya praviṣṭā gomayahrade ||
+pibaṁstailaṁ hasan nr̥tyan bhrāṁtacittākulēṁdriyaḥ |
+gardabhēna yayau śīghraṁ dakṣiṇāṁ diśamāsthitaḥ ||
 
-=== meaning ===
-
----
 26.
-apagacchata naśyadhvaṁ sītām āpnoti rāghavaḥ |
-ghātayet paramāmarṣī sarvaiḥ sārdhaṁ hi rākṣasaiḥ ||
+punarēva mayā dr̥ṣṭō rāvaṇaḥ rākṣasēśvaraḥ |
+patitaḥ avākchirā bhūmau gardabhādbhayamōhitaḥ ||
 
-=== meaning ===
-
----
 27.
-priyāṁ bahumatāṁ bhāryāṁ vanavāsam anuvratām |
-bhartsitāṁ tarjitāṁ vāpi nānumaṁsyati rāghavaḥ ||
+sahasōtthāya saṁbhrāṁtō bhayārtaḥ madavihvalaḥ |
+unmatta iva digvāsāḥ durvākyaṁ pralapan bahu ||
 
-=== meaning ===
-
----
 28.
-tad alaṁ krūravākyair vaḥ sāntvam evābhidhīyatām |
-abhiyācāma vaidehīm etad dhi mama rocate ||
+durgaṁdhaṁ dussahaṁ ghōraṁ timiraṁ narakōpamam |
+malapaṁkaṁ praviśyāśu magnastatra sa rāvaṇaḥ ||
 
-=== meaning ===
-
----
 29.
-yasyā hy evaṁ vidhaḥ svapno duḥkhitāyāḥ pradr̥śyate |
-sā duḥkhair bahubhir muktā priyaṁ prāpnoty anuttamam ||
+prasthitaḥ dakṣiṇām āśāṁ praviṣṭaḥ kardamaṁ hradam |
+kaṇṭhe baddhvā daśagrīvaṁ pramadā raktavāsinī ||
 
-=== meaning ===
-
----
 30.
-bhartsitām api yācadhvaṁ rākṣasyaḥ kiṁ vivakṣayā |
-rāghavād dhi bhayaṁ ghoraṁ rākṣasānām upasthitam ||
+kālī kardamaliptāṅgī diśaṁ yāmyāṁ prakarṣati |
+ēvaṁ tatra mayā dr̥ṣṭaḥ kuṁbhakarṇō niśācaraḥ ||
 
-=== meaning ===
+> **Meaning 25-30:** "Drinking oil, laughing, dancing — his
+> mind deranged, his senses in disarray — he swiftly rode
+> a donkey toward the southern direction. Again I saw
+> Rāvaṇa, the Rākṣaseśvara, fallen headlong to the earth,
+> bewildered with terror from the donkey. Rising suddenly,
+> agitated, stricken with fear, reeling with intoxication,
+> like a madman, clad in nothing, babbling foul words —
+> he quickly entered a foul-smelling, unbearable, dreadful,
+> dark pit of filth, resembling Naraka, and sank into it.
+> Having set out toward the southern direction, he entered a
+> muddy pool. A woman clad in red, dark-complexioned, her
+> body smeared with mud, binding Daśagrīva by the neck, was
+> dragging him toward the direction of Yama. Thus was
+> Kumbhakarṇa, the night-stalker, also seen by me there."
 
 ---
 31.
-praṇipāta prasannā hi maithilī janakātmajā |
-alam eṣā paritrātuṁ rākṣasyo mahato bhayāt ||
+rāvaṇasya sutāssarvē dr̥ṣṭāstaila samukṣitāḥ |
+varāheṇa daśagrīvaḥ śiṁśumāreṇa cendrajit |
+uṣṭreṇa kumbhakarṇaśca prayāto dakṣiṇāṁ diśam ||
 
-=== meaning ===
+> **Meaning 31:** "All the sons of Rāvaṇa were seen smeared
+> with oil. Daśagrīva upon a boar, Indrajit upon a
+> crocodile, and Kumbhakarṇa upon a camel — all heading
+> toward the southern direction."
 
 ---
 32.
-api cāsyā viśālākṣyā na kiṁ cid upalakṣaye |
-viruddham api cāṅgeṣu susūkṣmam api lakṣmaṇam ||
+ēkastatra mayā dr̥ṣṭaḥ śvētacchatrō vibhīṣaṇaḥ ||
 
-=== meaning ===
-
----
 33.
-chāyā vaiguṇya mātraṁ tu śaṅke duḥkham upasthitam |
-aduḥkhārhām imāṁ devīṁ vaihāyasam upasthitām ||
+śuklamālyāṁbaradharaḥ śuklagaṁdhānulēpanaḥ |
+śaṁkhaduṁdhubhinirghōṣaiḥ nr̥ttagītairalaṁkr̥taḥ ||
 
-=== meaning ===
-
----
 34.
-arthasiddhiṁ tu vaidehyāḥ paśyāmy aham upasthitām |
-rākṣasendravināśaṁ ca vijayaṁ rāghavasya ca ||
+āruhya śailasaṁkāśaṁ mēghastanitanissvanam |
+caturdaṁtaṁ gajaṁ divyaṁ āstē tatra vibhīṣaṇaḥ ||
 
-=== meaning ===
-
----
 35.
-nimittabhūtam etat tu śrotum asyā mahat priyam |
-dr̥śyate ca sphurac cakṣuḥ padmapatram ivāyatam ||
+caturbhi ssacivaissārthaṁ vaihāyasamupasthitaḥ ||
 
-=== meaning ===
-
----
 36.
-īṣac ca hr̥ṣito vāsyā dakṣiṇāyā hy adakṣiṇaḥ |
-akasmād eva vaidehyā bāhur ekaḥ prakampate ||
+samājaśca mahān vr̥ttaḥ gītavāditraniḥsvanaḥ |
+pibatāṁ raktamālyānāṁ rakṣasāṁ raktavāsasām ||
 
-=== meaning ===
+> **Meaning 32-36:** "But one alone was seen by me there —
+> Vibhīṣaṇa, under a white parasol. Wearing white garlands
+> and garments, anointed with white sandal paste, adorned
+> with the resounding of conches and drums and with dance and
+> song — Vibhīṣaṇa sat upon a divine four-tusked elephant,
+> massive as a mountain, thundering like a cloud. Accompanied
+> by four ministers, he hovered in the sky. A grand assembly
+> had gathered, resounding with music and instruments, of
+> Rākṣasas wearing red garlands and red garments, drinking."
 
 ---
 37.
-kareṇuhastapratimaḥ savyaś corur anuttamaḥ |
-vepan sūcayatīvāsyā rāghavaṁ purataḥ sthitam ||
+laṅkā ceyaṁ purī ramyā savājirathasaṁkulā |
+sāgare patitā dr̥ṣṭā bhagnagopuratoraṇā ||
 
-=== meaning ===
+> **Meaning 37:** "This beautiful city of Laṅkā, teeming
+> with horses and chariots, was seen fallen into the ocean,
+> its gateways and arches shattered."
 
 ---
 38.
-pakṣī ca śākhā nilayaṁ praviṣṭaḥ; punaḥ punaś cottamasāntvavādī |
-sukhāgatāṁ vācam udīrayāṇaḥ; punaḥ punaś codayatīva hr̥ṣṭaḥ ||
+laṁkā dr̥ṣṭā mayā svapnē rāvaṇēnābhirakṣitā |
+dagdhā rāmasya dūtēna vānarēṇa tarasvinā ||
 
-=== meaning ===
+39.
+pītva tailaṁ pranr̥ttāśca prahasantyo mahāsvanāḥ |
+laṅkāyāṁ bhasmarūkṣāyāṁ sarvā rākṣasayoṣitaḥ ||
+
+> **Meaning 38-39:** "In my dream, I saw the Laṅkā
+> protected by Rāvaṇa — set ablaze by a swift Vānara. In that Laṅkā, reduced to rough
+> ashes, all the Rākṣasa women had drunk oil and were
+> dancing wildly, laughing aloud with terrible cries."
+
+---
+40.
+kumbhakarṇādayaśceme sarve rākṣasapuṁgavāḥ |
+raktaṁ nivasanaṁ gr̥hya praviṣṭā gomayahrade ||
+
+> **Meaning 40:** "All the foremost Rākṣasas — Kumbhakarṇa
+> and the rest — wearing red garments, had entered a pool
+> of cow dung."
+
+---
+41.
+apagacchata naśyadhvaṁ sītām āpnoti rāghavaḥ |
+ghātayet paramāmarṣī sarvaiḥ sārdhaṁ hi rākṣasaiḥ ||
+
+> **Meaning 41:** "Begone! Perish! Rāghava shall recover
+> Sītā. That supremely wrathful one will slay all the
+> Rākṣasas together."
+
+---
+42.
+priyāṁ bahumatāṁ bhāryāṁ vanavāsam anuvratām |
+bhartsitāṁ tarjitāṁ vāpi nānumaṁsyati rāghavaḥ ||
+
+> **Meaning 42:** "His beloved and highly esteemed wife, who
+> followed him loyally into the forest exile — whether
+> she is rebuked or threatened — Rāghava will never
+> forgive it."
+
+---
+43.
+tad alaṁ krūravākyairvaḥ sāntvam evābhidhīyatām |
+abhiyācāma vaidehīm etad dhi mama rocate ||
+
+> **Meaning 43:** "Therefore, enough of your cruel words! Let
+> only soothing words be spoken. Let us entreat Vaidehī —
+> this is what I advise."
+
+---
+44.
+yasyā hy evaṁ vidhaḥ svapnaḥ duḥkhitāyāḥ pradr̥śyate |
+sā duḥkhairbahubhirmuktā priyaṁ prāpnoty anuttamam ||
+
+> **Meaning 44:** "When a dream like this is seen about a woman in sorrow, she will be freed from all her suffering and attain supreme happiness."
+
+---
+45.
+bhartsitām api yācadhvaṁ rākṣasyaḥ kiṁ vivakṣayā |
+rāghavād dhi bhayaṁ ghoraṁ rākṣasānām upasthitam ||
+
+> **Meaning 45:** "Even though she has been threatened,
+> entreat her, O Rākṣasīs — what more is there to say?
+> For a terrible fear from Rāghava looms over all the
+> Rākṣasas."
+
+---
+46.
+praṇipāta prasannā hi maithilī janakātmajā |
+alam eṣā paritrātuṁ rākṣasyo mahato bhayāt ||
+
+> **Meaning 46:** "Maithilī, the daughter of Janaka, is
+> gracious when approached with humility. She alone is
+> capable of saving us Rākṣasīs from that great terror."
+
+---
+47.
+api cāsyā viśālākṣyā na kiṁ cid upalakṣaye |
+viruddham api cāṅgeṣu susūkṣmam api lakṣmaṇam ||
+
+> **Meaning 47:** "Moreover, I do not see even the slightest inauspicious mark
+> anywhere on the body of this wide-eyed princess."
+
+---
+48.
+chāyā vaiguṇya mātraṁ tu śaṅke duḥkham upasthitam |
+aduḥkhārhām imāṁ devīṁ vaihāyasam upasthitām ||
+
+> **Meaning 48:** "I suspect her suffering is merely a passing
+> shadow of ill fortune. This divine lady, who does not
+> deserve grief, is destined for an exalted state."
+
+---
+49.
+arthasiddhiṁ tu vaidehyāḥ paśyāmy aham upasthitām |
+rākṣasendravināśaṁ ca vijayaṁ rāghavasya ca ||
+
+> **Meaning 49:** "I foresee the fulfilment of Vaidehī's
+> purpose drawing near — along with the destruction of the
+> Rākṣasendra and the victory of Rāghava."
+
+---
+50.
+nimittabhūtam etat tu śrotum asyā mahat priyam |
+dr̥śyate ca sphurac cakṣuḥ padmapatram ivāyatam ||
+
+> **Meaning 50:** "This is an omen indicating that she will
+> soon hear tidings of great joy. See how her eye, broad as
+> a lotus petal, is quivering!"
+
+---
+51.
+īṣac ca hr̥ṣito vāsyā dakṣiṇāyā hy adakṣiṇaḥ |
+akasmād eva vaidehyā bāhurekaḥ prakampate ||
+
+52.
+kareṇuhastapratimaḥ savyaścoruranuttamaḥ |
+vepan sūcayatīvāsyā rāghavaṁ purataḥ sthitam ||
+
+> **Meaning 51-52:** "The inauspicious right side of her
+> garment is slightly ruffled. Suddenly, one arm of
+> Vaidehī's trembles of its own accord. And her left thigh,
+> exquisite as the trunk of a she-elephant — quivering, it
+> seems to herald that Rāghava stands before her."
+
+---
+53.
+pakṣī ca śākhā nilayaṁ praviṣṭaḥ punaḥ punaścottamasāntvavādī |
+sukhāgatāṁ vācam udīrayāṇaḥ punaḥ punaścodayatīva hr̥ṣṭaḥ ||
+
+> **Meaning 53:** "A bird has entered its nest on a branch and is singing sweetly
+> again and again. It seems to comfort her and joyously urge her on, as if to
+> say, 'Sītā, do not fear! Rāma is right before you—speak words of welcome to
+> him!'"
+
+---
+
+54.
+tatassā hrīmatī bālā bharturvijayaharṣitā |
+avōcadyadi tattathyaṁ bhavēyaṁ śaraṇaṁ hi vaḥ ||
+
+> **Meaning 54:** Then Sītā, that modest young woman, elated at the prospect of
+> her husband's victory, spoke: "If this dream proves true, I will indeed be a
+> refuge for all of you."
 
 ---

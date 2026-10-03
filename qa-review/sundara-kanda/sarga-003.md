@@ -193,7 +193,7 @@ sā tu tēna prahārēṇa vihvalāṁgī niśācarī |
 papāta sahasā bhūmau vikr̥tānanadarśanā |
 tatastu hanumān prājñaḥ tāṁ dr̥ṣṭvā vinipātitām ||
 
-> **Meaning 38-42:** Letting out a terrifying roar, Laṅkā forcefully struck Hanumān with her palm. Deeply struck by Laṅkā, the valiant son of Vāyu, roared a mighty roar. Then, filled with anger, Hanumān folded the fingers of his left hand into a fist and struck her. However, considering her to be a woman, he intentionally restrained his full anger. Struck by that blow, the night-wandering demoness with a deformed face became overwhelmed, her limbs trembling, and she suddenly collapsed to the ground.
+> **Meaning 38-42:** Letting out a terrifying roar, Laṅkā forcefully struck Hanumān with her palm. Deeply struck by Laṅkā, the valiant son of Vāyu, roared a mighty roar. Then, filled with anger, Hanumān folded the fingers of his left hand into a fist and struck her. However, considering her to be a woman, he intentionally restrained his full anger. Struck by that blow, the night-wandering demoness with a deformed face became overwhelmed, her whole body trembling, and she suddenly collapsed to the ground.
 ---
 
 43.

@@ -15,7 +15,10 @@ const sargaNum = sargaArg.padStart(3, '0');
 
 // Paths setup
 const inputDir = path.join(__dirname, 'qa-review', kandaArg);
-const inputPath = path.join(inputDir, `sarga-${sargaNum}.md`);
+let inputPath = path.join(inputDir, `sarga-${sargaNum}.md`);
+if (!fs.existsSync(inputPath)) {
+    inputPath = path.join(inputDir, `sarga-${sargaNum}.txt`);
+}
 
 // Map kanda name for source directory (e.g., 'sundara-kanda' -> 'sundarakanda')
 const sourceKandaName = kandaArg.replace('-', '');

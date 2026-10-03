@@ -22,9 +22,8 @@ mahārhaśayanopete na vāsam anumanyase ||
 mānuṣī mānuṣasyaiva bhāryātvaṁ bahu manyase |
 pratyāhara mano rāmān na tvaṁ jātu bhaviṣyasi ||
 
-> **Meaning 3:** "Being a human woman yourself, you hold the wifehood of a mere
-> human in high esteem! Withdraw your mind from Rāma, for you shall never become
-> his again!"
+> **Meaning 3:** "You are human, and you think so highly of being the wife of
+> a mere human! Take your mind off Rāma — you will never be his again!"
 
 ---
 4.
@@ -35,11 +34,10 @@ bhartāram upasaṅgamya viharasva yathāsukham ||
 mānuṣī mānuṣan tan tu rāmam icchasi śobhane |
 rājyād bhraṣṭam asiddhārthaṁ viklavan tam anindite ||
 
-> **Meaning 4-5:** "Approach Rāvaṇa, the Rākṣaseśvara, the enjoyer of
-> the wealth of the three worlds, and take him as your husband — sport
-> with him as you please! Why do you, a mere human woman, still desire
-> that human Rāma — fallen from his kingdom, his purposes
-> unaccomplished, utterly dejected?"
+> **Meaning 4-5:** "Go to Rāvaṇa, the Rākṣaseśvara, who enjoys the wealth of
+> the three worlds. Make him your husband and live as you please! Beautiful,
+> flawless one — you're human, so you want Rāma, who is only human. But he has
+> lost his kingdom, failed in all his plans, and is completely broken."
 
 ---
 6.
@@ -54,8 +52,8 @@ netrābhyām aśrupūrṇābhyām idaṁ vacanam abravīt ||
 yad idaṁ lokavidviṣṭam udāharatha saṅgatāḥ |
 naitan manasi vākyam me kilbiṣam pratitiṣṭhati ||
 
-> **Meaning 7:** "What you all, gathered here together, are uttering is despised
-> by the world. These sinful words of yours do not find a place in my mind."
+> **Meaning 7:** "What you are all saying together is something the whole world
+> despises. Your sinful words will never take hold in my mind."
 
 ---
 8.
@@ -63,8 +61,8 @@ na mānuṣī rākṣasasya bhāryā bhavitum arhati |
 kāmaṅ khādata mān sarvā na kariṣyāmi vo vacaḥ ||
 
 
-> **Meaning 8:** "A human woman can never become the wife of a Rākṣasa. You may
-> all eat me if you wish, but I will not do your bidding."
+> **Meaning 8:** "A human woman cannot become the wife of a Rākṣasa. Eat me, all
+> of you, if you want to — I will not do what you say."
 
 ---
 9.
@@ -72,9 +70,8 @@ dīno vā rājyahīno vā yo me bhartā sa me guruḥ |
 tan nityam anuraktāsmi yathā sūryaṁ suvarcalā || 
 
 
-> **Meaning 9:** "Whether he is wretched or devoid of a kingdom, he who is my
-> husband is my revered guru. I am eternally devoted to him, just as Suvarcalā
-> is to the Sun god."
+> **Meaning 9:** "Whether he is in misery or has lost his kingdom, my husband is
+> my guru. I am always devoted to him, just as Suvarcalā is devoted to Sūrya."
 
 ---
 10.
@@ -98,97 +95,95 @@ bhartsayanti sma paruṣair vākyai rāvaṇacoditāḥ ||
 avalīnaḥ sa nirvākyo hanumāñ śiṁśapādrume |
 sītāṁ santarjayantīs tā rākṣasīr aśr̥ṇot kapiḥ ||
 
-> **Meaning 10-14:** "Just as the highly fortunate Śacī attends upon Śakra; just
-> as Arundhatī is devoted to Vasiṣṭha, and Rohiṇī to the Moon god; just as
-> Lopāmudrā serves Agastya, and Sukanyā serves Cyavana; just as Sāvitrī serves
-> Satyavān, and Śrīmatī serves Kapila; just as Madayantī is devoted to Saudāsa,
-> Keśinī to Sagara, and Bhaimī is devoted to her husband Naiṣadha—in the same
-> way, I am devoted to my husband Rāma, the foremost of the Ikṣvākus." Hearing
-> Sītā's words, the Rākṣasīs, intoxicated with anger and spurred on by Rāvaṇa,
-> fiercely threatened her with harsh words. Hanumān, the Vānara, hiding
-> motionless and speechless in the Śiṁśapā tree, heard those Rākṣasīs
-> threatening Sītā.
+> **Meaning 10-14:** "Just as the blessed Śacī stands by Indra, as Arundhatī
+> stands by Vasiṣṭha and Rohiṇī by the Moon, as Lopāmudrā stands by Agastya,
+> Sukanyā by Cyavana, Sāvitrī by Satyavān and Śrīmatī by Kapila, as Madayantī
+> stands by Saudāsa, Keśinī by Sagara, and Damayantī, daughter of Bhīma, by her
+> husband Naiṣadha — so I stand faithfully by my husband Rāma, the best of the
+> Ikṣvākus."
+> When the Rākṣasīs heard Sītā's words, they were beside themselves with rage.
+> Urged on by Rāvaṇa, they turned on her with harsh, threatening words. Hanumān, hiding quietly in the Śiṁśapā tree, heard every threat they made against Sītā.
 
 ---
 15.
 tām abhikramya saṁrabdhā vepamānāṁ samantataḥ |
 bhr̥śaṁ saṁlilihur dīptān pralambadaśanacchadān ||
 
-> **Meaning 15:** Enraged, they surrounded her from all sides as she trembled,
-> fiercely licking their blazing, pendulous lips.
+> **Meaning 15:** Furious, they surrounded the trembling Sītā from every side,
+> smacking their red, hanging lips as if they were about to devour her.
 
 ---
 16.
 ūcuś ca paramakruddhāḥ pragr̥hyāśu paraśvadhān |
 neyam arhati bhartāraṁ rāvaṇaṁ rākṣasādhipam ||
 
-> **Meaning 16:** Extremely enraged, quickly seizing their battle-axes, they
-> declared: "She does not deserve the Rākṣasādhipa, Rāvaṇa, as her husband!"
+> **Meaning 16:** Wild with rage, they quickly grabbed their axes and said,
+> "She doesn't deserve Rāvaṇa, the Rākṣasādhipa, for a husband!"
 
 ---
 17.
 sā bhartsyamānā bhīmābhī rākṣasībhir varānanā |
 sā bāṣpam apamārjantī śiṁśapān tām upāgamat ||
 
-> **Meaning 17:** Threatened by those terrifying Rākṣasīs, that
-> fair-faced one wiped away her tears and approached the Śiṁśapā tree.
+> **Meaning 17:** With those terrifying Rākṣasīs threatening her, the
+> fair-faced princess wiped away her tears and moved toward the Śiṁśapā tree.
 
 ---
 18.
 tatas tāṁ śiṁśapāṁ sītā rākṣasībhiḥ samāvr̥tā |
 abhigamya viśālākṣī tasthau śokapariplutā ||
 
-> **Meaning 18:** Then, having approached that Śiṁśapā tree, wide-eyed
-> Sītā, surrounded by the Rākṣasīs, stood there, engulfed in sorrow.
+> **Meaning 18:** Still surrounded by the Rākṣasīs, Sītā reached the Śiṁśapā
+> tree. The wide-eyed princess stood there, overwhelmed with grief.
 
 ---
 19.
 tāṅ kr̥śān dīnavadanām malināmbaradhāriṇīm |
 bhartsayāñ cakrire bhīmā rākṣasyas tāḥ samantataḥ ||
 
-> **Meaning 19:** Those fearsome Rākṣasīs threatened her from all
-> sides — emaciated as she was, her face drawn with sorrow, clad in a
-> soiled garment.
+> **Meaning 19:** She was thin, her face worn with misery, her clothes soiled —
+> and the fearsome Rākṣasīs crowded around her, threatening her from every side.
 
 ---
 20.
 tatas tāṁ vinatā nāma rākṣasī bhīmadarśanā |
 abravīt kupitākārā karālā nirṇatodarī ||
 
-> **Meaning 20:** Then, a Rākṣasī named Vinatā, of terrifying appearance,
-> looking furious, fearsome, with a protruding belly, spoke to her:
+> **Meaning 20:** Then a Rākṣasī named Vinatā spoke to her. She was frightening
+> to look at — hideous, with a sagging belly, her face twisted with anger.
 
 ---
 21.
 sīte paryāptam etāvad bhartr̥sneho nidarśitaḥ |
 sarvatrātikr̥tam bhadre vyasanāyopakalpate ||
 
-> **Meaning 21:** "O Sītā! The love you have shown for your husband thus far is
-> sufficient. O good lady! Anything done in excess will only lead to disaster."
+> **Meaning 21:** "Sītā, you've shown enough love for your husband. Too much of
+> anything, my dear, only leads to ruin."
 
 ---
 22.
 parituṣṭāsmi bhadran te mānuṣas te kr̥to vidhiḥ |
 mamāpi tu vacaḥ pathyam bruvantyāḥ kuru maithili ||
 
-> **Meaning 22:** "I am highly pleased; may good betide you. You have performed
-> your duty as a human. Now, O Maithilī, heed my wholesome words."
+> **Meaning 22:** "I'm pleased with you — good for you. You've done what a human
+> wife is expected to do. But now, Maithilī, take my advice. It's for your own
+> good."
 
 ---
 23.
 rāvaṇam bhaja bhartāram bhartāraṁ sarvarakṣasām |
 vikrāntan rūpavantañ ca sureśam iva vāsavam ||
 
-> **Meaning 23:** "Accept Rāvaṇa, the king of all Rākṣasas, as your husband. He
-> is valiant, handsome, and resembles Vāsava, the Sureśa."
+> **Meaning 23:** "Take Rāvaṇa as your husband — he is the master of all the
+> Rākṣasas. He is brave and handsome, and enjoys luxuries like Indra."
 
 ---
 24.
 dakṣiṇan tyāgaśīlañ ca sarvasya priyavādinam |
 mānuṣaṅ kr̥paṇan rāmaṁ tyaktvā rāvaṇam āśraya ||
 
-> **Meaning 24:** "He is generous, charitable, and speaks kindly to everyone.
-> Abandoning that wretched human Rāma, take refuge in Rāvaṇa!"
+> **Meaning 24:** "He is considerate and generous, and he speaks kindly to
+> everyone. Leave that pitiful human Rāma and turn to Rāvaṇa!"
 
 ---
 25.
@@ -196,33 +191,33 @@ divyāṅgarāgā vaidehi divyābharaṇabhūṣitā |
 adya prabhr̥ti sarveṣāl lokānām īśvarī bhava ||
 
 
-> **Meaning 25:** "Adorned with divine cosmetics and divine ornaments, O
-> Vaidehī, from today onwards become the sovereign goddess of all the worlds!"
+> **Meaning 25:** "Vaidehī, wear divine perfumes and divine jewels, and from
+> today on, be queen of all the worlds!"
 
 ---
 26.
 agneḥ svāhā yathā devī śacīvendrasya śobhane |
 kin te rāmeṇa vaidehi kr̥paṇena gatāyuṣā ||
 
-> **Meaning 26:** "As the devatā Svāhā is to Agni, and Śacī to
-> Indra — what use is Rāma to you, O Vaidehī? A wretched man whose
-> life is nearly spent!"
+> **Meaning 26:** "Be to him what the devī Svāhā is to Agni and Śacī is to
+> Indra, beautiful one! What do you want with Rāma, Vaidehī? He's pitiful, and
+> his days are numbered."
 
 ---
 27.
 etad uktañ ca me vākyan yadi tvaṁ na kariṣyasi |
 asmin muhūrte sarvās tvām bhakṣayiṣyāmahe vayam ||
 
-> **Meaning 27:** "If you do not follow these words spoken by me, at this very
-> moment we will all devour you."
+> **Meaning 27:** "If you don't do what I've told you, we will all eat you
+> right now."
 
 ---
 28.
 anyā tu vikaṭā nāma lambamānapayodharā |
 abravīt kupitā sītām muṣṭim udyamya garjatī ||
 
-> **Meaning 28:** Another Rākṣasī named Vikaṭā, with pendulous breasts, raising
-> her fist and roaring in anger, spoke to Sītā:
+> **Meaning 28:** Then another Rākṣasī, Vikaṭā, whose breasts hung low, raised
+> her fist and roared at Sītā in anger:
 
 ---
 29.
@@ -230,8 +225,8 @@ bahūny apratirūpāṇi vacanāni sudurmate |
 anukrośān mr̥dutvāc ca soḍhāni tava maithili ||
 
 
-> **Meaning 29:** "O very wicked one! O Maithilī! Out of my compassion and
-> gentleness, many of your improper words have been endured."
+> **Meaning 29:** "You wicked-minded Maithilī! We've put up with a lot of your
+> insolent talk, because we felt sorry for you and went easy on you."
 
 ---
 30.
@@ -239,9 +234,9 @@ na ca naḥ kuruṣe vākyaṁ hitaṅ kālapuraskr̥tam |
 ānītāsi samudrasya pāram anyair durāsadam ||
 
 
-> **Meaning 30:** "You do not heed our beneficial words spoken at the
-> appropriate time. You have been brought across the ocean, which is utterly
-> unapproachable by others."
+> **Meaning 30:** "But you won't listen to our advice, even though it's for your
+> good and comes at the right time. You've been brought across the ocean, to a
+> place no one else can reach."
 
 ---
 31.
@@ -249,8 +244,8 @@ rāvaṇāntaḥpuraṅ ghoram praviṣṭā cāsi maithili |
 rāvaṇasya gr̥he rudhā asmābhis tu surakṣitā ||
 
 
-> **Meaning 31:** "O Maithilī! You have entered the formidable inner apartments
-> of Rāvaṇa. Confined in Rāvaṇa's house, you are securely guarded by us."
+> **Meaning 31:** "Maithilī, you're inside Rāvaṇa's fearsome private palace now.
+> You're shut away in his house, and we're guarding you closely."
 
 ---
 32.
@@ -258,8 +253,8 @@ na tvāṅ śaktaḥ paritrātum api sākṣāt purandaraḥ |
 kuruṣva hitavādinyā vacanam mama maithili ||
 
 
-> **Meaning 32:** "Not even Purandara himself is capable of rescuing you! O
-> Maithilī, heed the words of me who speaks for your benefit!"
+> **Meaning 32:** "Not even Indra himself could rescue you! So listen to me,
+> Maithilī — I'm telling you this for your own good."
 
 ---
 33.
@@ -267,9 +262,8 @@ alam aśruprapātena tyaja śokam anarthakam |
 bhaja prītim praharṣañ ca tyajaitān nityadainyatām ||
 
 
-> **Meaning 33:** "Enough of this shedding of tears! Abandon your meaningless
-> sorrow. Embrace love and great joy, and give up this constant state of
-> wretchedness!"
+> **Meaning 33:** "Enough crying! Let go of this pointless grief. Be happy,
+> enjoy yourself, and stop being miserable all the time!"
 
 ---
 34.
@@ -277,8 +271,8 @@ sīte rākṣasarājena saha krīḍa yathāsukham |
 jānāsi hi yathā bhīru strīṇāṁ yauvanam adhruvam ||
 
 
-> **Meaning 34:** "O Sītā, sport joyfully with the king of the
-> Rākṣasas! You surely know that the youth of women is fleeting!"
+> **Meaning 34:** "Sītā, enjoy yourself with the king of the Rākṣasas as much as
+> you like! You know very well, timid one, that a woman's youth doesn't last."
 
 ---
 35.
@@ -286,8 +280,8 @@ yāvan na te vyatikrāmet tāvat sukham avāpnuhi |
 udyānāni ca ramyāṇi parvatopavanāni ca ||
 
 
-> **Meaning 35:** "Before it passes away, attain happiness! The beautiful
-> gardens and mountain groves..."
+> **Meaning 35:** "Be happy while it lasts! The lovely gardens, the groves on
+> the mountains —"
 
 ---
 36.
@@ -295,9 +289,9 @@ saha rākṣasarājena cara tvan madirekṣaṇe |
 strīsahasrāṇi te sapta vaśe sthāsyanti sundari ||
 
 
-> **Meaning 36:** "...roam in them with the king of the Rākṣasas, O
-> intoxicating-eyed one! Seven thousand women shall be under your
-> command!"
+> **Meaning 36:** "— wander through them with the king of the Rākṣasas, you with
+> the intoxicating eyes! Thousands of us will serve you and remain under your
+> command, beautiful one!"
 
 ---
 37.
@@ -305,41 +299,40 @@ rāvaṇam bhaja bhartāram bhartāraṁ sarvarakṣasām ||
 utpāṭya vā te hr̥dayam bhakṣayiṣyāmi maithili |
 yadi me vyāhr̥taṁ vākyan na yathāvat kariṣyasi ||
 
-> **Meaning 37:** "Accept Rāvaṇa, the king of all Rākṣasas, as your husband! Or
-> else, tearing out your heart, I shall devour it, O Maithilī, if you do not
-> exactly follow the words spoken by me!"
+> **Meaning 37:** "Take Rāvaṇa, the master of all the Rākṣasas, as your husband!
+> Otherwise, Maithilī, I'll tear out your heart and eat it — if you don't do
+> exactly as I say."
 
 ---
 38.
 tataś caṇḍodarī nāma rākṣasī krūradarśanā |
 bhrāmayantī mahac chūlam idaṁ vacanam abravīt ||
 
-> **Meaning 38:** Then, a Rākṣasī named Caṇḍodarī, of cruel appearance, whirling
-> a massive spear, spoke these words:
+> **Meaning 38:** Then a cruel-looking Rākṣasī named Caṇḍodarī, swinging a huge
+> spear, said:
 
 ---
 39.
 imān hariṇalokākṣīn trāsotkampapayodharām |
 rāvaṇena hr̥tān dr̥ṣṭvā daurhr̥do me mahān abhūt ||
 
-> **Meaning 39:** "Seeing this woman with eyes like a doe, whose breasts tremble
-> with terror, abducted by Rāvaṇa, a great craving has arisen in me!"
+> **Meaning 39:** "Ever since I saw this doe-eyed woman Rāvaṇa carried off, her
+> breasts shaking with fear, I've had a terrible craving!"
 
 ---
 40.
 yakr̥tplīham athotpīḍaṁ hr̥dayañ ca sabandhanam |
 antrāṇy api tathā śīrṣaṅ khādeyam iti me matiḥ ||
 
-> **Meaning 40:** "It is my desire to eat her liver, spleen, the fleshy part
-> above the heart along with its blood vessels, her intestines, and also her
-> head!"
+> **Meaning 40:** "I want to eat her liver and spleen, the flesh above her
+> heart, her heart with all its vessels, her intestines, and her head!"
 
 ---
 41.
 tatas tu praghasā nāma rākṣasī vākyam abravīt |
 
 
-> **Meaning 41:** Then, a Rākṣasī named Praghasā spoke these words:
+> **Meaning 41:** Then a Rākṣasī named Praghasā said:
 
 ---
 42.
@@ -347,9 +340,8 @@ kaṇṭham asyā nr̥śaṁsāyāḥ pīḍayāmaḥ kim āsyate |
 nivedyatān tato rājñe mānuṣī sā mr̥teti ha ||
 
 
-> **Meaning 42:** "Let us wring the neck of this cruel woman! Why are we just
-> sitting here? Then let it be reported to the king that the human woman has
-> died."
+> **Meaning 42:** "Let's strangle this cruel woman! Why are we just sitting
+> here? Then we'll tell the king the human woman died."
 
 ---
 43.
@@ -357,8 +349,8 @@ nātra kaścana sandehaḥ khādateti sa vakṣyati |
 tatas tv ajāmukhī nāma rākṣasī vākyam abravīt ||
 
 
-> **Meaning 43:** "'There is no doubt about this; he will surely say, "Eat
-> her!"' Then, a Rākṣasī named Ajāmukhī spoke these words:"
+> **Meaning 43:** "There's no doubt about it — he'll just say, 'Eat her!'"
+> Then a Rākṣasī named Ajāmukhī said:
 
 ---
 44.
@@ -366,16 +358,16 @@ viśasyemān tataḥ sarvān samān kuruta pīlukān |
 vibhajāma tataḥ sarvā vivādo me na rocate |
 peyam ānīyatāṅ kṣipram mālyañ ca vividham bahu ||
 
-> **Meaning 44:** "'Having cut her into pieces, make all the chunks equal. Then
-> let us all divide them among ourselves; disputes do not please me! Let drinks
-> be brought quickly, and many various garlands!'"
+> **Meaning 44:** "Cut her up and make all the pieces equal. Then we'll share
+> them out among all of us — I don't like quarrels. Quick, bring drinks, and
+> plenty of garlands of every kind!"
 
 ---
 45.
 tataḥ śūrpaṇakhā nāma rākṣasī vākyam abravīt |
 
 
-> **Meaning 45:** Then, a Rākṣasī named Śūrpaṇakhā spoke these words:
+> **Meaning 45:** Then a Rākṣasī named Śūrpaṇakhā said:
 
 ---
 46.
@@ -383,16 +375,15 @@ ajāmukhā yad uktaṁ hi tad eva mama rocate |
 surā cānīyatāṅ kṣipraṁ sarvaśokavināśinī |
 mānuṣam māṁsam āsādya nr̥tyāmo ’tha nikumbhilām ||
 
-> **Meaning 46:** "'What has been spoken by Ajāmukhī, that alone pleases me! Let
-> liquor that destroys all sorrow be brought quickly. Having obtained human
-> flesh, let us dance at Nikumbhilā!'"
+> **Meaning 46:** "I like what Ajāmukhī said! Quick, bring liquor — it drives
+> away every sorrow. Once we have the human flesh, we'll dance to please goddess Nikumbhilā!"
 
 ---
 47.
 evan sambhartsyamānā sā sītā surasutopamā |
 rākṣasībhiḥ sughorābhir dhairyam utsr̥jya roditi ||
 
-> **Meaning 47:** Being threatened in this way by those terrifying Rākṣasīs,
-> Sītā, who resembled a daughter of the devatās, abandoned her courage and wept.
+> **Meaning 47:** Threatened like this by those terrifying Rākṣasīs, Sītā, who
+> was like a descendant of the devatās, lost all her courage and wept.
 
 ---

@@ -106,6 +106,10 @@ for (let i = 0; i < lines.length; i++) {
         continue;
     }
 
+    // Resolve avagrahas before quarter-line processing
+    line = line.replace(/([oō])\s*['’]/g, 'aḥ a');
+    line = line.replace(/([eē])\s*['’]/g, '$1 a');
+
     // If the line contains a semicolon (used in Sarga 5 / Upajati meter to denote the half-line)
     if (line.includes(';')) {
         const leadingSpace = line.match(/^\s*/)[0];

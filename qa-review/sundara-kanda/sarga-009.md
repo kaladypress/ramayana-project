@@ -86,9 +86,10 @@ indranīlamahānīlamaṇipravaravedikam |
 > **Meaning 10-16:** In the middle of that mansion, the son of Vāyu saw another
 > beautifully constructed building crowded with many turrets. It was the divine
 > aerial chariot named Puṣpaka, adorned with all kinds of gems, originally
-> crafted in heaven by Viśvakarmā for the sake of Lord Brahmā. Kubera had
-> obtained it from Lord Brahmā (the grandfather of the worlds) through supreme
-> austerities, and the lord of the Rākṣasas acquired it by conquering Kubera
+> crafted in heaven by Viśvakarmā for Brahmā. Kubera had
+> obtained it from Brahmā, the grandfather of the worlds,
+> through supreme austerities, and the Rākṣaseśvara acquired
+> it by conquering Kubera
 > with his might. Supported by well-crafted golden pillars shaped like wolves
 > and other beasts, it blazed with splendor. It was entirely decorated with
 > beautiful structures resembling Mount Meru and Mount Mandara, seeming to
@@ -244,7 +245,12 @@ mene hi guṇatastāni samāni salilodbhavaiḥ ||
 > fallen silent. Māruti saw the faces of those beautiful women, carrying the
 > fragrance of lotuses, with their eyes closed and teeth concealed. Their faces,
 > which had bloomed like awakened lotuses earlier, now looked like lotuses that
-> had closed their petals at the end of the day. The glorious Mahākapi logically deduced, "Intoxicated bees would surely mistake these lotus-like faces for real blooming lotuses and seek them out again and again." Thus, he considered their faces to be equal in every quality to the lotuses born in water.
+> had closed their petals at the end of the day. The glorious
+> Mahākapi logically deduced, "Intoxicated bees would surely
+> mistake these lotus-like faces for real blooming lotuses and
+> seek them out again and again." Thus, he considered their
+> faces to be equal in every quality to the lotuses born in
+> water.
 ---
 
 41.
@@ -470,11 +476,12 @@ laṁkēśvaraḥ kaṣṭa manāryakarma ||
 > who was not dear to her husband. A thought struck the mind of the intelligent
 > Kapīśvara: "Just as all these wives of the Rākṣasa king are happily united
 > with their husband, if Sītā, the lawful wife of Rāghava, were also happily
-> united with her husband, it would be auspicious for Rāvaṇa (meaning, if he
-> had not abducted her or if he returned her, he would be spared). But then,
-> thinking further, Hanumān became grief-stricken: "Mother Sītā is absolutely
-> endowed with the most excellent virtues. Rāvaṇa was born into a great lineage,
-> is the lord of Laṅkā, and a great devotee of Śiva. Yet, in a manner completely
-> unworthy of his lineage, status, and devotion, he has committed a highly
-> inappropriate and miserable act against her. How sorrowful this is!"
+> united with her husband, it would be auspicious." But then,
+> thinking further, Hanumān became grief-stricken: "Sītā is
+> absolutely endowed with the most excellent virtues. Rāvaṇa
+> was born into a great lineage, is the Laṅkeśvara, and a
+> great devotee of Śiva. Yet, in a manner completely unworthy
+> of his lineage, status, and devotion, he has committed a
+> highly inappropriate and miserable act against her. How
+> sorrowful this is!"
 ---

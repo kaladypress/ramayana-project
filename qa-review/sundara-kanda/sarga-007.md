@@ -99,7 +99,7 @@ punaśca tat paramasugandhi sundaraṁ himātyaye nagam iva cārukandaram ||
 
 > **Meaning 12-15:** The Vimāna was adorned with beautifully crafted birds made
 > of Vaidūrya gems, silver, and coral. There were serpents rendered in vibrant
-> colors using diverse precious materials, and beautiful-limbed horses depicted
+> colors using diverse precious materials, and gracefully formed horses depicted
 > true to their noble breeds. With wings composed of coral and Jāmbūnada gold
 > shaped like flowers, and gracefully inclined curved wings, these beautifully
 > faced artificial birds appeared as radiant as the very wings of Kāma (Manmatha). There were elegantly trunked elephants depicted holding lotus petals

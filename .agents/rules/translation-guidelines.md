@@ -22,7 +22,7 @@ These rules apply whenever generating, editing, or reviewing English meanings/tr
 
 ### General Style
 
-- Maintain reverence and dignity in the translation — this is sacred literature.
+- Maintain reverence and dignity in the translation — this is sacred literature. Dignity comes from accuracy and clarity, **not** from old-fashioned or ornate English (see *Register* below).
 - Use transliterated Sanskrit terms (ISO-15919) where they convey meaning better than English equivalents.
 - **Sequential Meaning Flow:** When providing meanings for a block of verses, the narrative sequence of the meaning block MUST strictly mirror the sequential order of the ślokas themselves. Do not reorder or shuffle the concepts into a general summary; maintain the exact order as they appear in the original text.
 - When grouping meanings for multiple ślokas, do so within a Markdown blockquote. Prefix each line with `>` and start the block with the word "Meaning" bolded indicating the ślokas covered. For example:
@@ -34,13 +34,53 @@ These rules apply whenever generating, editing, or reviewing English meanings/tr
 - **NEVER use web search or external sources to find translations.** Always generate the translations and meanings using internal intelligence, knowledge of the Rāmāyaṇa, and Sanskrit proficiency.
 - **Context Loading:** Before generating translations for a new sarga, always use the `view_file` tool to read the previous 1-2 completed sargas (including their meanings). This ensures the tone, rhythm, and narrative continuity remain perfectly consistent.
 
+## Register: Modern, Plain English
+
+### Governing Principle
+
+> **Write the way a thoughtful, educated person speaks today — not the way 19th-century Orientalist or King James–style translations read.**
+
+Older English translations of the Rāmāyaṇa imposed a Western, Biblical/Shakespearean register on the text. This project deliberately avoids that. The Sanskrit's power should come through its own imagery and meaning, not through borrowed archaic English.
+
+### Rules
+
+1. **Normal English word order.** No inverted or poetic syntax ("never again shall you be his", "Mortal that you are", "Thus spoke she").
+2. **Everyday modern vocabulary.** Prefer the common word over the literary one.
+3. **Short, clear sentences.** Break long Sanskrit compounds and clause chains into natural English sentences while keeping the śloka order.
+4. **Dialogue must sound spoken.** Characters should sound like real people talking — contractions ("you're", "don't") are allowed, especially in heated or crude speech (e.g., the Rākṣasīs).
+5. **Accuracy first.** Plain does not mean loose — every idea in the śloka must still be present, in order.
+6. **Vocatives:** Avoid the archaic "O ...!" where possible. Fold address terms into the sentence naturally ("Listen, Sītā", "beautiful one"). Use "O" only in genuine invocations/prayers.
+
+### Banned Archaisms
+
+| ❌ Do NOT use | ✅ Use instead |
+|---|---|
+| shall / shalt (for future) | will |
+| thou, thee, thy, thine, ye | you, your |
+| dwell / abide | live / stay |
+| behold / lo | see / look |
+| sport (with) / dally | enjoy yourself / spend time with / live (with) |
+| consent to | agree to / be willing to |
+| hold in high esteem | think highly of / value |
+| wifehood | being a wife / being his wife |
+| "X that you are" | "You are X, and..." / "Since you're X..." |
+| "never again shall..." / inverted syntax | "... will never ... again" |
+| mortal (as a noun for human) | human / person |
+| apartments (for rooms) | quarters / rooms / palace |
+| whereupon, thereupon, hither, thither, ere, wherefore | then, after that, here, there, before, why |
+| utterly dejected / bereft | completely broken / heartbroken / without |
+
+### Self-Check
+
+Before finalizing a meaning block, read it aloud. If it sounds like a Victorian translation, a Bible verse, or a stage play, rewrite it.
+
 ## Epithet & Adjective Translation Framework
 
 ### Governing Principle
 
 > **The epithet must land as poetry, not as anatomy.**
 
-Sanskrit *bahuvrīhi* compounds and vocative epithets are poetic devices that convey a single aesthetic impression (*rasa*). They must be rendered as **flowing English poetry**, never as mechanical compound-cracking or anatomical descriptions. If a phrase could appear in Fagles's *Iliad* or Heaney's *Beowulf* and feel natural, it passes. If it reads like a footnote or a medical report, it must be rewritten.
+Sanskrit *bahuvrīhi* compounds and vocative epithets are poetic devices that convey a single aesthetic impression (*rasa*). They must be rendered as **flowing, natural modern English**, never as mechanical compound-cracking or anatomical descriptions. If it reads like a footnote or a medical report, it must be rewritten. If it reads like an archaic Western epic (see *Register* above), it must also be rewritten.
 
 ### Banned Patterns
 
