@@ -49,7 +49,7 @@ function joinQuarter(words) {
         result += words[i];
         if (i < words.length - 1) {
             // If the word ends in a fused sandhi consonant, do not add space
-            if (!words[i].match(/[śsr]$/)) {
+            if (!words[i].match(/[śsrc]$/)) {
                 result += ' ';
             }
         }
