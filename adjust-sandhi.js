@@ -101,7 +101,7 @@ for (let i = 0; i < lines.length; i++) {
     let trimmed = line.trim();
 
     // Skip empty lines, markdown blocks, meaning blocks, and numbers
-    if (!trimmed || trimmed.startsWith('>') || trimmed.startsWith('---') || trimmed.startsWith('===') || /^\d+\.$/.test(trimmed)) {
+    if (!trimmed || trimmed.startsWith('>') || trimmed.startsWith('---') || trimmed.startsWith('===') || /^(\d+|Patha-\d+)\.?$/i.test(trimmed)) {
         processedLines.push(line);
         continue;
     }

@@ -32,7 +32,7 @@ These rules apply whenever generating, editing, or reviewing English meanings/tr
 - **Variant Readings (Pāṭhāntara):** If there are extra verses or variant readings present in the Gorakhpur text but absent in others, label them sequentially as `Patha-1.`, `Patha-2.`, etc., rather than standard numbered ślokas. Their meanings should be prefixed similarly (e.g., "Patha-1: ...").
 - **Definitive Source:** The primary source for translation verification, verse numbering, and inclusion/omission of specific ślokas is the **Gorakhpur (Gita Press) Telugu edition**. Be aware that this may contain variant readings (pāṭha-bhedas) or extra verses compared to other editions.
 - **NEVER use web search or external sources to find translations.** Always generate the translations and meanings using internal intelligence, knowledge of the Rāmāyaṇa, and Sanskrit proficiency.
-- **Context Loading:** Before generating translations for a new sarga, always use the `view_file` tool to read the previous 1-2 completed sargas (including their meanings). This ensures the tone, rhythm, and narrative continuity remain perfectly consistent.
+- **Context Loading:** Before generating translations for a new sarga, use the `view_file` tool to read the opening ~40 lines (including meanings) of the previous completed sarga. This keeps tone, rhythm, and narrative continuity consistent without reading whole files (see *Token-Efficient Workflow*).
 
 ## Register: Modern, Plain English
 
@@ -160,3 +160,28 @@ The Sanskrit word *aṅga* does NOT map to English "limb." It encompasses form, 
 - **Food & Ingredients:** Any references to food, spices, ingredients, incense, or aromatics (e.g., Agaru, Candana) must be logged in `qa-review/Food-Ingredients`.
 - **Metadata Requirement:** All entries in these tracking lists MUST be maintained as a clean list and include detailed metadata in the format: `Item (Description) - [Kanda, Sarga, Śloka, Location/Context]`. 
   *Example:* `Karnikara (Tree) - [Sundara Kanda, Sarga 2, Verse 9, Lanka]`
+
+## Token-Efficient Workflow (Meaning Generation)
+
+Use this workflow for every new sarga. It changes **how** meanings are written into files, never **what** the translation rules above require.
+
+1. **Read the target sarga once** — `qa-review/<kanda>/sarga-NNN.txt` with `view_file`.
+2. **Context loading (lightweight):** read only the first ~40 lines of the previous sarga for tone. Read Sarga 20 only if epithet handling is unclear.
+3. **Do NOT read tracking logs in full.** New entries are appended by the script; duplicates across sargas are acceptable.
+4. **Write ONE compact scratch file** `scratch/meanings-NNN.txt` with `write_to_file`:
+   ```
+   1: Meaning text on one line — no "> " prefix, no manual wrapping.
+   17-18: Grouped meaning; the key must match the verse block (first-last).
+   Patha-1: Meaning for a variant verse.
+   @Geography | Kauraja (Mountain) - [Sundara Kanda, Sarga 35, Verse 81, Referenced]
+   @Jewelry-Clothing | ...
+   ```
+   - One entry per `=== meaning ===` placeholder. A block's key is its first and last verse number.
+   - `@<LogFile> | <entry>` lines append to `qa-review/<LogFile>` (must already exist).
+5. **Run** `node inject-meanings.js NNN` (add `--kanda <dir>` outside Sundara Kāṇḍa; `--dry` to preview). The script:
+   - fills placeholders **in place** — śloka text and sandhi edits are never touched;
+   - adds the bold `Meaning N:` label, `> ` prefixes, and ~80-char wrapping;
+   - prints a one-line report and deletes the scratch file on full success.
+6. **If the report shows missing/unused entries**, fix only those lines in the scratch file and re-run. Do not re-read the whole sarga.
+7. **Never** use `multi_replace_file_content` for bulk meaning insertion, and never rebuild the sarga from `source/`.
+8. **Final reply:** a short list of items needing user review (doubtful readings, glossary additions) — no recap of the meanings.

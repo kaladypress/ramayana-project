@@ -1,4 +1,4 @@
-=== Sarga 37 ===
+=== Sarga 39 ===
 
 ---
 1.
@@ -16,7 +16,7 @@ vīro jananyā mama ca rājño daśarathasya ca ||
 
 ---
 3.
-sa bhūyas tvaṁ samutsāhe codito harisattama |
+sa bhūyastvaṁ samutsāhe codito harisattama |
 asmin kāryasamārambhe pracintaya yaduttaram ||
 
 === meaning ===
@@ -24,13 +24,14 @@ asmin kāryasamārambhe pracintaya yaduttaram ||
 ---
 4.
 tvam asmin kāryaniryoge pramāṇaṁ harisattama |
-tasya cintaya yo yatno duḥkhakṣayakaro bhavet ||
+tasya cintaya yo yatnaḥ duḥkhakṣayakaro bhavet ||
 
 === meaning ===
 
 ---
 5.
-sa tatheti pratijñāya mārutir bhīmavikramaḥ |
+tasya ciṁtayatō yatnō duḥkhakṣayakarō bhavēt |
+sa tatheti pratijñāya mārutirbhīmavikramaḥ |
 śirasāvandya vaidehīṁ gamanāyopacakrame ||
 
 === meaning ===
@@ -44,330 +45,333 @@ bāṣpagadgadayā vācā maithilī vākyam abravīt ||
 
 ---
 7.
-kuśalaṁ hanuman brūyāḥ sahitau rāmalakṣmaṇau |
-sugrīvaṁ ca sahāmātyaṁ vr̥ddhān sarvāṁś ca vānarān ||
+hanuman kuśalaṁ brūyāḥ sahitau rāmalakṣmaṇau ||
 
-=== meaning ===
-
----
 8.
-yathā ca sa mahābāhur māṁ tārayati rāghavaḥ |
-asmād duḥkhāmbusaṁrodhāt tvaṁ samādhātum arhasi ||
+sugrīvaṁ ca sahāmātyaṁ vr̥ddhān sarvāṁśca vānarān |
+brūyāstvaṁ vānaraśrēṣṭha kuśalaṁ dharmasaṁhitam ||
 
 === meaning ===
 
 ---
 9.
+yathā ca sa mahābāhuḥ māṁ tārayati rāghavaḥ |
+asmād duḥkhāmbusaṁrodhāt tvaṁ samādhātum arhasi ||
+
+=== meaning ===
+
+---
+10.
 jīvantīṁ māṁ yathā rāmaḥ saṁbhāvayati kīrtimān |
 tat tvayā hanuman vācyaṁ vācā dharmam avāpnuhi ||
 
 === meaning ===
 
 ---
-10.
-nityam utsāhayuktāś ca vācaḥ śrutvā mayeritāḥ |
+11.
+nityam utsāhayuktāśca vācaḥ śrutvā mayeritāḥ |
 vardhiṣyate dāśaratheḥ pauruṣaṁ madavāptaye ||
 
 === meaning ===
 
 ---
-11.
-matsaṁdeśayutā vācas tvattaḥ śrutvaiva rāghavaḥ |
-parākramavidhiṁ vīro vidhivat saṁvidhāsyati ||
-
-=== meaning ===
-
----
 12.
-sītāyās tad vacaḥ śrutvā hanumān mārutātmajaḥ |
-śirasy añjalim ādhāya vākyam uttaram abravīt ||
+matsaṁdeśayutā vācaḥ tvattaḥ śrutvaiva rāghavaḥ |
+parākramavidhiṁ vīraḥ vidhivat saṁvidhāsyati ||
 
 === meaning ===
 
 ---
 13.
-kṣipram eṣyati kākutstho haryr̥kṣapravarair vr̥taḥ |
-yas te yudhi vijityārīñ śokaṁ vyapanayiṣyati ||
+sītāyāstad vacaḥ śrutvā hanumān mārutātmajaḥ |
+śirasy añjalim ādhāya vākyam uttaram abravīt ||
 
 === meaning ===
 
 ---
 14.
-na hi paśyāmi martyeṣu nāmareṣv asureṣu vā |
-yas tasya vamato bāṇān sthātum utsahate ’grataḥ ||
+kṣipram eṣyati kākutsthaḥ haryr̥kṣapravarairvr̥taḥ |
+yaste yudhi vijityārīñ śokaṁ vyapanayiṣyati ||
 
 === meaning ===
 
 ---
 15.
-apy arkam api parjanyam api vaivasvataṁ yamam |
-sa hi soḍhuṁ raṇe śaktas tavahetor viśeṣataḥ ||
+na hi paśyāmi martyeṣu nāmareṣv asureṣu vā |
+yastasya vamato bāṇān sthātum utsahate agrataḥ ||
 
 === meaning ===
 
 ---
 16.
+apy arkam api parjanyam api vaivasvataṁ yamam |
+sa hi soḍhuṁ raṇe śaktaḥ tavahetorviśeṣataḥ ||
+
+=== meaning ===
+
+---
+17.
 sa hi sāgaraparyantāṁ mahīṁ śāsitum īhate |
 tvan nimitto hi rāmasya jayo janakanandini ||
 
 === meaning ===
 
 ---
-17.
-tasya tad vacanaṁ śrutvā samyak satyaṁ subhāṣitam |
-jānakī bahu mene ’tha vacanaṁ cedam abravīt ||
-
-=== meaning ===
-
----
 18.
-tatas taṁ prasthitaṁ sītā vīkṣamāṇā punaḥ punaḥ |
-bhartuḥ snehānvitaṁ vākyaṁ sauhārdād anumānayat ||
+tasya tad vacanaṁ śrutvā samyak satyaṁ subhāṣitam |
+jānakī bahu mene atha vacanaṁ cedam abravīt ||
 
 === meaning ===
 
 ---
 19.
-yadi vā manyase vīra vasaikāham ariṁdama |
-kasmiṁś cit saṁvr̥te deśe viśrāntaḥ śvo gamiṣyasi ||
+tatastaṁ prasthitaṁ sītā vīkṣamāṇā punaḥ punaḥ |
+bhartuḥ snehānvitaṁ vākyaṁ sauhārdād anumānayat ||
 
 === meaning ===
 
 ---
 20.
-mama ced alpabhāgyāyāḥ sāmnidhyāt tava vīryavān |
-asya śokasya mahato muhūrtaṁ mokṣaṇaṁ bhavet ||
+yadi vā manyase vīra vasaikāham ariṁdama |
+kasmiṁścit saṁvr̥te deśe viśrāntaḥ śvo gamiṣyasi ||
 
 === meaning ===
 
 ---
 21.
-gate hi hariśārdūla punarāgamanāya tu |
-prāṇānām api saṁdeho mama syān nātra saṁśayaḥ ||
+mama ced alpabhāgyāyāḥ sāmnidhyāt tava vīryavān |
+asya śokasya mahataḥ muhūrtaṁ mokṣaṇaṁ bhavet ||
 
 === meaning ===
 
 ---
 22.
-tavādarśanajaḥ śoko bhūyo māṁ paritāpayet |
-duḥkhād duḥkhaparāmr̥ṣṭāṁ dīpayann iva vānara ||
+gate hi hariśārdūla punarāgamanāya tu |
+prāṇānām api saṁdehaḥ mama syān nātra saṁśayaḥ ||
 
 === meaning ===
 
 ---
 23.
-ayaṁ ca vīra saṁdehas tiṣṭhatīva mamāgrataḥ |
-sumahāṁs tvatsahāyeṣu haryr̥kṣeṣu harīśvara ||
+tavādarśanajaḥ śokaḥ bhūyo māṁ paritāpayet |
+duḥkhād duḥkhaparāmr̥ṣṭāṁ dīpayann iva vānara ||
 
 === meaning ===
 
 ---
 24.
+ayaṁ ca vīra saṁdehaḥ tiṣṭhatīva mamāgrataḥ |
+sumahāṁstvatsahāyeṣu haryr̥kṣeṣu harīśvara ||
+
+=== meaning ===
+
+---
+25.
 kathaṁ nu khalu duṣpāraṁ tariṣyanti mahodadhim |
 tāni haryr̥kṣasainyāni tau vā naravarātmajau ||
 
 === meaning ===
 
 ---
-25.
+26.
 trayāṇām eva bhūtānāṁ sāgarasyeha laṅghane |
 śaktiḥ syād vainateyasya tava vā mārutasya vā ||
 
 === meaning ===
 
 ---
-26.
+27.
 tad asmin kāryaniryoge vīraivaṁ duratikrame |
 kiṁ paśyasi samādhānaṁ tvaṁ hi kāryavidāṁ varaḥ ||
 
 === meaning ===
 
 ---
-27.
-kāmam asya tvam evaikaḥ kāryasya parisādhane |
-paryāptaḥ paravīraghna yaśasyas te balodayaḥ ||
-
-=== meaning ===
-
----
 28.
-balaiḥ samagrair yadi māṁ rāvaṇaṁ jitya saṁyuge |
-vijayī svapuraṁ yāyāt tat tu me syād yaśaskaram ||
+kāmam asya tvam evaikaḥ kāryasya parisādhane |
+paryāptaḥ paravīraghna yaśasyaste balodayaḥ ||
 
 === meaning ===
 
 ---
 29.
-balais tu saṁkulāṁ kr̥tvā laṅkāṁ parabalārdanaḥ |
-māṁ nayed yadi kākutsthas tat tasya sadr̥śaṁ bhavet ||
+balaiḥ samagrairyadi māṁ rāvaṇaṁ jitya saṁyuge |
+vijayī svapuraṁ yāyāt tat tu me syād yaśaskaram ||
 
 === meaning ===
 
 ---
 30.
+śaraistu saṁkulāṁ kr̥tvā laṅkāṁ parabalārdanaḥ |
+māṁ nayed yadi kākutsthaḥ tat tasya sadr̥śaṁ bhavet ||
+
+=== meaning ===
+
+---
+31.
 tad yathā tasya vikrāntam anurūpaṁ mahātmanaḥ |
 bhaved āhava śūrasya tathā tvam upapādaya ||
 
 === meaning ===
 
 ---
-31.
+32.
 tad arthopahitaṁ vākyaṁ sahitaṁ hetusaṁhitam |
 niśamya hanumāñ śeṣaṁ vākyam uttaram abravīt ||
 
 === meaning ===
 
 ---
-32.
-devi haryr̥kṣasainyānām īśvaraḥ plavatāṁ varaḥ |
-sugrīvaḥ sattvasaṁpannas tavārthe kr̥taniścayaḥ ||
-
-=== meaning ===
-
----
 33.
-sa vānarasahasrāṇāṁ koṭībhir abhisaṁvr̥taḥ |
-kṣipram eṣyati vaidehi rākṣasānāṁ nibarhaṇaḥ ||
+devi haryr̥kṣasainyānām īśvaraḥ plavatāṁ varaḥ |
+sugrīvaḥ sattvasaṁpannaḥ tavārthe kr̥taniścayaḥ ||
 
 === meaning ===
 
 ---
 34.
+sa vānarasahasrāṇāṁ koṭībhirabhisaṁvr̥taḥ |
+kṣipram eṣyati vaidehi rākṣasānāṁ nibarhaṇaḥ ||
+
+=== meaning ===
+
+---
+35.
 tasya vikramasaṁpannāḥ sattvavanto mahābalāḥ |
 manaḥsaṁkalpasaṁpātā nideśe harayaḥ sthitāḥ ||
 
 === meaning ===
 
 ---
-35.
+36.
 yeṣāṁ nopari nādhastān na tiryak sajjate gatiḥ |
 na ca karmasu sīdanti mahatsv amitatejasaḥ ||
 
 === meaning ===
 
 ---
-36.
-asakr̥t tair mahotsahaiḥ sasāgaradharādharā |
-pradakṣiṇīkr̥tā bhūmir vāyumārgānusāribhiḥ ||
-
-=== meaning ===
-
----
 37.
-madviśiṣṭāś ca tulyāś ca santi tatra vanaukasaḥ |
-mattaḥ pratyavaraḥ kaś cin nāsti sugrīvasaṁnidhau ||
+asakr̥t tairmahotsahaiḥ sasāgaradharādharā |
+pradakṣiṇīkr̥tā bhūmiḥ vāyumārgānusāribhiḥ ||
 
 === meaning ===
 
 ---
 38.
-ahaṁ tāvad iha prāptaḥ kiṁ punas te mahābalāḥ |
-na hi prakr̥ṣṭāḥ preṣyante preṣyante hītare janāḥ ||
+madviśiṣṭāśca tulyāśca santi tatra vanaukasaḥ |
+mattaḥ pratyavaraḥ kaścin nāsti sugrīvasaṁnidhau ||
 
 === meaning ===
 
 ---
 39.
+ahaṁ tāvad iha prāptaḥ kiṁ punaste mahābalāḥ |
+na hi prakr̥ṣṭāḥ preṣyante preṣyante hītare janāḥ ||
+
+=== meaning ===
+
+---
+40.
 tad alaṁ paritāpena devi śoko vyapaitu te |
 ekotpātena te laṅkām eṣyanti hariyūthapāḥ ||
 
 === meaning ===
 
 ---
-40.
+41.
 mama pr̥ṣṭhagatau tau ca candrasūryāv ivoditau |
 tvatsakāśaṁ mahāsattvau nr̥siṁhāv āgamiṣyataḥ ||
 
 === meaning ===
 
 ---
-41.
+42.
 tau hi vīrau naravarau sahitau rāmalakṣmaṇau |
-āgamya nagarīṁ laṅkāṁ sāyakair vidhamiṣyataḥ ||
+āgamya nagarīṁ laṅkāṁ sāyakairvidhamiṣyataḥ ||
 
 === meaning ===
 
 ---
-42.
+43.
 sagaṇaṁ rāvaṇaṁ hatvā rāghavo raghunandanaḥ |
 tvām ādāya varārohe svapuraṁ pratiyāsyati ||
 
 === meaning ===
 
 ---
-43.
+44.
 tad āśvasihi bhadraṁ te bhava tvaṁ kālakāṅkṣiṇī |
 nacirād drakṣyase rāmaṁ prajvajantam ivānilam ||
 
 === meaning ===
 
 ---
-44.
+45.
 nihate rākṣasendre ca saputrāmātyabāndhave |
 tvaṁ sameṣyasi rāmeṇa śaśāṅkeneva rohiṇī ||
 
 === meaning ===
 
 ---
-45.
-kṣipraṁ tvaṁ devi śokasya pāraṁ yāsyasi maithili |
-rāvaṇaṁ caiva rāmeṇa nihataṁ drakṣyase ’cirāt ||
-
-=== meaning ===
-
----
 46.
-evam āśvasya vaidehīṁ hanūmān mārutātmajaḥ |
-gamanāya matiṁ kr̥tvā vaidehīṁ punar abravīt ||
+kṣipraṁ tvaṁ devi śokasya pāraṁ yāsyasi maithili |
+rāvaṇaṁ caiva rāmeṇa nihataṁ drakṣyase acirāt ||
 
 === meaning ===
 
 ---
 47.
+evam āśvasya vaidehīṁ hanūmān mārutātmajaḥ |
+gamanāya matiṁ kr̥tvā vaidehīṁ punarabravīt ||
+
+=== meaning ===
+
+---
+48.
 tam arighnaṁ kr̥tātmānaṁ kṣipraṁ drakṣyasi rāghavam |
 lakṣmaṇaṁ ca dhanuṣpāṇiṁ laṅkādvāram upasthitam ||
 
 === meaning ===
 
 ---
-48.
+49.
 nakhadaṁṣṭrāyudhān vīrān siṁhaśārdūlavikramān |
 vānarān vāraṇendrābhān kṣipraṁ drakṣyasi saṁgatān ||
 
 === meaning ===
 
 ---
-49.
+50.
 śailāmbudanikāśānāṁ laṅkāmalayasānuṣu |
 nardatāṁ kapimukhyānām ārye yūthāny anekaśaḥ ||
 
 === meaning ===
 
 ---
-50.
+51.
 sa tu marmaṇi ghoreṇa tāḍito manmatheṣuṇā |
 na śarma labhate rāmaḥ siṁhārdita iva dvipaḥ ||
 
 === meaning ===
 
 ---
-51.
-mā rudo devi śokena mā bhūt te manaso ’priyam |
+52.
+mā rudo devi śokena mā bhūt te manasaḥ apriyam |
 śacīva pathyā śakreṇa bhartrā nāthavatī hy asi ||
 
 === meaning ===
 
 ---
-52.
-rāmād viśiṣṭaḥ ko ’nyo ’sti kaś cit saumitriṇā samaḥ |
+53.
+rāmād viśiṣṭaḥ kaḥ anyaḥ asti kaścit saumitriṇā samaḥ |
 agnimārutakalpau tau bhrātarau tava saṁśrayau ||
 
 === meaning ===
 
 ---
-53.
-nāsmiṁś ciraṁ vatsyasi devi deśe; rakṣogaṇair adhyuṣito ’tiraudre |
-na te cirād āgamanaṁ priyasya; kṣamasva matsaṁgamakālamātram ||
+54.
+nāsmiṁściraṁ vatsyasi devi deśe rakṣogaṇairadhyuṣitaḥ atiraudre |
+na te cirād āgamanaṁ priyasya kṣamasva matsaṁgamakālamātram ||
 
 === meaning ===
 
