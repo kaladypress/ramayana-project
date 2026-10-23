@@ -1,3 +1,4 @@
+
 === Sarga 1 ===
 
 ---
@@ -5,30 +6,36 @@
 tato rāvaṇanītāyāḥ sītāyāḥ śatrukarśanaḥ |
 iyeṣa padam anveṣṭuṁ cāraṇācarite pathi ||
 
-> **Meaning 1:** Thus, the most valiant destroyer of enemies, decided to take the course in
-> the sky at the height where celestials as caraṇās fly, to search Sita, who was
-> abducted by Ravana.
->
+> **Meaning 1:** Thus, the destroyer of foes resolved to seek out the path of
+> Sītā, who had been carried away by Rāvaṇa, traveling along the skyway
+> frequented by the Cāraṇas.
+
 ---
 2.
 duṣkaraṁ niṣpratidvaṁdvaṁ cikīrṣankarma vānaraḥ |
 samudagraśirōgrīvō gavāṁ patirivābabhau ||
 
-> **Meaning 2:** Determined to do an unattainable task, hanumān, standing at the top of mahedragiri mountain, was glowing like a tenacious bull by stretching his neck and head.
----
+> **Meaning 2:** Wishing to accomplish an arduous and peerless task, the Vānara,
+> with his head and neck held high, shone like a majestic bull.
 
+---
 3.
 atha vaidūryavarṇeṣu śādvaleṣu mahābalaḥ |
 dhīraḥ salilakalpeṣu vicacāra yathāsukham ||
 
-> **Meaning 3:** There (on mahendragiri) the bravehearted, walked steadily across the green expanse, invigorated by the cool breeze.
----
+> **Meaning 3:** Then the mighty and courageous hero roamed at ease across the
+> grassy meadows, which had the vibrant hue of lapis lazuli and appeared as
+> smooth as calm water.
 
+---
 4.
 dvijān vitrāsayan dhīmān urasā pādapān haran |
 mr̥gāṁś ca subahūn nighnan pravr̥ddha iva kesarī ||
 
-> **Meaning 4:** As hanumān paced, his massive chest scraped against the trees, uprooting them entirely, which made birds scatter and crushed many creatures.
+> **Meaning 4:** Moving like a full-grown lion, the wise hero startled the
+> birds, knocked down trees that scraped against his massive chest, and struck
+> down many wild beasts.
+
 ---
 5.
 nīlalohitamāñjiṣṭhapadmavarṇaiḥ sitāsitaiḥ |
@@ -42,10 +49,13 @@ yakṣakiṁnaragandharvair devakalpaiś ca pannagaiḥ ||
 sa tasya girivaryasya tale nāgavarāyute |
 tiṣṭhan kapivaras tatra hrade nāga ivābabhau ||
 
-> **Meaning 5-7:** The mountain was adorned with minerals of variegated hues —
-> blue, red, madder, pink, white and dark — arranged by nature itself in wondrous
-> patterns. It was surrounded by celestial beings as Yakṣas, Kinnaras, Gandharvas, and
-> Nagas, while countless elephants resided. Towering over them all, hanumān’s presence radiated like that of a magnificent royal elephant.
+> **Meaning 5-7:** That best of mountains was naturally adorned with marvelous
+> mineral veins of blue, red, madder, lotus-pink, white, and black. It was
+> constantly inhabited by shapeshifting Yakṣas, Kinnaras, and Gandharvas with
+> their retinues, as well as godlike serpents. Standing on a plateau of that
+> mountain teeming with great elephants, the foremost of Vānaras shone like a
+> mighty elephant in a mountain lake.
+
 ---
 8.
 sa sūryāya mahendrāya pavanāya svayambhuve |
@@ -55,25 +65,31 @@ bhūtebhyaś cāñjaliṁ kr̥tvā cakāra gamane matim ||
 añjaliṁ prāṅmukhaḥ kurvan pavanāyātmayonaye |
 tato hi vavr̥dhe gantuṁ dakṣiṇo dakṣiṇāṁ diśam ||
 
-> **Meaning 8-9:** After performing namaskāram to the Sūrya, Indrā, Rāma, Brahmā, and other deities, hanumān
-> resolved to depart. Facing east, he bowed to Vāyu, his father. Finally, resolute in his decision, he stretched his mighty body, orienting himself towards the south for a leap..
->
+> **Meaning 8-9:** Offering salutations with folded hands to Sūrya, Mahendra,
+> Rāma, the self-born Brahmā, and all the spirits, he resolved to depart.
+> Facing east, he bowed with folded palms to his father, Vāyu. Then,
+> capable and resolute, he expanded his form to set out toward the southern
+> direction.
+
 ---
 10.
 plavaṁgapravarair dr̥ṣṭaḥ plavane kr̥taniścayaḥ |
 vavr̥dhe rāmavr̥ddhyarthaṁ samudra iva parvasu ||
 
-> **Meaning 10:** As the elite vānara were watching, in preparation to leap across the sea for Rāma's mission, hanumān’s form expanded like the surging tide of an ocean on a full moon night.
->
+> **Meaning 10:** Watched by the foremost of the Vānaras and determined upon the
+> leap, he expanded in size for the triumph of Rāma, swelling like the ocean on
+> days of the full moon.
+
 ---
 11.
 niṣpramāṇa śarīraḥ sam̐l lilaṅghayiṣur arṇavam |
 bāhubhyāṁ pīḍayām āsa caraṇābhyāṁ ca parvatam ||
 
-> 11.hanumān expanded his body to an immeasurable size. As he prepared for launch, with a desire to leap the ocean with ease, he braced his hands and feet with immense force against the Mahendragiri mountain.
->
----
+> **Meaning 11:** Having assumed an immense, immeasurable form in his desire to
+> cross the ocean, he pressed down firmly upon the mountain with both his arms
+> and his feet.
 
+---
 12.
 sa cacālācalāś cāru muhūrtaṁ kapipīḍitaḥ |
 tarūṇāṁ puṣpitāgrāṇāṁ sarvaṁ puṣpam aśātayat ||
@@ -82,10 +98,12 @@ tarūṇāṁ puṣpitāgrāṇāṁ sarvaṁ puṣpam aśātayat ||
 tena pādapamuktena puṣpaugheṇa sugandhinā |
 sarvataḥ saṁvr̥taḥ śailo babhau puṣpamayo yathā ||
 
-> **Meaning 12-13:** The powerful hanumān pressed the mountain with his hands and feet with immense force. As he did so, the mountain began to tremble, causing all the tree blossoms to fall like a shower of rain. The mountain, blanketed in fragrant blossoms, it appeared as a peak made entirely of flowers.
->
----
+> **Meaning 12-13:** Pressed by Hanumān, that mountain shook for a moment and
+> shook down all the lovely blossoms from the flowering crests of its trees.
+> Covered on every side by that fragrant shower of flowers shed from the trees,
+> the mountain shone as if made entirely of blossoms.
 
+---
 14.
 tena cottamavīryeṇa pīḍyamānaḥ sa parvataḥ |
 salilaṁ saṁprasusrāva madaṁ matta iva dvipaḥ ||
@@ -106,40 +124,51 @@ guhāviṣṭāni bhūtāni vinedur vikr̥taiḥ svaraiḥ ||
 sa mahāsattvasaṁnādaḥ śailapīḍānimittajaḥ |
 pr̥thivīṁ pūrayām āsa diśaś copavanāni ca ||
 
-> **Meaning 14-18:** As hanumān pressed the mountain, water streamed out like the ichor from a royal elephant. From the mountain's cracks, streams of gold, silver, and black minerals were expelled. 
-> The immense pressure from Anjaneya's form scraped the mountain rocks, causing flames to erupt and melting minerals like gold and silver to flow as streams from the fissures. 
-> As the mountain was pressed hard by hanumān, the caves within it were compressed, causing the creatures inside to be crushed and shriek horrifically. The screams of the perished beings within the mountain filled the entire earth, the surrounding forests, and all ten directions.
->
+> **Meaning 14-18:** Pressed by that hero of supreme valor, the mountain gushed
+> streams of water, like a rutting elephant discharging rut-fluid. Crushed by
+> that mighty one, Mount Mahendra released streams of gold, antimony, and
+> silver, and hurled down massive rocks tinged with red arsenic, while smoke and
+> sparks burst forth like fire kindled from within. Crushed on all sides as the
+> mountain was compressed, the creatures dwelling in its caves shrieked in
+> agonizing cries. That great roar of living beings, born of the mountain's
+> pressure, filled the earth, the cardinal directions, and the surrounding
+> groves.
+
 ---
 19.
 śirobhiḥ pr̥thubhiḥ sarpā vyaktasvastikalakṣaṇaiḥ |
 vamantaḥ pāvakaṁ ghoraṁ dadaṁśur daśanaiḥ śilāḥ ||
 
-> **Meaning 19:** Ferocious snakes with swastika markings on their broad hoods spewed poisonous flames as they bit the rocks.
->
----
+> **Meaning 19:** Serpents with broad hoods clearly marked with svastika signs
+> spat dreadful fire and bit into the rocks with their venomous fangs.
 
+---
 20.
 tās tadā saviṣair daṣṭāḥ kupitais tair mahāśilāḥ |
 jajvaluḥ pāvakodīptā vibhiduś ca sahasradhā ||
 
-> **Meaning 20:** The huge rocks exploded to pieces with a thundering crash as they burned from the poisonous flames caused by the venomous snake bites.
->
+> **Meaning 20:** Bitten by those enraged, venomous serpents, the massive
+> boulders blazed up in flames and shattered into a thousand pieces.
+
 ---
 21.
 yāni cauṣadhajālāni tasmiñ jātāni parvate |
 viṣaghnāny api nāgānāṁ na śekuḥ śamituṁ viṣam ||
 
-> **Meaning 21:** Though the Mahendragiri mountain grew many medicinal herbs known to neutralize poison, they failed to counteract the extreme venom caused by those ferocious snakes
->
+> **Meaning 21:** And the clusters of medicinal herbs growing on that mountain,
+> though naturally capable of neutralizing venom, could not quell the deadly
+> poison of those serpents.
+
 ---
 22.
 bhidyate 'yaṁ girir bhūtair iti matvā tapasvinaḥ |
 trastā vidyādharās tasmād utpetuḥ strīgaṇaiḥ saha ||
 
-> **Meaning 22:** Believing the mountain was under attack by demons, the sages grew deeply disturbed, while the Vidyadharas and their female companions ran away into the sky
----
+> **Meaning 22:** Thinking, "This mountain is being shattered by spirits," the
+> frightened ascetics, along with the Vidyādharas and their women, flew up into
+> the sky.
 
+---
 23.
 pānabhūmigataṁ hitvā haimam āsanabhājanam |
 pātrāṇi ca mahārhāṇi karakāṁś ca hiraṇmayān ||
@@ -148,9 +177,11 @@ pātrāṇi ca mahārhāṇi karakāṁś ca hiraṇmayān ||
 lehyān uccāvacān bhakṣyān māṁsāni vividhāni ca |
 ārṣabhāṇi ca carmāṇi khaḍgāṁś ca kanakatsarūn ||
 
-> **Meaning 23-24:** The Vidyadharas, in their fear, abandoned golden containers filled with wine, precious serving utensils, and a feast of various foods.This array of abandoned items included preparations meant to be licked, items to be chewed, and other provisions, along with swords featuring golden hilts. 
----
+> **Meaning 23-24:** They left behind golden seats and vessels at their drinking
+> grounds, costly goblets, golden pitchers, various foods to be licked and
+> chewed, diverse meats, shields of bull-hide, and swords with golden hilts.
 
+---
 25.
 kr̥takaṇṭhaguṇāḥ kṣībā raktamālyānulepanāḥ |
 raktākṣāḥ puṣkarākṣāś ca gaganaṁ pratipedire ||
@@ -159,7 +190,11 @@ raktākṣāḥ puṣkarākṣāś ca gaganaṁ pratipedire ||
 hāranūpurakeyūra pārihārya dharāḥ striyaḥ |
 vismitāḥ sasmitās tasthur ākāśe ramaṇaiḥ saha ||
 
-> **Meaning 25-26:** Vidyadharas, adorned with garlands of red flowers and smeared with red sandalwood paste, stood in the sky with their female companions. Their red, lotus-petal-like eyes were flushed from intoxication, and their companions, wearing necklaces, anklets, armlets, and bangles, smiled with a mix of excitement and surprise
+> **Meaning 25-26:** Intoxicated, with red-tinged lotus eyes, wearing necklaces,
+> garlands of red blossoms, and red unguents, the Vidyādharas mounted to the
+> sky. Their women, adorned with pearl necklaces, anklets, armlets, and bangles,
+> stood in the sky beside their lovers, smiling in wonder.
+
 ---
 27.
 darśayanto mahāvidyāṁ vidyādharamaharṣayaḥ |
@@ -169,18 +204,26 @@ sahitās tasthur ākāśe vīkṣāṁ cakruś ca parvatam ||
 śuśruvuś ca tadā śabdam r̥ṣīṇāṁ bhāvitātmanām |
 cāraṇānāṁ ca siddhānāṁ sthitānāṁ vimale 'mbare ||
 
-> **Meaning 27-28:** Vidhyadharas and sages stood delicately in the sky without any support, showing their superior skills and watching Mahendragiri with curiosity.Then, they overheard the words of the Rishis, Charanas, and Siddhas who had also gathered in that serene sky.
->
-> 29.
-> eṣa parvatasaṁkāśo hanūmān mārutātmajaḥ |
-> titīrṣati mahāvegaṁ samudraṁ makarālayam ||
->
-> 30.
-> rāmārthaṁ vānarārthaṁ ca cikīrṣan karma duṣkaram |
-> samudrasya paraṁ pāraṁ duṣprāpaṁ prāptum icchati ||
->
-> **Meaning 29-30:** "hanumān, son of Vāyu and mighty as a mountain, has taken upon the impossible task of leaping the crocodile-inhabited ocean with his great speed for the sake of Rāma and the Vanaras"
->
+> **Meaning 27-28:** Displaying their great mystic lore, the great sages among
+> the Vidyādharas stood together in the sky and gazed down at the mountain. Then
+> they heard the voices of the noble-souled Ṛṣis, Cāraṇas, and Siddhas gathered
+> in the spotless sky:
+
+---
+29.
+eṣa parvatasaṁkāśo hanūmān mārutātmajaḥ |
+titīrṣati mahāvegaṁ samudraṁ makarālayam ||
+
+30.
+rāmārthaṁ vānarārthaṁ ca cikīrṣan karma duṣkaram |
+samudrasya paraṁ pāraṁ duṣprāpaṁ prāptum icchati ||
+
+> **Meaning 29-30:** "This Hanumān, son of Vāyu and massive as a
+> mountain, wishes to cross the ocean, the abode of sea-monsters, with
+> tremendous speed. For the sake of Rāma and the Vānaras, wishing to accomplish
+> an arduous task, he seeks to reach the far shore of the ocean, which is nearly
+> impossible to attain."
+
 ---
 31.
 iti vidyādharā śśrutvā vacastēṣāṁ mahātmanām |
@@ -194,15 +237,22 @@ nanāda ca mahānādaṁ sumahān iva toyadaḥ ||
 ānupūrvyāc ca vr̥ttaṁ ca lāṅgūlaṁ romabhiś citam |
 utpatiṣyan vicikṣepa pakṣirāja ivoragam ||
 
-> **Meaning 31-33:** Thus, listening to the words from those wise ones, the vidyadharas watched hanumān, resembling a mountain, extended his form, shook his body vigorously, and roared with a sound like rumbling thunder.As he prepared for flight, hanumān, lifted his long, hairy tail, which gradually tapered to a circular tip,  like Garuda striking a snake.
->
+> **Meaning 31-33:** Hearing the words of those great-souled sages, the
+> Vidyādharas gazed upon that immeasurable foremost of Vānaras standing on the
+> mountain. Hanumān, massive as a mountain, shook his fur, quivered with energy,
+> and roared with a mighty sound like a great thundercloud. Preparing to leap,
+> he brandished his thick, hairy tail—rounded and tapering symmetrically—whipping
+> it like the king of birds brandishing a serpent.
+
 ---
 34.
 tasya lāṅgūlam āviddhaṁ ativegasya pr̥ṣṭhataḥ |
 dadr̥śe garuḍeneva hriyamāṇo mahoragaḥ ||
 
-> **Meaning 34:** He flapped his tail once, and it stood stiff and curved up from his back, resembling a snake snatched away by the mighty Garuda.
->
+> **Meaning 34:** Curled up behind his back as he prepared to leap with
+> tremendous velocity, his tail looked like a huge serpent being carried away by
+> Garuḍa.
+
 ---
 35.
 bāhū saṁstambhayām āsa mahāparighasaṁnibhau |
@@ -221,7 +271,14 @@ padbhyāṁ dr̥ḍham avasthānaṁ kr̥tvā sa kapikuñjaraḥ |
 nikuñcya karṇau hanumān utpatiṣyan mahābalaḥ |
 vānarān vānaraśreṣṭha idaṁ vacanam abravīt ||
 
-> **Meaning 35-38:** That Kapishwara stiffened his massive arms, which resembled heavy iron clubs, held his breath, tightened his ankles and braced his feet. As he touted his shoulders and neck, he was filled with energy, courage, and strength. Lifting his eyes upward, he fixed his gaze on the path he needed to travel in the sky and held his breath within his heart.That supreme vanara firmly planted his feet on the ground, perked his ears, and stood ready to take the tremendous leap. hanumān, spoke these words to the rest of the vanaraas - 
+> **Meaning 35-38:** That foremost of Vānaras stiffened his arms, which
+> resembled massive iron clubs, sank down at his waist, and contracted his feet.
+> Drawing in his arms and neck, the glorious and valiant hero summoned all his
+> radiant energy, inner courage, and strength. Gazing at his distant path
+> through the sky with eyes cast upward, he held his breath within his chest.
+> Taking a firm stance with both feet and flattening his ears, the mighty
+> Hanumān, about to leap, addressed the Vānaras:
+
 ---
 39.
 yathā rāghavanirmuktaḥ śaraḥ śvasanavikramaḥ |
@@ -243,22 +300,24 @@ sarvathā kr̥takāryo 'ham eṣyāmi saha sītayā |
 evam uktvā tu hanumān vānarān vānarottamaḥ |
 utpapātātha vegena vegavān avicārayan ||
 
-> 39-43."As an arrow released by Rāghava speeds with the force of wind, even so
-> shall I fly to Laṅkā, ruled by Rāvaṇa. If I do not find the daughter of Janaka
-> in Laṅkā, I shall proceed with the same speed to the abode of the gods. And if I
-> do not find Sītā even in heaven despite all my efforts, I shall bind the king of
-> Rākṣasas and bring Rāvaṇa back. In any case, I shall return successful, either
-> bringing Sītā with me or uprooting Laṅkā itself along with Rāvaṇa!"
->
----
+> **Meaning 39-43:** "Just as an arrow loosed by Rāghava speeds forward with the
+> fury of the wind, so shall I fly to Laṅkā, ruled by Rāvaṇa. If I do not find
+> the daughter of Janaka in Laṅkā, I shall proceed with this very same speed to
+> the abode of the devas. And if, despite all my efforts, I do not find Sītā
+> even in heaven, I shall bind the Rākṣasa king Rāvaṇa and bring him back! In
+> any event, having accomplished my purpose, I shall return either bringing Sītā
+> with me, or having uprooted Laṅkā itself along with Rāvaṇa!" Having spoken
+> thus to the Vānaras, the foremost of Vānaras, swift and resolute, sprang up
+> into the air with immense velocity without hesitation.
 
+---
 44.
 suparṇamiva cātmānaṁ mēnē sa kapikuṁjaraḥ ||
 
-> **Meaning 44:** Spoken thus, hanumān, without any hesitation, flew with great vigor, feeling himself to be like Garuda. 
->
----
+> **Meaning 44:** As he soared, that foremost of Vānaras felt himself to be none
+> other than Garuḍa.
 
+---
 45.
 samutpatati tasmiṁs tu vegāt te nagarohiṇaḥ |
 saṁhr̥tya viṭapān sarvān samutpetuḥ samantataḥ ||
@@ -279,8 +338,16 @@ anujagmur hanūmantaṁ sainyā iva mahīpatim ||
 supuṣpitāgrair bahubhiḥ pādapair anvitaḥ kapiḥ |
 hanumān parvatākāro babhūvādbhutadarśanaḥ ||
 
-> **Meaning 45-49:** As he took flight with force, the trees of that mountain, its branches drawn together by his speed, were uprooted all around him. His massive thighs lifted trees laden with flowers into the empty sky.The trees, shaken by the force of his thighs, seemed to follow the hanumān for a short distance, like friends accompanying a departing friend. Sal and other tall trees, followed hanumān like an army following its emperor. It was a wonderful sight where hanumān looked like mighty mountain with flowering trees
->
+> **Meaning 45-49:** As he surged upward with speed, the trees growing on the
+> mountain drew their branches together and were swept up on all sides. Carried
+> along by the momentum of his thighs, trees laden with blossoms and filled with
+> intoxicated lapwings soared into the clear sky. Uprooted by the force of his
+> thighs, those trees followed the Vānara for a moment, like relatives escorting
+> a kinsman embarking on a long journey. Sāl trees and other noble trees, torn
+> away by the draft of his thighs, followed Hanumān like soldiers following their
+> king. Accompanied by these countless trees with flowering crests, Hanumān,
+> massive as a mountain, was an astonishing sight to behold.
+
 ---
 50.
 sāravanto 'tha ye vr̥kṣā nyamajjam̐l lavaṇāmbhasi |
@@ -299,11 +366,16 @@ laghutvenopapannaṁ tat vicitraṁ sāgare 'patat |
 drumāṇāṁ vividhaṁ puṣpaṁ kapivāyusamīritam |
 tārācitamivākāśaṁ prababhau sa mahārṇavaḥ ||
 
-> **Meaning 50-53:** The heavier trees then plunged into the ocean and sank, like the mountains that once hid in the sea to escape the wrath of Indra. Splendid like a mountain, hanumān, covered in blossoms, buds, and fresh shoots, looked as though he were a mountain twinkling with fireflies. (during nights).Like close friends who have said goodbye, the trees traveled a short distance with hanumān before falling into the water, where their showering flowers spread across the surface as if the sea were a sky filled with stars
->
+> **Meaning 50-53:** The heavier trees plunged into the salt sea and sank, like
+> the mountains of old that hid in the ocean out of fear of Indra. Covered with
+> various blossoms, fresh sprouts, and buds, Hanumān, looking like a dark cloud,
+> shone like a mountain illuminated by swarms of fireflies. Released by his speed
+> after shedding their flowers, the trees fell back into the water, like friends
+> turning back after escorting a traveler. Dispersed by the wind generated by the
+> Vānara, the light and colorful blossoms fell upon the ocean, making the vast
+> sea shine like a night sky studded with stars.
+
 ---
-
-
 54.
 puṣpaugheṇānubaddhena nānāvarṇena vānaraḥ |
 babhau megha ivodyan vai vidyudgaṇavibhūṣitaḥ ||
@@ -312,11 +384,12 @@ babhau megha ivodyan vai vidyudgaṇavibhūṣitaḥ ||
 tasya vegasamudbhūtaiḥ puṣpais toyam adr̥śyata |
 tārābhir abhirāmābhir uditābhir ivāmbaram ||
 
-> 54-55.hanumān, covered in flowers of various hues, shot through the sky like a flash of lightning. The blossoms, falling away due to his immense speed, scattered across the ocean's surface, appearing like a sky filled with rising stars. 
->
+> **Meaning 54-55:** Trailing a dense shower of multicolored blossoms, the
+> Vānara shone like a rising cloud adorned with flashes of lightning. Covered
+> with the flowers scattered by his speed, the surface of the water appeared
+> like the sky adorned with radiant stars.
+
 ---
-
-
 56.
 tasyāmbaragatau bāhū dadr̥śāte prasāritau |
 parvatāgrād viniṣkrāntau pañcāsyāv iva pannagau ||
@@ -337,9 +410,15 @@ cakṣuṣī saṁprakaśete candrasūryāv iva sthitau ||
 mukhaṁ nāsikayā tasya tāmrayā tāmram ābabhau |
 saṁdhyayā samabhispr̥ṣṭaṁ yathā sūryasya maṇḍalam ||
 
-> **Meaning 56-60:** His widely spread arms in the sky were radiating like a five-headed serpent emerging from a mountain peak.Traveling at immense speed, hanumān's shadow on the water made him appear to be sipping the entire ocean, including its waves. He also looked like one who desired to drink the entire sky.As he traveled the path of the wind, his eyes, like a spark of lightning, resembled two fires 
-> on a mountain.His broadly spread eyes, with their reddish-orange hues, resembled the rising sun and moon. His reddish face with red nose was elegant as solar space during twilight
->
+> **Meaning 56-60:** His outstretched arms traversing the sky appeared like two
+> five-headed serpents emerging from a mountain peak. That great Vānara looked as
+> though he were drinking up the vast ocean with all its billowing waves, and
+> seemed eager to swallow the sky itself. As he sped along the path of the wind,
+> his eyes, flashing with the brilliance of lightning, blazed like two fires on a
+> mountain. The large, round, tawny eyes of that foremost of Vānaras shone like
+> the sun and the moon stationed side by side in the heavens. With his
+> copper-hued nose, his reddish face shone like the radiant disc of the sun
+> touched by the glow of twilight.
 ---
 61.
 lāṅgalaṁ ca samāviddhaṁ plavamānasya śobhate |
@@ -357,8 +436,14 @@ mahatā dāriteneva girir gairikadhātunā ||
 tasya vānarasiṁhasya plavamānasya sāgaram |
 kakṣāntaragato vāyur jīmūta iva garjati ||
 
-> 61-64.As hanumān floated through the sky, his tail end was majestically erect, like the flagstaff and banner of Indra. The great and most intelligent hanumān, who has white teeth, had his tail, curved as a circle, looking like a halo around the sun. His buttocks looked like a split mountain made of red ochre.The wind passing by Veera hanumān was making a sound like a thundering cloud. 
->
+> **Meaning 61-64:** As the son of Vāyu soared through the sky, his
+> curled, upraised tail shone like the festive banner-pole of Indra. With the
+> circular sweep of his tail, the wise, white-fanged son of Vāyu appeared
+> like the sun surrounded by a radiant halo. With his copper-red flanks, the
+> great Vānara looked like a massive mountain cleft open and glowing with red
+> ochre. And as that lion among Vānaras crossed the ocean, the wind rushing
+> beneath his armpits roared like a thundering raincloud.
+
 ---
 65.
 khe yathā nipataty ulkā uttarāntād viniḥsr̥tā |
@@ -372,8 +457,13 @@ pravr̥ddha iva mātaṁgaḥ kakṣyayā badhyamānayā ||
 upariṣṭāc charīreṇa chāyayā cāvagāḍhayā |
 sāgare mārutāviṣṭā naur ivāsīt tadā kapiḥ ||
 
-> **Meaning 65-67:** hanumān appeared like a meteor streaking through the sky with a long trail behind it. resembling the Surya passing in the sky, appeared like a majestic elephant captured in a chamber. With his huge body above and his deep shadow below on the sea, hanumān looked like a boat being tossed by strong winds with his reflection, partially submerged and partially floating on the surface.
->
+> **Meaning 65-67:** Just as a brilliant meteor shooting from the northern
+> heavens leaves a blazing trail across the sky, so did that foremost of Vānaras
+> appear. Resembling the soaring sun, the outstretched Vānara shone like a
+> majestic elephant adorned with girth-bands. With his colossal form soaring high
+> above and his deep shadow sweeping across the sea below, the Vānara looked like
+> a ship propelled across the ocean by powerful winds.
+
 ---
 68.
 yaṁ yaṁ deśaṁ samudrasya jagāma sa mahākapiḥ |
@@ -391,8 +481,15 @@ sāgaraṁ bhīmanirghoṣaṁ kampayām āsatur bhr̥śam ||
 vikarṣann ūrmijālāni br̥hanti lavaṇāmbhasi |
 atyakrāman mahāvegas taraṅgān gaṇayann iva ||
 
-> **Meaning 68-71:** His immense speed agitated the ocean wherever he passed overhead, and his chest shattered the massive, mountain-high waves as he flew. The ocean, already agitated, became even more frightful due to the combined sound of the wind created by hanumān’s intense speed and the air rushing from the clouds. Smashing the towering waves of the ocean, Kapivara flew as though he were a line separating the earth from the sky.
->
+> **Meaning 68-71:** Whichever region of the ocean that great Vānara passed over
+> seemed to churn frantically as if frenzied by the momentum of his flight.
+> Striking with his chest the mountain-high billows of the ocean, that great
+> Vānara sped forward with immense velocity. The powerful wind generated by the
+> Vānara and the tempest rushing from the clouds combined to violently shake the
+> ocean with a terrifying roar. Pulling along massive waves across the salt sea,
+> he surged ahead at tremendous speed, as though counting the billows beneath
+> him.
+
 ---
 72.
 mērumaṁdara saṁkāśān uddhatānsa mahārṇavē |
@@ -406,10 +503,14 @@ aṁbarasthaṁ vibabhrāja śāradābhramivā tatam ||
 timinakrajhaṣāḥ kūrmāḥ dr̥śyaṁtē vivr̥tāstadā |
 vastrāpakarṣaṇēnēva śarīrāṇi śarīriṇām ||
 
-> **Meaning 72-74:** Over the ocean, he flew past waves as high as Meru and Mandara, as if counting them in his stride. The towering waves, caused by Vaayunandana's speed, rose so high that they covered the entire sky like thick white clouds during the Sharath Rithu (autumn season).The splashing of the water, churned up by his speed, spread across the sky like a rain cloud, revealing sea creatures such as whales, crocodiles, and fishes, their bodies exposed as if their garments had been ripped away.
->
----
+> **Meaning 72-74:** Surging past the ocean waves that rose as high as Mount
+> Meru and Mount Mandara, he crossed them with incredible speed, as though
+> counting them. The spray flung high into the sky by his momentum, mingling with
+> the clouds, shone like vast white autumn clouds spread across the heavens.
+> Whales, crocodiles, giant fish, and turtles were laid bare in the water, like
+> the bodies of living beings stripped of their garments.
 
+---
 75.
 plavamānaṁ samīkṣyātha bhujaṅgāḥ sāgarālayāḥ |
 vyomni taṁ kapiśārdūlaṁ suparṇam iti menire ||
@@ -422,8 +523,12 @@ chāyā vānarasiṁhasya jale cārutarābhavat ||
 śvetābhraghanarājīva vāyuputrānugāminī |
 tasya sā śuśubhe chāyā vitatā lavaṇāmbhasi ||
 
-> **Meaning 75-77:** Serpents in the oceanic waters were frightened by viewing hanumān in the sky and thinking him to be Garuda. The shadow of mighty hanumān, who is like a lion among the Vanaras, was a spectacle, stretching to a length of 10 yojanas and a width of 30 yojanas. (1 yojana = ~13km. Given that hanumān began his journey from North to South at dawn, the effect of the low sunlight meant his shadow's length remained unchanged, but its width appeared broader.).The wide spread shadow following Vaayu’s son looked like a group of thick dense white clouds in the ocean
->
+> **Meaning 75-77:** Seeing that tiger among Vānaras soaring across the sky, the
+> serpents dwelling in the ocean mistook him for Garuḍa. Ten yojanas in breadth
+> and thirty yojanas in length, the shadow cast upon the water by that lion among
+> Vānaras was a wondrous sight. Following the son of Vāyu like a dense
+> bank of white clouds, that vast shadow shone resplendently over the salt sea.
+
 ---
 78.
 śuśubhē sa mahātējāḥ mahākāyō mahākapiḥ |
@@ -445,13 +550,16 @@ kapinā kr̥ṣyamāṇāni mahābhrāṇi cakāśirē ||
 praviśannabhrajālāni niṣpataṁśca punaḥ punaḥ |
 pracchannaśca prakāśaśca caṁdramā iva lakṣyatē ||
 
-> **Meaning 78-82:** The great and radiant hanumān, shone like a winged mountain floating effortlessly through the sky. 
-> Such was the power of hanumān that the portion of the ocean he flew over resembled a vast ship.hanumān moved through the sky like Garuda flying among birds, 
-> drawing entire banks of clouds toward him. These massive clouds, colored with the hues of morning—pale yellow, reddish-orange, and deep indigo—were pulled along by his momentum. 
-> As he moved through the layers of clouds, sometimes disappearing into them and then emerging, he alternated between being concealed and revealed, appearing like the moon which is hidden and then brightly revealed as the clouds drift away
->
----
+> **Meaning 78-82:** That great Vānara of colossal form and immense radiance
+> shone in the unsupported aerial highway like a winged mountain of old. Along
+> the wake where that mighty hero sped, the ocean suddenly appeared scooped out
+> like a deep trough. Soaring in the skyway of the birds like Garuḍa, Hanumān
+> drew along masses of clouds, like the wind itself. Swept along by the Vānara,
+> the great clouds—white, crimson, dark blue, and madder—shone brilliantly.
+> Entering the cloud-banks and emerging again and again, alternately hidden and
+> visible, he appeared like the moon passing through the clouds.
 
+---
 83.
 plavamānaṁ tu taṁ dr̥ṣṭvā plavagaṁ tvaritaṁ tadā |
 vavr̥ṣuḥ puṣpavarṣāṇi devagandharvadānavāḥ ||
@@ -468,8 +576,14 @@ jaguśca devagandharvāḥ praśaṁsanto mahaujasaṁ ||
 nāgāśca tuṣṭuvur yakṣā rakṣāṁsi vibudhāḥ khagāḥ |
 prekṣyākāśe kapivaraṁ sahasā vigataklamam ||
 
-> **Meaning 83-86:** Immensely impressed by hanumān’s mighty, devathas, gandharvas and daanava showered flowers over him. Even the Sun god did not scorch hanumān as he flew onward, and Vaayu himself blew gently to help him reach his destination easily. The Rishis praised hanumān as he flew, and the Gandharvas sang of his greatness and strength
->
+> **Meaning 83-86:** Seeing that Vānara leaping swiftly forward, the devas,
+> gandharvas, and dānavas showered down a rain of flowers upon him. The sun did
+> not scorch that lord of Vānaras as he flew, and the wind blew gently and
+> favorably for the success of Rāma's mission. The Ṛṣis extolled him as he sped
+> through the heavens, and the celestial Gandharvas sang songs in honor of his
+> immense might. The Nāgas, Yakṣas, Rākṣasas, devas, and birds all praised that
+> foremost of Vānaras, beholding him fly tirelessly through the sky.
+
 ---
 87.
 tasmin plavagaśārdūle plavamāne hanūmati |
@@ -487,8 +601,14 @@ ikṣvākusacivaś cāyaṁ nāvasīditum arhati ||
 tathā mayā vidhātavyaṁ viśrameta yathā kapiḥ |
 śeṣaṁ ca mayi viśrāntaḥ sukhenātipatiṣyati ||
 
-> **Meaning 87-90:** As hanumān flew through the sky with his immense speed, Saagara, the Ocean, who is a well-wisher of the Ikshvaku dynasty, thought to himself, “ If I fail to assist hanumān at this moment, it will bring blame upon me from all fronts. I was expanded by king Sagara, and hanumān is a well-wisher of the Ikshvakus. He must not go through any hardship. I must provide a means for his rest. After being rested for a while, he could complete the remainder of the journey with ease”
->
+> **Meaning 87-90:** As that tiger among Vānaras, Hanumān, was leaping across
+> the sea, Samudra, seeking to honor the House of Ikṣvāku, reflected: "If I do
+> not render help to Hanumān, the foremost of Vānaras, I shall be blameworthy in
+> the eyes of all who speak. I was expanded by the Ikṣvāku king Sagara, and this
+> Hanumān is a devoted ally of the Ikṣvākus; he must not succumb to exhaustion.
+> I must arrange matters so that the Vānara may take rest; and having rested upon
+> me, he will easily fly across the remainder of the ocean."
+
 ---
 91.
 iti kr̥tvā matiṁ sādhvīṁ samudraś channam ambhasi |
@@ -506,8 +626,14 @@ pātālasyāprameyasya dvāram āvr̥tya tiṣṭhasi ||
 tiryag ūrdhvam adhaś caiva śaktis te śailavardhitum |
 tasmāt saṁcodayāmi tvām uttiṣṭha nagasattama ||
 
-> **Meaning 91-94:** Henceforth, with benevolent thoughts, Samudra addressed Mainaka, who is the greatest mountain, who holds gold within its core and remains concealed beneath the oceanic waters. "O Mainaka, best of mountains, you have been stationed here by Indra, king of the gods, as a barrier against the hosts of Asuras dwelling in the depths of Pātāla. You stand guarding the immeasurable gateway of Pātāla, blocking those of known prowess who would rise again. You have the power to grow sideways, upward, and downward. Therefore I urge you to rise up!"
->
+> **Meaning 91-94:** Having formed this noble resolve, Samudra addressed
+> Maināka, whose core is of gold and who remained concealed beneath the waters:
+> "O noble Maināka, you were placed here by the king of the devas as a barrier
+> against the hordes of asuras dwelling in the depths of Pātāla. You stand
+> blocking the gateway of the immeasurable Pātāla, preventing those beings of
+> known prowess from rising again. You possess the power to expand sideways,
+> upward, and downward. Therefore, I urge you: rise up, O Maināka!
+
 ---
 95.
 sa eṣa kapiśārdūlas tvām uparyeti vīryavān |
@@ -533,10 +659,19 @@ hanūmāṁs tvayi viśrāntas tataḥ śeṣaṁ gamiṣyati ||
 kākutsthasyānr̥śaṁsyaṁ ca maithilyāś ca vivāsanam |
 śramaṁ ca plavagendrasya samīkṣyotthātum arhasi ||
 
-> **Meaning 95-100:** " hanumān, who has taken up this impossible mission for Rāma, is flying in the sky above you. Look! He is coming right towards you.The Ikshvaku dynasty is highly venerable to me. Since you are sheltered by me, they are respectable to you as well. It is therefore our duty to help hanumān, who is traveling on the mission of Shri Rama, a descendant of the Ikshvaku dynasty. 
-> So, help us. A task not done in-time would upset great saintly people. And one should never upset virtuous people. his hanumān is a guest to be worshipped by us. Hence, without any further delay, rise above the water and provide some rest for him.
-> O the one whose peaks are covered with gold, whom even devatas and gandharvas serve, O Mainaka, hanumān could continue his journey after resting for a while on you. Look! He is almost upon you!Considering the turmoil that Shri Rama is experiencing because of Sita, the agony that Sita Devi is enduring, and hanumān's efforts, rise above the water hurriedly."
->
+> **Meaning 95-100:** "This valiant tiger among Vānaras, Hanumān, capable of
+> formidable deeds, has leaped into the sky for the mission of Rāma, and is
+> passing above you. I must render assistance to him, who serves the House of
+> Ikṣvāku. The Ikṣvākus are worthy of my reverence, and they are even more
+> venerable to you. Offer him your assistance on our behalf, so that our duty is
+> not neglected; for a duty left undone stirs the displeasure of the virtuous.
+> Rise above the waters so that this Vānara may rest upon you; this foremost of
+> leapers is our honored guest, worthy of worship. O Maināka of great golden
+> core, frequented by devas and gandharvas, once Hanumān has rested upon you, he
+> will easily cross the remainder of the journey. Considering the compassion of
+> Rāma, the exile of the princess of Mithilā, and the fatigue of this king of
+> Vānaras, it is right that you arise!"
+
 ---
 101.
 hiraṇyanābho maināko niśamya lavaṇāmbhasaḥ |
@@ -550,11 +685,13 @@ yathā jaladharaṁ bhittvā dīptaraśmir divākaraḥ ||
 sa mahātmā muhūrtēna parvatassalilāvr̥taḥ |
 darśayāmāsa śr̥ṁgāṇi sāgarēṇa niyōjitaḥ ||
 
-> **Meaning 101-103:** Following the instructions of the Ocean, Maināka, the golden-peaked mountain,
-> rose swiftly from the waters, covered with great trees and creepers. Bursting
-> through the ocean water, he rose aloft like the radiant sun breaking through a
-> mass of clouds.
->
+> **Meaning 101-103:** Hearing the words of Samudra, the golden-peaked
+> Maināka swiftly rose up from the water, covered with mighty trees and creepers.
+> Cleaving the ocean waters, he stood towering aloft, like the radiant sun
+> bursting through a dense mass of clouds. In a single moment, the great-souled
+> Maināka, previously enveloped by the waters, displayed his magnificent peaks
+> at the bidding of Samudra.
+
 ---
 104.
 śātakumbhamayaiḥ śr̥ṅgaiḥ sakiṁnaramahoragaiḥ |
@@ -568,8 +705,12 @@ tasya jāmbūnadaiḥ śr̥ṅgaiḥ parvatasya samutthitaiḥ |
 jātarūpamayaiḥ śr̥ṅgair bhrājamānaiḥ svayaṁ prabhaiḥ |
 ādityaśatasaṁkāśaḥ so 'bhavad girisattamaḥ ||
 
-> **Meaning 104-106:** Where Kinneras and serpents leisurely roam, that Mainaka with its gleaming golden peaks, caused all directions to be radiant, like the Sun’s rays at dawn. The skies, which held a shade of iron, reflected red hues like those of molten iron.Surging up its peaks from the ocean, that mountain gleamed with a brilliance comparable to hundreds of suns. 
->
+> **Meaning 104-106:** With his golden peaks inhabited by Kinnaras and great
+> serpents—glowing like the rising sun and seeming to scrape the heavens—and with
+> those golden summits rising high, the sword-hued sky took on a radiant golden
+> luster. Shining with those peaks of native gold that possessed their own
+> brilliance, Maināka blazed like a hundred suns.
+
 ---
 107.
 tam utthitam asaṁgena hanūmān agrataḥ sthitam |
@@ -583,11 +724,13 @@ urasā pātayām āsa jīmūtam iva mārutaḥ ||
 sa tadā pātitas tena kapinā parvatottamaḥ |
 buddhvā tasya kaper vegaṁ jaharṣa ca nananda ca ||
 
-> **Meaning 107-109:** Seeing the mountain risen before him in the midst of the ocean,
-> Hanumān concluded it to be an obstacle and did not pause. 
-> hanumān, who could travel at the speed of wind, flying with tremendous speed, struck it down with his chest, as the wind
-> scatters a cloud. Mainaka, being thrown effortlessly by hanumān, was delighted with his immense strength and inwardly exclaimed in excitement, "Alas! What’s his might!" 
->
+> **Meaning 107-109:** Seeing Maināka suddenly risen before him in the midst of
+> the salt sea, Hanumān concluded it was an obstacle and did not hesitate.
+> Flying with tremendous speed, that great Vānara struck down that towering peak
+> with his chest, as the wind knocks down a cloud. Pushed back by the Vānara,
+> Maināka, recognizing the incredible velocity of that hero, felt both wonder
+> and great joy.
+
 ---
 110.
 tam ākāśagataṁ vīram ākāśe samavasthitam |
@@ -606,10 +749,15 @@ sa tvāṁ rāmahite yuktaṁ pratyarcayati sāgaraḥ ||
 kr̥te ca pratikartavyam eṣa dharmaḥ sanātanaḥ |
 so 'yaṁ tat pratikārārthī tvattaḥ saṁmānam arhati ||
 
-> **Meaning 110-113:** Maināka, standing upon his own summit in human form, the pleased and joyful
-> Maināka spoke to the hero who was poised in the sky: "You have embarked on a challenging, seemingly impossible, task. (You may be weary?) please take a moment to rest on these peaks. 
-> This ocean was formed by the descendants of the great King Raghu. Therefore,  Saagara wishes to honor and assist you, a well-wisher of Rama. It is one's duty to return gratitude for a good deed received. This is a tenet of  sanatana dharma. The Ocean who desires to assist you, is worthy of your generosity."
->
+> **Meaning 110-113:** Assuming a human form and standing upon his own summit,
+> Maināka, delighted and joyous at heart, addressed that heroic Vānara poised in
+> the sky: "O foremost of Vānaras, you are accomplishing a task exceedingly
+> difficult to perform. Alight upon my summits and rest at your ease! The ocean
+> was expanded by the kings born in the line of Raghu; hence Samudra now honors
+> you, who are engaged in the service of Rāma. For a favor received, a return
+> favor must be done—this is eternal dharma. Seeking to repay that ancient debt,
+> Samudra deserves this honor from you."
+
 ---
 114.
 tvannimittamanēnāhaṁ bahumānātpracōditaḥ |
@@ -619,9 +767,13 @@ tiṣṭha tvaṁ kapiśārdūla mayi viśramya gamyatām ||
 yōjanānāṁ śataṁ cāpi kapirēṣa khamāplutaḥ |
 tava sānuṣu viśrāṁtaḥ śēṣaṁ prakramatāmiti ||
 
-> **Meaning 114-115:** Samudra's words were: 'Mighty hanumān is destined to fly 100 yojanas in the sky. Allow him to rest on your peaks before resuming his travel.' This was his way of encouraging me to assist you. Hence, O hanumān, please rest briefly on my peaks and then move forward.
----
+> **Meaning 114-115:** "It was on your account, out of deep respect for you, that
+> Samudra urged me, saying: 'This Vānara has leaped into the sky to cross a
+> hundred yojanas; let him rest upon your ridges and then traverse the rest of the
+> distance.' Therefore, O tiger among Vānaras, alight here; take rest upon me and
+> then proceed!"
 
+---
 116.
 tadidaṁ gaṁdhavatsvādu kaṁdamūlaphalaṁ bahu
 tadāsvādya hariśrēṣṭha! viśrāṁtō’nu gamiṣyasi ||
@@ -634,9 +786,12 @@ prakhyātas triṣu lokeṣu mahāguṇaparigrahaḥ ||
 vegavantaḥ plavanto ye plavagā mārutātmaja |
 teṣāṁ mukhyatamaṁ manye tvām ahaṁ kapikuñjara ||
 
-> **Meaning 116-118:** "Therefore, O Hariveera! We have an abundance of highly flavorful and aromatic edible roots and fruits. Kindly rest here for a while and enjoy them before you proceed on your 
-> journey.
-> Furthermore, O Kapivara, we share a past acquaintance, and virtuous people consider you to be worthy of their love and affection.O Maruti! Kapikunjara! I would think you are the best among the all the vanaraas who can fly.
+> **Meaning 116-118:** "Here are abundant, fragrant, and delicious roots and
+> fruits; enjoy them, O foremost of Haris, and after resting, you may proceed.
+> Moreover, O chief of Vānaras, there exists a sacred bond between you and me,
+> renowned throughout the three worlds and founded upon great virtues. Among all
+> the Vānaras who leap with speed, O son of Vāyu, I consider you to be the
+> foremost and supreme."
 ---
 119.
 atithiḥ kila pūjārhaḥ prākr̥to 'pi vijānatā |
@@ -646,17 +801,21 @@ dharmaṁ jijñāsamānena kiṁ punar yādr̥śo bhavān ||
 tvaṁ hi devavariṣṭhasya mārutasya mahātmanaḥ |
 putras tasyaiva vegena sadr̥śaḥ kapikuñjara ||
 
-> **Meaning 119-120:** Even an ordinary guest deserves to be honored by one who understands dharma — how much more so one such as yourself! 
-> For you are the son of the great-souled Mārutā (Vāyu), the foremost among the gods, and you are equal to him in speed.
----
+> **Meaning 119-120:** "Even an ordinary guest is worthy of honor by one who
+> knows and seeks to practice dharma—how much more so an exalted being like you!
+> For you are the son of the great-souled Vāyu, the foremost among the devas, and
+> you equal him in speed, O foremost of Vānaras."
 
+---
 121.
 pūjite tvayi dharmajña pūjāṁ prāpnoti mārutaḥ |
 tasmāt tvaṁ pūjanīyo me śr̥ṇu cāpy atra kāraṇam ||
 
-> **Meaning 121:** By honouring you, O knower of dharma, honour is rendered to Vāyu himself. Therefore you deserve my reverence. And hear also another reason:
----
+> **Meaning 121:** "When you are honored, O knower of dharma, Vāyu himself
+> receives honor. Therefore, you are worthy of my deepest reverence; and hear
+> also the further reason for this:
 
+---
 122.
 pūrvaṁ kr̥tayuge tāta parvatāḥ pakṣiṇo 'bhavan |
 te 'pi jagmur diśaḥ sarvā garuḍānilaveginaḥ ||
@@ -665,10 +824,13 @@ te 'pi jagmur diśaḥ sarvā garuḍānilaveginaḥ ||
 tatas teṣu prayāteṣu devasaṁghāḥ saharṣibhiḥ |
 bhūtāni ca bhayaṁ jagmus teṣāṁ patanaśaṅkayā ||
 
-> **Meaning 122-123:** "O dear one, during the Krita Yuga, the mountains had wings, allowing them to move across all directions with the immense speed of Vāyu, much like Garuda.
-> This created fear among the gods (Devathas), sages (Rishis), and all creatures, who were worried that the mountains might fall upon them.
----
+> **Meaning 122-123:** "Long ago in the Kṛta Yuga, my dear one, the mountains
+> possessed wings and flew across all directions with the speed of Garuḍa and the
+> wind. When they flew about, the hosts of devas, along with the ṛṣis and all
+> living creatures, were gripped by terror, fearing that the mountains might
+> crash down upon them.
 
+---
 124.
 tataḥ kruddhaḥ sahasrākṣaḥ parvatānāṁ śatakratuḥ |
 pakṣāṁś ciccheda vajreṇa tatra tatra sahasraśaḥ ||
@@ -677,10 +839,13 @@ pakṣāṁś ciccheda vajreṇa tatra tatra sahasraśaḥ ||
 sa māmupāgataḥ kruddho vajram udyamya devarāṭ |
 tato 'haṁ sahasā kṣiptaḥ śvasanena mahātmanā ||
 
-> **Meaning 124-125:** This made Indra, who possesses a thousand eyes, furious. He then cut-off the wings of the mountains with his weapon, the Vajra.Just as the enraged Devendra was coming toward me with his raised Vajra, Vāyu skillfully dropped me into the ocean.
->
----
+> **Meaning 124-125:** "Then the thousand-eyed Indra, performer of a hundred
+> sacrifices, in his wrath, sheared off the wings of thousands of mountains with
+> his thunderbolt everywhere. When the enraged king of devas approached me with
+> uplifted thunderbolt, I was suddenly cast away by the great-souled Vāyu,
+> your father.
 
+---
 126.
 asmin lavaṇatoye ca prakṣiptaḥ plavagottama |
 guptapakṣaḥ samagraś ca tava pitrābhirakṣitaḥ ||
@@ -693,16 +858,22 @@ tvayā me hy eṣa saṁbandhaḥ kapimukhya mahāguṇaḥ ||
 tasminnēvaṁ gatē kāryē sāgarasya mamaiva ca |
 prītiṁ prītamanāḥ kartuṁ tvamarhasi mahākapē ||
 
-> **Meaning 126-127:** "It was your father, O hanumān, who shielded my wings and secured my place in this salty ocean.O Kapivara, your father, Vāyu, is therefore profoundly respected by me. The bond between us is one of shared virtue. With a generous heart, please honor us by accepting our offer and bring joy to both Samudra and myself. "
----
+> **Meaning 126-128:** "Plunged into this salt sea, O foremost of Vānaras, my
+> wings remained unsevered and I was fully preserved, protected by your father.
+> Therefore, I honor you, for Vāyu is ever worthy of my deepest reverence.
+> This sacred bond between us, O chief of Vānaras, is founded upon high virtue.
+> Such being the case, it is right that you, with a pleased heart, bring joy to
+> both Samudra and to me, O great Vānara!
 
+---
 129.
 śramaṁ mokṣaya pūjāṁ ca gr̥hāṇa kapisattama |
 prītiṁ ca bahumanyasva prīto 'smi tava darśanāt ||
 
-> **Meaning 129:** "O Kapisattama, I am blessed with your sight. Please stay here for a while to find relief from your efforts and graciously accept our devotion and love."
----
+> **Meaning 129:** "Relieve your fatigue and accept our hospitality, O foremost
+> of Vānaras! Value our affection, for I am overjoyed merely at your sight."
 
+---
 130.
 evam uktaḥ kapiśreṣṭhas taṁ nagottamam abravīt |
 prīto 'smi kr̥tam ātithyaṁ manyur eṣo 'panīyatām ||
@@ -715,7 +886,14 @@ pratijñā ca mayā dattā na sthātavyam ihāntarā ||
 ity uktvā pāṇinā śailam ālabhya haripuṁgavaḥ |
 jagāmākāśam āviśya vīryavān prahasann iva ||
 
-> **Meaning 130-132:** Upon hearing Mainaka’s words, hanumān responded,Believe that your graciousness has been received, and let no sense of guilt remain in your heart.Time is swiftly passing, and the day is waning. I am bound by an oath to my friends, and therefore, I cannot pause here.After speaking to Mainaka, hanumān briefly touched the mountain to affirm his gratitude. Then, with a pleasant expression, he soared higher and swiftly continued his journey
+> **Meaning 130-132:** Thus addressed, that foremost of Vānaras replied to
+> Maināka: "I am pleased, and your hospitality is accepted as though received;
+> let any disappointment be set aside! The time for my mission presses, the
+> daylight is slipping away, and I have given my solemn vow that I shall not halt
+> midway." Having spoken thus, that valiant foremost of Haris touched Maināka
+> with his hand in token of acceptance, and smiling as it were, soared
+> into the sky and sped onward.
+
 ---
 133.
 sa parvatasamudrābhyāṁ bahumānād avekṣitaḥ |
@@ -729,9 +907,13 @@ pituḥ panthānam āsthāya jagāma vimale 'mbare ||
 bhūyaścordhvam gatiṁ prāpya giriṁ tam avalokayan |
 vāyusūnur nirālambe jagāma vimale'mbare ||
 
-> **Meaning 133-135:** Mainaka and Samudra watched hanumān with great devotion and blessed him for success. Bidding farewell to them, hanumān ascended and swiftly continued his journey through the pleasant skies
-> Effortlessly and unaided, hanumān ascended to a higher altitude and continued his flight at an increased speed through clear skies
->
+> **Meaning 133-135:** Regarded with profound reverence by both Maināka and
+> Samudra, the son of Vāyu was honored with auspicious blessings.
+> Then, springing high into the air and leaving Maināka and the ocean behind,
+> he took to the aerial path of his father and sped across the spotless sky.
+> Rising higher still and gazing back at Maināka, the son of Vāyu soared
+> onward through the clear, unsupported heavens.
+
 ---
 136.
 taddvitīyaṁ hanumato dr̥ṣṭvā karma suduṣkaram |
@@ -765,18 +947,28 @@ devatānāṁ patiṁ dr̥ṣṭvā parituṣṭaṁ śatakratum ||
 sa vai dattavaraḥ śailo babhūvāvasthitas tadā |
 hanūmāṁś ca muhūrtena vyaticakrāma sāgaram ||
 
-> **Meaning 136-143:** The Devathas, Siddhas, and Maharshis praised hanumān for successfully accomplishing the second strenuous task. (The first was initiating the leap with the resolve to cross the ocean, and the second was successfully overcoming the obstacle presented by Mainaka.)
-> Indra and the other Devathas praised Mainaka, whose mountain peaks shone with gold, for his commendable efforts. 
-> With great joy, the wise Indra addressed Mainaka: O Hiranyanabha! O Shailendra! (King of Mountains) I am extremely pleased with what you have done. I grant you my protection, and you may now live happily without any fear.' 
-> Without any fear (fear of Indra cutting-off his wings), you provided aid to hanumān—the messenger of Dasaratha's son, Shri Rama—who is journeying a hundred yojanas. Your act of hospitality to Kapishvara is a deed that brings me immense happiness and admiration 
-> The great mountain Mainaka was content to see Devendra happy and relieved by the boon from Indra. At the same time, hanumān crossed that part of the ocean in an instant 
+> **Meaning 136-143:** Seeing this second formidable deed accomplished by
+> Hanumān, all the devas, siddhas, and supreme ṛṣis applauded him. The devas
+> gathered there were delighted with the deed of the golden-peaked Maināka; and
+> the thousand-eyed Indra, lord of Śacī, spoke to Maināka in a voice choked with
+> joy: "O golden-cored Maināka, king of mountains, I am exceedingly pleased with
+> you! I grant you freedom from all fear; dwell at ease, gentle one! You have
+> rendered immense assistance to the heroic Hanumān as he traverses a hundred
+> yojanas fearlessly, even where fear might arise. This Vānara goes on an embassy
+> for Rāma, son of Daśaratha; by extending hospitality to him according to your
+> ability, you have greatly pleased me." Then Maināka was filled with immense
+> joy, seeing the king of the devas so well-pleased. Having received this boon,
+> Maināka remained peacefully in his place; and
+> Hanumān, in a single moment, crossed past that vast stretch of the ocean. 
 ---
 
 144.
 tato devāḥ sagandharvāḥ siddhāś ca paramarṣayaḥ |
 abruvan sūryasaṁkāśāṁ surasāṁ nāgamātaram ||
 
-> **Meaning 144:** Then the Devathas, Gandharvas, Siddhas, and great Rishis spoke to Surasa, the mother of the Nagas, who shone like the sun:
+> **Meaning 144:** Then the Devas, along with the Gandharvas, Siddhas, and
+> supreme sages, spoke to Surasā, the mother of the Nāgas, who was resplendent
+> like the sun:
 ---
 
 145.
@@ -787,16 +979,18 @@ hanūmān nāma tasya tvaṁ muhūrtaṁ vighnam ācara ||
 rākṣasaṁ rūpam āsthāya sughoraṁ parvatopamam |
 daṁṣṭrākarālaṁ piṅgākṣaṁ vaktraṁ kr̥tvā nabhaḥspr̥śam ||
 
-> **Meaning 145-146:** "This glorious son of Vāyu, Hanumān by name, flies across the ocean. Obstruct him for a moment. 
-> Assuming a terrible Rākṣasa form, mountain-like in size, with a gaping maw, fearsome fangs, tawny eyes, and a mouth touching the sky — 
->
-> 147.
-> balam icchāmahe jñātuṁ bhūyaś cāsya parākramam |
-> tvāṁ vijeṣyaty upāyena viṣadaṁ vā gamiṣyati ||
->
-> **Meaning 147:** "We wish to know his strength and his prowess. Either he will overcome you by his resourcefulness, or he will experience distress."
->
+147.
+balam icchāmahe jñātuṁ bhūyaś cāsya parākramam |
+tvāṁ vijeṣyaty upāyena viṣadaṁ vā gamiṣyati ||
+
+> **Meaning 145-147:** "This glorious son of Vāyu, named Hanumān, is
+> leaping across the ocean. Place an obstacle in his way for a moment. Assuming
+> a gruesome Rākṣasa form as colossal as a mountain, with fearsome fangs, tawny
+> eyes, and a gaping mouth touching the sky, we desire to test his strength and
+> witness his prowess—to see whether he will overcome you by his ingenuity or
+> succumb to distress."
 ---
+
 148.
 evam uktā tu sā devī daivatair abhisatkr̥tā |
 samudramadhye surasā bibhratī rākṣasaṁ vapuḥ ||
@@ -805,15 +999,19 @@ samudramadhye surasā bibhratī rākṣasaṁ vapuḥ ||
 vikr̥taṁ ca virūpaṁ ca sarvasya ca bhayāvaham |
 plavamānaṁ hanūmantam āvr̥tyedam uvāca ha ||
 
-> **Meaning 148-149:** Thus addressed and honored by the gods, Surasā assumed a terrible Rākṣasa form. Terrifying all with this horrific appearance, she stood in the middle of the ocean and addressed hanumān
+> **Meaning 148-149:** Thus addressed and honored by the celestials, the goddess
+> Surasā assumed a hideous, misshapen Rākṣasa form terrifying to all beings,
+> and blocking the path of the flying Hanumān in mid-ocean, spoke to him:
 ---
+
 150.
 mama bhakṣaḥ pradiṣṭas tvam īśvarair vānararṣabha |
 ahaṁ tvāṁ bhakṣayiṣyāmi praviśedaṁ mamānanam ||
 
-> **Meaning 150:** "O Vanareshvara!, the Devathas have designated you as food for me. I shall devour you — enter my mouth!"
->
+> **Meaning 150:** "O foremost of Vānaras, you have been ordained by the gods
+> as my food. I shall devour you; enter this mouth of mine!"
 ---
+
 151.
 evam uktaḥ surasayā prāñjalir vānararṣabhaḥ |
 prahr̥ṣṭavadanaḥ śrīmān idaṁ vacanam abravīt ||
@@ -834,21 +1032,25 @@ kartum arhasi rāmasya sāhyaṁ viṣayavāsini ||
 atha vā maithilīṁ dr̥ṣṭvā rāmaṁ cākliṣṭakāriṇam |
 āgamiṣyāmi te vaktraṁ satyaṁ pratiśr̥ṇomi te ||
 
-> **Meaning 151-155:** Thus addressed by Surasā, hanumān folded his palms and joyfully spoke
-> as follows: "Rāma, son of Daśaratha, has entered the Daṇḍaka forest with his
-> brother Lakṣmaṇa and his wife Vaidehī. His virtuous wife Sītā has been abducted
-> by Rāvaṇa while he was engaged in his mission (chasing Māricha) and at enmity with the Rākṣasas.
-> I am going as his messenger in search of Sītā. I request you to help Rāma in this
-> matter. Otherwise, I make a promise to you that I will enter your mouth after finding Sita and informing Shri Rama, who is a capable leader"
->
+> **Meaning 151-155:** Thus addressed by Surasā, the glorious foremost of
+> Vānaras folded his hands with a serene countenance and spoke: "Rāma, son of
+> Daśaratha, entered the Daṇḍaka forest together with his brother Lakṣmaṇa and
+> his wife Vaidehī. While he was engaged in his sacred duty, incurring the
+> hostility of the Rākṣasas, his illustrious wife Sītā was abducted by Rāvaṇa.
+> By Rāma's command, I am going to her as a messenger. Dwelling in his domain,
+> you ought to assist Rāma's cause. Or else, having seen Maithilī and conveyed
+> the news to Rāma of untiring deeds, I shall return and enter your mouth; this
+> I solemnly promise you."
 ---
+
 156.
 ēvamuktā hanumatā surasā kāmarūpiṇī
 abravīnnātivartēnmāṁ kaścidēṣa varō mama ||
 
-> **Meaning 156:** Addressed thus by Hanumān, Surasā, who could assume any form at will,
-> replied: "No one can pass me by — this is the boon I have received."
+> **Meaning 156:** Spoken to thus by Hanumān, Surasā, who could assume any
+> form at will, replied: "None can bypass me; such is the boon granted to me."
 ---
+
 157.
 taṁ prayāṁtaṁ samudvīkṣya surasā vākyamabravīt |
 balaṁ jijñāsamānā vai nāgamātā hanūmataḥ ||
@@ -862,7 +1064,13 @@ vyādāya vaktraṁ vipulaṁ sthitā sā mārutēḥ puraḥ |
 ēvamukta ssurasayā kruddhō vānarapuṁgavaḥ |
 abravītkuru vai vaktraṁ yēna māṁ viṣahiṣyasē ||
 
-> **Meaning 157-159:** Seeing hanumān ignore her warning and continue his journey, Surasā, the mother of the Nagas, spoke again.'O hanumān, you must enter my mouth before continuing your journey, as this is a boon from Brahma.' She then hastily opened her mouth very wide, standing directly in his path. In his rage, hanumān told her to open her mouth.
+> **Meaning 157-159:** Seeing him continuing onward, Surasā, the mother of the
+> Nāgas, desiring to test Hanumān's strength, spoke swiftly to him: "O foremost
+> of Vānaras, you can proceed today only after entering my mouth; such is the
+> boon granted of old to me by the Creator." Saying this, she stood directly in
+> front of the son of Vāyu, opening her vast mouth wide. Thus addressed
+> by Surasā, the enraged hero retorted: "Expand your mouth wide enough to
+> contain me!"
 ---
 
 160.
@@ -875,11 +1083,13 @@ taṁ dr̥ṣṭvā meghasaṁkāśaṁ daśayojanam āyatam |
 162.
 cakāra surasāpy āsyaṁ viṁśadyojanam āyatam |
 hanumāṁstu tataḥ kruddhaḥ triṁśadyojanam āyataḥ ||
-> **Meaning 160-162:** In his rage, the furious Hanumān expanded his body to ten yojanas
-> in height and ten yojanas in breadth. Seeing him cloud-like and ten yojanas
-> tall, Surasā stretched her mouth to twenty yojanas. Then the angry Hanumān grew
-> to thirty yojanas
+
+> **Meaning 160-162:** Having spoken thus to Surasā, the furious Hanumān grew
+> to ten yojanas in length and ten yojanas in breadth. Seeing him looking like a
+> colossal cloud, stretched ten yojanas long, Surasā enlarged her mouth to
+> twenty yojanas. Thereupon, the mighty Hanumān expanded to thirty yojanas.
 ---
+
 163.
 cakāra surasā vaktraṁ catvāriṁśat tathocchritam |
 babhūva hanumān vīraḥ pañcāśadyojanocchritaḥ ||
@@ -892,10 +1102,13 @@ tathaiva hanumān vīraḥ saptatiṁ yojanocchritaḥ ||
 cakāra surasā vaktram aśītiṁ yojanāyatam |
 hanūmān acala prakhyo navatiṁ yojanocchritaḥ ||
 
-
-> **Meaning 163-165:** Hanumān expanded his body to fifty yojanas; Surasā made her mouth sixty yojanas wide. Hanumān grew to seventy yojanas; Surasā's mouth reached eighty. 
-> The mountain-like Hanumān swelled to ninety yojanas; 
+> **Meaning 163-165:** Surasā then stretched her mouth to forty yojanas, and the
+> heroic Hanumān grew fifty yojanas tall. Surasā widened her jaws to sixty
+> yojanas, and the valiant Hanumān rose to seventy yojanas. Surasā expanded her
+> mouth to eighty yojanas, and the mountain-like Hanumān swelled to ninety
+> yojanas.
 ---
+
 166.
 cakāra surasā vaktraṁ śatayojanam āyatam |
 tad dr̥ṣṭvā vyāditaṁ tv āsyaṁ vāyuputraḥ sa buddhimān ||
@@ -904,20 +1117,26 @@ tad dr̥ṣṭvā vyāditaṁ tv āsyaṁ vāyuputraḥ sa buddhimān ||
 dīrghajihvaṁ surasayā sughoraṁ narakopamam |
 susaṁkṣipyātmanaḥ kāyaṁ jīmūta iva mārutiḥ |
 
-> **Meaning 166-167:** Surasa opened her mouth wide to one hundred yojanas. With its vast size and extremely long tongue, her mouth resembled a horrific path to hell.Seeing this, hanumān, using his wisdom and intellect, instantly reduced his size to that of a thumb.
-> --- 
->
-> 168.
-> so'bhipatyāśu tad vaktraṁ niṣpatya ca mahājavaḥ |
-> antarikṣe sthitaḥ śrīmān idaṁ vacanam abravīt ||
->
-> 169.
-> praviṣṭo'smi hi te vaktraṁ dākṣāyaṇi namo 'stu te |
-> gamiṣye yatra vaidehī satyaṁ cāstu vacas tava ||
->
-> **Meaning 168-169:** hanumān, with his great speed, immediately entered and exited her mouth in the snap of a finger. He then stood in the sky with a pleasant expression and addressed Surasa.
-> "'O Dakshayini! I offer my humble namaskarams to you. I have, in fact, entered your mouth, haven't I? Now, allow me to continue my journey to reach Sita.The boon granted to you by Brahma has been honored.”
+> **Meaning 166-167:** Surasā then expanded her mouth to a full hundred yojanas.
+> Beholding that wide-gaping mouth with its long tongue, fearful and resembling
+> the cavernous entrance to hell, the wise Hanumān, son of Vāyu,
+> instantly contracted his cloud-like body to the size of a thumb.
 ---
+
+168.
+so'bhipatyāśu tad vaktraṁ niṣpatya ca mahājavaḥ |
+antarikṣe sthitaḥ śrīmān idaṁ vacanam abravīt ||
+
+169.
+praviṣṭo'smi hi te vaktraṁ dākṣāyaṇi namo 'stu te |
+gamiṣye yatra vaidehī satyaṁ cāstu vacas tava ||
+
+> **Meaning 168-169:** Darting with tremendous speed into her mouth and emerging
+> just as swiftly, the glorious hero stationed himself in the sky and spoke:
+> "O daughter of Dakṣa, salutations unto you! I have entered your mouth, and
+> your boon has been fulfilled. Now I shall proceed to where Vaidehī is."
+---
+
 170.
 taṁ dr̥ṣṭvā vadanān muktaṁ candraṁ rāhumukhād iva |
 abravīt surasā devī svena rūpeṇa vānaram ||
@@ -926,8 +1145,11 @@ abravīt surasā devī svena rūpeṇa vānaram ||
 arthasiddhyai hariśreṣṭha gaccha saumya yathāsukham |
 samānaya ca vaidehīṁ rāghaveṇa mahātmanā ||
 
-> **Meaning 170-171:** Seeing him emerge from her mouth like the moon freed from Rāhu's jaws,
-> Surasā, resuming her own form, spoke to hanumān: "O Harishreshta! continue at ease with your journey and successfully bring Sita to Shri Rama"
+> **Meaning 170-171:** Seeing him emerge from her mouth like the moon freed
+> from the jaws of Rāhu, the goddess Surasā assumed her own benevolent form and
+> spoke to the Vānara: "Go happily at your ease, O gentle foremost of Vānaras,
+> for the accomplishment of your purpose! Reunite Vaidehī with the magnanimous
+> Rāghava!"
 ---
 
 172.
@@ -938,9 +1160,10 @@ sādhu sādhv iti bhūtāni praśaśaṁsus tadā harim ||
 sa sāgaram anādhr̥ṣyam abhyetya varuṇālayam |
 jagāmākāśam āviśya vegena garuṇopamaḥ ||
 
->
-> **Meaning 172-173:** Witnessing hanumān successfully overcoming the third and very challenging test, all beings acclaimed him, saying, 'Well Done! Well Done!'hanumān, whose speed equals that of Garuda, effortlessly crossed that seemingly impassable part of the ocean(because of Surasa). He ascended higher into the sky, and continued his journey.
->
+> **Meaning 172-173:** Beholding that third, exceedingly arduous feat of
+> Hanumān, all living beings applauded him, saying, "Well done! Well done!"
+> Approaching once again the unassailable ocean, the abode of Varuṇa, he soared
+> through the heavens with speed matching Garuḍa.
 ---
 
 174.
@@ -971,8 +1194,22 @@ vitāne jīvalokasya vitato brahmanirmite ||
 bahuśaḥ sevite vīrair vidyādharagaṇair varaiḥ |
 jagāma vāyumārgē tu garutmāniva mārutiḥ ||
 
-> **Meaning 174-180:** hanumān, the son of Vayu, continued his flight at the speed of Garuda through the celestial sky. This auspicious path, which resembled a canopy built by Brahma for all living creatures, was a space where rain showers flowed, and the sun, moon, planets, and constellations like Ashwini shone brightly. It was constantly traversed by Devatas, Gandharvas proficient in musical instruments like the Tambura (including king Vishvavasu), Maharshis, Nagas, Yakshas, Vidyadharas, and other mighty heroes, along with Indra's elephant Iravatha and various aerial vehicles shaped like lions, elephants, tigers, birds, and serpents. It was also the route used by Agni Deva to carry offerings (haviss) to the gods. 
+> **Meaning 174-180:** Hanumān, the son of Vāyu, sped like Garuḍa
+> along the wind's celestial path—an aerial highway frequented by rain-bearing
+> clouds and birds, traversed by masters of music, and trodden by Airāvata,
+> the divine elephant of Indra; adorned by pure, flying aerial chariots bearing
+> mounts shaped like lions, elephants, tigers, birds, and serpents; illuminated
+> by celestial fires resembling the flashes of thunderbolts; embellished by
+> highly fortunate souls who had attained heaven through meritorious deeds;
+> served by Agni who bears sacrificial offerings; decorated with planets,
+> constellations, the moon, the sun, and hosts of stars; thronged by assemblies
+> of great sages, Gandharvas, Nāgas, and Yakṣas; solitary, spotless, all-
+> pervading, and frequented by Viśvāvasu; traversed by the elephant of the king
+> of gods; auspicious, marking the passage of the sun and moon, and stretched
+> out like a vast canopy fashioned by Brahmā for all living beings; and
+> constantly frequented by heroic, exalted Vidyādharas.
 ---
+
 Patha-1.
 hanūmān meghajālāni prakarṣan māruto yathā |
 kālāgurusavarṇāni raktapītasitāni ca ||
@@ -981,14 +1218,23 @@ Patha-2.
 kapinā kṛṣyamāṇāni mahābhrāṇi cakāśire |
 praviśannabhrajālāni niṣpataṁśca punaḥ punaḥ ||
 pracchannendurivābhāti niṣpatan praviśaṁstadā ||
-> **Meaning Patha-1:** hanumān, like the wind, kept pulling the cloud masses, which were dark as agarwood and colored in red, yellow, and white.
-> **Meaning Patha-2:** The large clouds appeared as if they were being pulled by hanumān. He would enter and exit the cloud masses time and again, and as he emerged, he would resemble the moon peeking through the clouds.
+
+> **Meaning Patha-1:** Hanumān flew forward, sweeping along masses of clouds
+> like the wind itself—clouds colored dark like black aloe wood, as well as red,
+> yellow, and white.
+>
+> **Meaning Patha-2:** Drawn along by the mighty Vānara, those vast clouds
+> shone resplendently; and as he repeatedly entered and emerged from those
+> cloud-banks, he resembled the moon alternately hidden and revealed.
 ---
 
 181.
 praviśann abhrajālāni niṣpataṁś ca punaḥ punaḥ |
 prāvr̥ṣīndur ivābhāti niṣpatan praviśaṁs tadā ||
-> **Meaning 181:** Flying with effortless speed, hanumān appeared to be everywhere at once, a massive, unassisted living form, much like a mountain taking flight with its wings
+
+> **Meaning 181:** Entering the cloud-masses and emerging again and again,
+> Hanumān appeared like the moon in the rainy season, constantly disappearing
+> into and breaking out from the clouds.
 ---
 
 182.
@@ -1002,8 +1248,12 @@ idaṁ hi me mahat sattvaṁ cirasya vaśam āgatam ||
 184.
 iti saṁcintya manasā chāyām asya samakṣipat |
 chāyāyāṁ saṁgr̥hītāyāṁ cintayāmāsa vānaraḥ ||
-> **Meaning 182-184:** Observing him flying across the sky, a powerful female rakshasa named Siṁhikā, who could change her form at will, thought to herself: 
-> "At last, after such a long time, I am going to have a proper meal! This mighty being has come within my reach after ages!" Thinking thus, she seized his shadow. hanumān, realizing his shadow was restrained, began to think to himself
+
+> **Meaning 182-184:** Beholding him flying across the sky, a monstrous Rākṣasī
+> named Siṁhikā, who could change her form at will, thought in her mind:
+> "Today, after a long time, I shall have a satisfying meal! After so long,
+> this gigantic creature has come within my grasp!" Thinking thus, she seized
+> his shadow. Finding his shadow firmly grasped, the Vānara reflected:
 ---
 
 185.
@@ -1021,8 +1271,15 @@ kapirājñā yadākhyātaṁ sattvamadbhutadarśanam ||
 188.
 chāyāgrāhimahāvīryaṁ tad idaṁ nātra saṁśayaḥ |
 sa tāṁ buddhvārthatattvena siṁhikāṁ matimān kapiḥ ||
-> **Meaning 185-188:** "My power has been suddenly checked, rendering me immobile, as if a large boat caught in a crosswind on the ocean!" hanumān looked around, upward and downward, 
-> and beheld a mighty creature rising from the sea. Realizing that this must be the shadow-seizing demon that Sugriva had described — He was confident that it was Simhika
+
+> **Meaning 185-188:** "Suddenly my prowess has been paralyzed and my motion
+> arrested, like a great ship caught against an opposing gale on the ocean!"
+> Looking sideways, upwards, and downwards, Hanumān saw an immense creature
+> rising from the brine. Beholding that hideous-faced creature, the son of Vāyu
+> reflected: "Without doubt, this is that extraordinary shadow-
+> grasping creature of mighty prowess spoken of by Sugrīva, the king of the
+> Vānaras!" Discerning her true identity as Siṁhikā, the wise hero resolved
+> upon his course of action.
 ---
 
 189.
@@ -1032,7 +1289,11 @@ tasya sā kāyam udvīkṣya vardhamānaṁ mahākapeḥ ||
 190.
 vaktraṁ prasārayām āsa pātālāmbarasaṁnibham |
 ghanarājīva garjaṁtī vānaraṁ samabhidravat ||
-> 189-190.hanumān expanded his body like clouds during the rainy season.Seeing his increasing form, Simhika enlarged her mouth to resemble the entrance of a cave leading to Pātāla (the underworld), and with a thundering roar, she lunged toward hanumān.
+
+> **Meaning 189-190:** Hanumān enlarged his colossal body like a rain-cloud in
+> the monsoon season. Seeing the body of that great Vānara swelling in size,
+> Siṁhikā widened her jaws until they spanned from the underworld to the sky,
+> and roaring like a line of thunderclouds, rushed toward him.
 ---
 
 191.
@@ -1043,7 +1304,10 @@ kāyamātraṁ ca medhāvī marmāṇi ca mahākapiḥ ||
 sa tasyā vivr̥te vaktre vajrasaṁhananaḥ kapiḥ |
 saṁkṣipya muhur ātmānaṁ niṣpapāta mahābalaḥ ||
 
-> **Meaning 191-192:** Seeing her wide-open mouth, ready to swallow him, the wise hanumān instantly contracted his joints and, with his body as strong as a diamond, leaped into her mouth with great speed. 
+> **Meaning 191-192:** The wise Hanumān observed her misshapen, cavernous
+> mouth, measured the extent of her body, and discerned her vital organs.
+> With limbs as adamantine as a thunderbolt, that mighty hero rapidly shrank
+> his form and plunged directly into her gaping mouth.
 ---
 
 193.
@@ -1058,8 +1322,12 @@ utpapātātha vegena manaḥsaṁpātavikramaḥ |
 tāṁ tu dr̥ṣṭvā ca dhr̥tyā ca dākṣiṇyēna nipātya ca |
 sa kapipravarō vēgāt vavr̥dhē punarātmavān ||
 
-> 193-195.The Siddhas and Cāraṇas watched him plunge into her mouth, like the
-> full moon being swallowed by Rāhu at an eclipse. Then hanumān, with his sharp nails tore apart Simhika’s heart, and that mighty Maruti, who possessed the speed of thought, immediately ascended back into the sky
+> **Meaning 193-195:** The Siddhas and Cāraṇas watched him plunge into her
+> mouth, like the full moon being swallowed by Rāhu on the full moon day. Then,
+> ripping out her vital organs with his razor-sharp claws, Hanumān, endowed
+> with the speed of thought, swiftly leaped back out. Having observed her,
+> struck her down through courage and skill, that foremost of self-controlled
+> Vānaras instantly expanded his body once again.
 ---
 
 196.
@@ -1070,8 +1338,13 @@ tāṁ hatāṁ vānarēṇāśu patitāṁ vīkṣya siṁhikām |
 197.
 bhūtānyākāśacārīṇi tamūcuḥ plavagōttamam |
 bhīmamadya kr̥taṁ karma mahat sattvaṁ tvayā hatam ||
-> **Meaning 196-197:** he acutely intelligent hanumān, utilizing his bravery, ingenuity, and great competence, defeated Simhika, then instantly expanded his form, leaped into the sky, and continued on his journey
-> As hanumān tore apart her heart, Simhika fell into the ocean in sorrow. Observing her instantaneous death and fall, the Siddhas, Gandharvas, and other celestial beings wandering the sky praised Kapivara, saying, "You have accomplished a spectacular task by killing this magnanimous animal.
+
+> **Meaning 196-197:** With her heart torn out by Hanumān, Siṁhikā collapsed
+> lifeless into the ocean, as if Hanumān had been fashioned by the Self-born
+> Brahmā Himself for her destruction. Seeing Siṁhikā slain so swiftly by the
+> Vānara and plunged into the waters, the celestial beings moving through the
+> sky hailed that foremost of jumpers: "A terrible feat has been accomplished
+> by you today, and a monstrous creature has been destroyed!"
 ---
 
 198.
@@ -1086,9 +1359,12 @@ sa taiḥ saṁbhāvitaḥ pūjyaḥ pratipannaprayojanaḥ ||
 jagāmākāśam āviśya pannagāśanavat kapiḥ |
 prāptabhūyiṣṭha pāras tu sarvataḥ pratilokayan ||
 
-> **Meaning 198-200:** "O hanumān, may you be successful in the auspicious task that is dear to you."
-> “O Vanarendra! Anyone who possesses four great qualities, such as courage, foresight, presence of mind, and adeptness comparable to yours, will never fail in any task.” 
-> Thus praised by celestial beings as Gandharvas, hanumān continued in the sky like Garuda to accomplish his original goal of finding Sita.s he neared the opposite shore, he began to survey all directions
+> **Meaning 198-200:** "O foremost among leap-farers, accomplish your cherished
+> purpose without hindrance! For whoever possesses these four virtues as you
+> do, O leader of Vānaras—courage, insight, intellect, and dexterity—never
+> founders in any undertaking." Honored by them and resolute in his mission,
+> the revered Hanumān soared through the sky like Garuḍa. Having now crossed
+> nearly the entire ocean, he surveyed the horizon in all directions.
 ---
 
 203.
@@ -1112,9 +1388,16 @@ mayi kautūhalaṁ kuryur iti mene mahākapiḥ ||
 tataḥ śarīraṁ saṁkṣipya tan mahīdharasaṁnibham |
 punaḥ prakr̥tim āpede vītamoha ivātmavān ||
 
-> **Meaning 203-207:** After having crossed approximately one hundred yojanas over the ocean, he saw a series of trees. The moment he landed on the island, he saw it filled with various trees and the chirping of birds, including the forest groves of the Malaya mountain on the southern side of Lanka.
-> He was also observing the ocean, the water bodies near the ocean, the native trees of that region, and the waterfall flowing from the Trikuta mountains. Then, looking at his body, which was as huge as a cloud that seemed to stop the sky, he began to think to himself.
-> "The Rakshasas may be astonished by my immense form and speed." Like the one who had self-realization and shedded all infatuations, he reduced his body to his original form. As Vishnu, who in his Vamana avatar grew to defeat Bali and then returned to his original size, so too did hanumān assume his original form. 
+> **Meaning 203-207:** At the end of the hundred yojanas, that foremost of
+> Vānaras beheld a line of forests; and as he glided downward, he saw the island
+> adorned with diverse flowering trees, the groves bordering Mount Malaya, the
+> sea, the coastal marshlands, and the trees growing upon the shores. Observing
+> also the mouths of the rivers that are wives to Samudra, and seeing his own
+> body looking like a colossal cloud obstructing the sky, the wise Hanumān
+> reflected: "Beholding my immense size and extraordinary speed, the Rākṣasas
+> will surely become curious and vigilant." Therefore, contracting his
+> mountain-like body, that self-controlled hero returned to his natural size,
+> like an enlightened sage who has cast off all delusion.
 ---
 
 208.
@@ -1123,17 +1406,20 @@ paraṁ samāsādya samudratīram |
 parair aśakyapratipannarūpaḥ
 samīkṣitātmā samavekṣitārthaḥ ||
 
-> **Meaning 208:** hanumān, who is capable of transforming into many forms and is undefeatable by his enemies, crossed the ocean and reached the opposite shore. Later, determined to complete his task, he reverted to his original small size.
-> --- 
->
-> 209.
-> tataḥ sa lambasya gireḥ samr̥ddhe;
-> vicitrakūṭe nipapāta kūṭe |
-> saketakoddālakanālikere;
-> mahādrikūṭapratimo mahātmā ||
->
-> **Meaning 209:** Then, the great hanumān, resembling the peak of a great mountain, gently alighted upon the lush, tree-covered peak of the Lambaka mountain, 
-> which was adorned with various trees like sal, ketaka, koddala, and coconut trees.
+> **Meaning 208:** Capable of assuming various wondrous forms at will, with his
+> true guise imperceptible to enemies, possessed of self-restraint, and keeping
+> his purpose firmly in view, he reached the farther shore of the great ocean.
+---
+
+209.
+tataḥ sa lambasya gireḥ samr̥ddhe
+vicitrakūṭe nipapāta kūṭe |
+saketakoddālakanālikere
+mahādrikūṭapratimo mahātmā ||
+
+> **Meaning 209:** Then that noble hero, resembling the summit of a mighty
+> mountain, alighted upon the lush, picturesque peak of Mount Lamba, which was
+> covered with ketaka, uddālaka, and coconut palms.
 ---
 
 210.
@@ -1141,14 +1427,20 @@ tatastu saṁprāpya samudratīraṁ
 samīkṣya laṁkāṁ girivaryamūrdhni |
 kapistu tasminnipapāta parvatē
 vidhūya rūpaṁ vyadhayan mr̥gadvijān ||
-> 210.The animals and birds were tormented as he landed on the mountain. Kapishvara then surveyed the city of Lanka from the sea-shores
+
+> **Meaning 210:** Having reached the seashore and viewed the city of Laṅkā
+> perched on the summit of the foremost mountain, the great Vānara descended
+> upon that peak, casting off his colossal form and startling the beasts and
+> birds residing there.
 ---
 
 211.
-sa sāgaraṁ dānavapannagāyutaṁ;
+sa sāgaraṁ dānavapannagāyutaṁ
 balena vikramya mahormimālinam |
-nipatya tīre ca mahodadhes tadā;
+nipatya tīre ca mahodadhes tadā
 dadarśa laṅkām amarāvatīm iva ||
 
-> **Meaning 211:** With his tremendous might, hanumān crossed the ocean, which had a series of large waves and was swarming with demons and serpents. He landed on the shores and beheld the city of Lanka, which was as magnificent as Amaravati, the Capital City of Heaven ruled by Indra. 
->
+> **Meaning 211:** Having crossed by his own valor that ocean garlanded with
+> towering waves and inhabited by Dānavas and Pannagas, and landing on the
+> shore of the vast sea, Hanumān beheld Laṅkā, resplendent as Amarāvatī, the
+> celestial city of Indra.
