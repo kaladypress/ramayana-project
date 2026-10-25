@@ -1,0 +1,45 @@
+1: Rāvaṇa revealed his intentions with enticing, sweet words and alluring gestures to that sorrowful, joyless, and ascetic princess surrounded by Rākṣasīs:
+2: "Seeing me, you hide your breasts and belly behind your thighs that taper like elephant trunks, wishing out of fear to make yourself invisible.
+3: I desire you, wide-eyed one! Value me, my beloved — you who are flawless in every feature, enchanting to all the worlds!
+4: There are no humans here, nor any shape-shifting Rākṣasas; Sītā, let all fear of me completely depart from you.
+5: Gentle one, to approach the wives of others or abduct them by force is by all means the recognized way of Rākṣasas; of this there is no doubt.
+6: Yet even so, Maithilī, I will not touch you against your will, however wildly passion may rage within my body.
+7: Devī, you have nothing to fear here; trust me, beloved. Respond to my love sincerely, and do not abandon yourself to sorrow.
+8: A single braid, sleeping on bare ground, mournful brooding, soiled clothes, and pointless fasting — none of these befit you.
+9: Exquisite garlands, fragrant sandalwood, aloe wood, robes of every weave, and celestial jewels,
+10: rare drinks, royal chariots, luxurious couches, song, dance, and music — all these are yours once you accept me, Maithilī.
+11: You are the crown jewel of womanhood; do not remain like this. Adorn your form with ornaments! Having won me, exquisitely formed one, how could you go unadorned?
+12: This lovely youth of yours is slipping away; once gone, it never returns, like the swift rush of river waters.
+13: Radiant one, I believe the Creator himself ceased all work after fashioning you, for nowhere in existence is there any beauty to compare with yours.
+14: Having beheld you, Vaidehī, glowing with such beauty and youth, what man could turn away — even the Grandfather Brahmā himself?
+15: Moon-faced lady of graceful bearing, wherever my gaze falls upon your form, there my eyes remain spellbound!
+16: Become my wife, Maithilī! Cast aside this stubborn delusion. Reign as chief queen over my hundreds of peerless women.
+17: Gentle lady, all the treasures I have seized by conquest across the worlds are yours; this kingdom is yours, and I myself am yours.
+18: Enchanting one, I will conquer the entire earth with its garland of cities and hand it over to King Janaka, all for your sake.
+19: In all the worlds, I see no one who could stand as my equal; consider my tremendous might, unmatched on any battlefield!
+20: Repeatedly broken in combat, their banners shattered beneath my feet, neither Devas nor Asuras can face me in the frontline of battle.
+21: Desire me! Let the finest royal adornments be prepared for you today, and let radiant jewels grace your form.
+22: Fair-faced one, yield to my plea and let yourself be adorned, so that I may feast my eyes on your beauty crowned with royal elegance.
+23: Shy one, revel in every pleasure as you wish, drink and rejoice, and give away lands or vast fortunes to whomever you please!
+24: Enjoy yourself with me in full confidence and command me boldly; and as you rejoice through my power, let your kinsmen rejoice as well.
+25: Auspicious lady, look upon my boundless wealth, my splendor, and my fame! Beautiful one, what will you do with Rāma, a mere wanderer wrapped in rags of bark?
+26: Rāma's chances of victory are finished; stripped of fortune, wandering in wilderness, bound by austere vows and sleeping on the bare ground, I doubt if he is even alive!
+27: Vaidehī, Rāma will never set eyes on you again, just as moonlight veiled by dark, rain-laden clouds heralded by cranes is lost to sight.
+28: Nor can Rāghava ever wrest you from my grasp, any more than Hiraṇyakaśipu could reclaim his lost renown once it passed into the hands of Indra.
+29: O enchanting one — your smile, your teeth, your luminous eyes — shy lady, you seize my heart just as Garuḍa swoops down upon a serpent!
+30: Seeing you, though slender, unadorned, and wrapped in soiled silk, I no longer find any joy in my own wives.
+31: Jānakī, rule as sovereign over all the women of my inner palace, however many there be, every one endowed with beauty and grace.
+32: Dark-tressed one, my wives are the pick of all three worlds, yet they will attend upon you just as the Apsarās serve Goddess Śrī.
+33: Fair-browed lady of graceful bearing, enjoy all the gems and riches I seized from Kubera, enjoy the worlds, and delight in me at your pleasure!
+34: Devī, Rāma is not my equal in ascetic power, nor in strength, nor in prowess, nor in wealth, nor in splendor, nor even in renown!
+35: Drink, revel, rejoice, and savor every pleasure! I will give you mountains of wealth and the earth itself; take your delight in me, graceful lady, and let your kinsmen rejoice alongside you.
+36: Adorned with a necklace of pure gold, gentle one, come wander with me through the coastal forests, filled with dense groves of flowering trees and humming with swarms of bees!"
+@Jewelry-Clothing | Cīravāsas (Bark garments worn by Rāma, contrasted with royal silk) - [Sundara Kanda, Sarga 20, Verse 25, Referenced]
+@Jewelry-Clothing | Kauśeyavasana (Soiled silk garment worn by Sītā) - [Sundara Kanda, Sarga 20, Verse 30, Sītā]
+@Jewelry-Clothing | Kanakahāra (Pure golden necklace) - [Sundara Kanda, Sarga 20, Verse 36, Lanka]
+@Food-Ingredients | Candana / Agaru (Sandalwood and aloe wood paste offered by Rāvaṇa) - [Sundara Kanda, Sarga 20, Verse 9, Lanka]
+@Musical-Instruments | Vāditra / Gīta / Nr̥tta (Instrumental music, singing, and dancing in Rāvaṇa's court) - [Sundara Kanda, Sarga 20, Verse 10, Lanka]
+@Flora-Fauna | Nāganāsā (Elephant trunk, simile for tapering thighs) - [Sundara Kanda, Sarga 20, Verse 2, Simile]
+@Flora-Fauna | Balākā (Cranes preceding dark monsoon clouds, simile) - [Sundara Kanda, Sarga 20, Verse 27, Simile]
+@Flora-Fauna | Bhramara (Black bees humming in coastal woods) - [Sundara Kanda, Sarga 20, Verse 36, Lanka]
+@Flora-Fauna | Suparṇa / Pannaga (Garuḍa swooping on serpent, simile) - [Sundara Kanda, Sarga 20, Verse 29, Simile]

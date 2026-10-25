@@ -13,12 +13,12 @@ abhivr̥ṣṭaḥ sthitastatra babhau puṣpamayo yathā ||
 yojanānāṁ śataṁ śrīmāṁstīrtvāpyuttamavikramaḥ |
 aniśvasan kapistatra na glānimadhigacchati ||
 
-> **Meaning 1-3:** After crossing the invincible ocean, the immensely powerful Hanumān
-> stood effortlessly and gazed at the city of Lanka, which was situated on the 
-> peak of the Trikuta mountain. As he stood there, trees showered flowers on him, 
-> and he looked radiant, as if made of blossoms. Though the glorious and supremely 
-> brave Kapīśreṣṭha had crossed a hundred yojanas, he was not even panting, nor 
-> did he feel any fatigue.
+> **Meaning 1-3:** Having crossed the unassailable ocean, the immensely powerful
+> hero stood composed and looked upon Laṅkā perched on the peak of Mount
+> Trikūṭa. As the valiant one paused there, showered by a rain of blossoms shed
+> by the trees, he shone as if formed entirely of flowers. Though the glorious
+> Kapi of supreme prowess had traversed a hundred yojanas, he was not even out
+> of breath, nor did he feel any exhaustion.
 ---
 
 4.
@@ -29,10 +29,10 @@ kiṁ punaḥ sāgarasyāntaṁ saṁkhyātaṁ śatayojanam ||
 sa tu vīryavatāṁ śreṣṭhaḥ plavatāmapi cottamaḥ |
 jagāma vegavān laṅkāṁ laṅghayitvā mahodadhim ||
 
-> **Meaning 4-5:** 'I can effortlessly leap many hundreds of yojanas. What then is a mere
-> hundred yojanas across the ocean?' Thus, the foremost among the mighty and the
-> best of Plavaṅgamas, possessing great speed, reached Lanka after crossing the
-> great ocean.
+> **Meaning 4-5:** 'I could easily cross many hundreds of yojanas, so what is
+> this ocean whose expanse measures just a hundred yojanas?' With this
+> confidence, the foremost among the mighty and greatest of Plavaṅgamas, endowed
+> with tremendous speed, advanced toward Laṅkā after crossing the vast ocean.
 ---
 
 6.
@@ -47,11 +47,11 @@ abhicakrāma tejasvī hanumān plavagarṣabhaḥ ||
 sa tasminn acale tiṣṭhan vanānyupavanāni ca |
 sa nagāgre ca tāṁ laṅkāṁ dadarśa pavanātmajaḥ ||
 
-> **Meaning 6-8:** He passed through fragrant forests with dark green lawns, traversing across
-> mountains and woodlands. The radiant Hanumān, best among the Vānaras, walked
-> past mountains covered with trees and rows of blossoming woods. Standing on
-> that mountain, the son of Vāyu observed the forests, gardens, and the city of
-> Lanka situated on the mountain peak.
+> **Meaning 6-8:** He passed through lush green meadows, fragrant groves, and
+> rocky highlands dotted with hills. The radiant Hanumān, foremost among the
+> Plavaṅgamas, traversed tree-covered hills and blossoming avenues of forest
+> trees. Standing upon that mountain, the son of Pavana looked out over the
+> woodlands, orchards, and the city of Laṅkā situated on the mountain summit.
 ---
 
 9.
@@ -74,14 +74,15 @@ haṁsakāraṇḍavākīrṇā vāpīḥ padmotpalāyutāḥ |
 saṁtatān vividhair vr̥kṣaiḥ sarvartuphalapuṣpitaiḥ |
 udyānāni ca ramyāṇi dadarśa kapikuñjaraḥ ||
 
-> **Meaning 9-13:** Kapikuñjara beheld delightful gardens filled with various trees bearing
-> flowers and fruits of all seasons. He saw beautifully blossoming Sarala,
-> Karnikara, Kharjura, Priyala, Muculinda, Kutaja, and Ketaka trees. The woods
-> were fragrant with Priyangu, Nipa, Saptacchada, Asana, Kovidara, and Karavira
-> trees in full bloom. The trees, weighed down by flowers and buds, were filled
-> with birds, their tops swaying gently in the wind. Ponds were adorned with
-> lotuses and lilies, and frequented by swans and Karandavas. He saw various
-> beautiful palatial gardens and water bodies.
+> **Meaning 9-13:** He saw beautifully blooming Sarala, Karṇikāra, Kharjūra,
+> Priyāla, Muculinda, Kuṭaja, and Ketaka trees. The groves were fragrant with
+> Priyaṅgu, Nīpa, Saptacchada, Asana, Kovidāra, and blossoming Karavīra trees.
+> Weighted down with heavy clusters of blossoms and tender buds, filled with
+> singing birds, their canopies swayed gently in the wind. Stepped pools were
+> adorned with lotuses and blue water-lilies and alive with swans and
+> Kāraṇḍavas, alongside charming pleasure-parks and various serene reservoirs of
+> water. Gazing upon all these delightful gardens filled with diverse trees that
+> bore fruit and flowers in every season, Kapikuñjara looked around in wonder.
 ---
 
 14.
@@ -104,13 +105,16 @@ aṭṭālakaśatākīrṇāṁ patākādhvajamālinīm ||
 toraṇaiḥ kāñcanair divyair latāpaṅktivicitritaiḥ |
 dadarśa hanumām̐llaṅkāṁ divi devapurīmiva ||
 
-> **Meaning 14-18:** He reached the glorious city of Lanka, ruled by Rāvaṇa, adorned with
-> moats filled with lotuses and lilies. It was well-guarded for the sake of the
-> abducted Sītā by fierce Rākṣasas wielding formidable bows roaming all around.
-> The great city was a beautiful sight, with compound walls made of gold and clean, pleasant houses that soared sky-high, resembling autumn clouds.It was enclosed by a beautiful golden wall, crowded with hundreds
-> of watchtowers, and decorated with flags and banners. With magnificent golden
-> gateways intricately adorned with creeping vines, Hanumān saw Lanka looking
-> like a divine city of the Devathās in heaven.
+> **Meaning 14-18:** The glorious hero approached Laṅkā, ruled by Rāvaṇa and
+> adorned with moats filled with lotuses and blue lilies. Because of the
+> abduction of Sītā, Rāvaṇa had fortified it heavily, stationing fierce Rākṣasas
+> with formidable bows to patrol in every direction. The charming great city was
+> enclosed by a magnificent golden rampart and filled with sky-high mansions
+> resembling heavenly abodes and pale autumn clouds. It was lined with wide,
+> gleaming white avenues, crowded with hundreds of watchtowers, and draped with
+> rows of flags and banners. With splendid golden arches carved with intricate
+> climbing vines, Hanumān saw Laṅkā shining like the celestial city of the
+> Devatās in heaven.
 ---
 
 19.
@@ -133,7 +137,17 @@ dvāramuttaramāsādya ciṁtayāmāsa vānaraḥ ||
 kailāsaśikharaprakhyāṁ ālikhaṁtīmivāṁbaram |
 ḍīyamānāmivākāśaṁ ucchritairbhavanōttamaiḥ ||
 
-> **Meaning 19-23:** That beautiful Lanka was situated on the mountaintop, appearing to hanumān like a city suspended in the sky.Built by Vishvakarma (architect for gods) and currently ruled by rāvaṇa, the king of the Rakshasas, the city appeared to hanumān as if it were floating in the sky.Contemplating the city's design, Hanuman imagined Lanka, the work of Vishwakarma, as a stunning lady. He perceived the city's boundary walls as her waist, the water-filled moats as her saree, the array of cannons and tridents as her hair, and the fort ramparts as her earrings. With this imagery in mind, Hanuman reached Lanka's northern gate, focused on the task of finding Sita Devi.Hanuman saw the city resembling the peak of Kailasa, its towering buildings scraping the sky, as if it were flying through the air.
+> **Meaning 19-23:** Perched on the mountain crest with its gleaming white
+> palaces, Laṅkā appeared to the glorious Kapi like a city suspended in the sky.
+> Built by Viśvakarmā and ruled by the king of Rākṣasas, the city seemed to
+> Hanumān to be sailing through the air. The poet imagined Laṅkā as an
+> enchanting woman: the ramparts and defensive walls were her hips, the vast
+> expanse of water her fresh garment, the spiked engines and tridents her
+> tresses of hair, and the watchtowers her ear-ornaments. Having reached the
+> northern gate of Laṅkā—a marvel built by Viśvakarmā that seemed fashioned
+> purely out of thought, rising like the summit of Mount Kailāsa, scraping the
+> firmament and soaring into the sky with its lofty palaces—the Vānara paused in
+> contemplation.
 ---
 
 24.
@@ -168,24 +182,22 @@ vāliputrasya nīlasya mama rājñaśca dhīmataḥ ||
 yāvaj jānāmi vaidehīṁ yadi jīvati vā na vā |
 tatraiva cintayiṣyāmi dr̥ṣṭvā tāṁ janakātmajām ||
 
-> **Meaning 24-31:** Seeing the city filled with terrifying Rākṣasas, it resembled
-> Bhogavatī, the city of Nāgas in the underworld. It was well-constructed,
-> clearly defined, unimaginable, and formerly ruled by Kubera. Defended by
-> many fierce and valiant Rākṣasas wielding spears and swords, it was like a
-> cave guarded by venomous serpents. Observing the immense fortifications, the
-> surrounding ocean, and the terrifying enemy Rāvaṇa, Kapīśreṣṭha pondered: 'Even
-> if the Vānaras were to arrive here, it would be in vain. For Lanka cannot be
-> conquered in battle, even by the Devathās. What can the mighty-armed Rāghava
-> do even if he reaches this impregnable and treacherous Lanka ruled by Rāvaṇa?
-> Hanuman thought that the four methods of statecraft—conciliation (making peace),
-> offering material gifts, sowing discord, and open war - were all ineffective
-> against Rākṣasas. Their demonic tendencies make them unresponsive to
-> conciliation. Their immense wealth means they cannot be lured with gifts. Their
-> ego and power prevent any division. And finally, they appear unconquerable in
-> battle. Only four great Vānaras have the capability to reach here: the son
-> of Vāli (Aṅgada), Nīla, the intelligent King Sugrīva, and myself. First, I must
-> find out whether Vaidehī is alive or not. Only after seeing the daughter of
-> Janaka will I think about the next steps.'
+> **Meaning 24-31:** Teeming with fearsome Rākṣasas, the city resembled
+> Bhogavatī populated by venomous serpents. It was unfathomably grand,
+> flawlessly built, distinct in design, and once inhabited by Kubera. Guarded by
+> many fanged and courageous Rākṣasas holding tridents and sharp axes, it looked
+> like a cavern protected by deadly vipers. Surveying its massive
+> fortifications, the vast ocean, and the dread enemy Rāvaṇa, the Vānara
+> reflected: 'Even if the Haris reach this place, their coming will be futile,
+> for Laṅkā cannot be conquered in battle even by the Devatās. Even if the
+> mighty-armed Rāghava reaches this treacherous, impregnable citadel ruled by
+> Rāvaṇa, what can he achieve? Among these Rākṣasas, there is no scope for
+> conciliation, no opportunity for buying them off with gifts, no chance of
+> sowing division, and no prospect of victory in open battle. Only four noble
+> Vānaras possess the strength to cross over here: the son of Vāli, Nīla, our
+> wise king Sugrīva, and myself. First, let me discover whether Vaidehī is still
+> alive or not. Only after I have seen the daughter of Janaka will I think about
+> what to do next.'
 ---
 32.
 tataḥ sa cintayāmāsa muhūrtaṁ kapikuñjaraḥ |
@@ -219,18 +231,20 @@ ekāmekaśca paśyeyaṁ rahite janakātmajām ||
 bhūtāścārtho vipadyante deśakālavirodhitāḥ |
 viklavaṁ dūtamāsādya tamaḥ sūryodaye yathā ||
 
-> **Meaning 32-39:** Then, Kapikuñjara, devoted to the success of Rāma, stood on that
-> mountain peak and pondered for a moment. 'I cannot enter the city of the
-> Rākṣasas in my current form, heavily guarded as it is by cruel and powerful
-> Rākṣasas. I must deceive all these incredibly energetic, mighty, and strong
-> Rākṣasas while searching for Jānakī. The time has come for me to enter the
-> city of Lanka at night in a form that is both visible and unnoticeable, to
-> accomplish this great mission. Night is the optimal time to enter the city of Lanka. Looking at that city, unassailable even by
-> Devathās and Asuras, Hanumān sighed repeatedly and thought: 'By what means can
-> I see Maithilī, the daughter of Janaka, without being seen by the wicked
-> Rāvaṇa, the king of Rākṣasas? How can the mission of Rāma, who knows his own
-> soul, not be ruined? How can I see the daughter of Janaka privately?
-> An ambassador who is timid or confused can ruin an entire mission, just as the sun's rising instantly dispels the darkness, and plans that ignore the constraints of time and place are doomed to fail.'
+> **Meaning 32-39:** Standing on that mountain summit, Kapikuñjara, deeply
+> devoted to the welfare of Rāma, reflected for a moment: 'Guarded by cruel and
+> formidable Rākṣasas, this city of demons cannot be entered by me in my present
+> form. These Rākṣasas possess fierce fiery energy, extraordinary prowess, and
+> sheer might; I must slip past them unnoticed while searching for Jānakī. The
+> right moment has come for me to enter the city of Laṅkā under cover of night
+> in a form that will escape notice, so that I can accomplish this great
+> mission.' Gazing upon that fortress, impenetrable even to gods and demons,
+> Hanumān sighed repeatedly and thought: 'By what means can I see Maithilī, the
+> daughter of Janaka, without being spotted by the wicked king of Rākṣasas,
+> Rāvaṇa? How can the mission of the wise Rāma remain safe from ruin? How can I
+> meet Janaka's daughter alone in seclusion? Even well-laid plans come to ruin
+> when undertaken at the wrong time or place, or when handled by an indecisive
+> envoy, just as darkness is dispelled at the rising of the sun.'
 ---
 
 40.
@@ -265,7 +279,20 @@ laṅkāmabhipatiṣyāmi rāghavasyārthasiddhaye ||
 rāvaṇasya purīṁ rātrau praviśya sudurāsadām |
 vicinvan bhavanaṁ sarvaṁ drakṣyāmi janakātmajām ||
 
-> **Meaning 40-47:** 'Even a well-defined plan is useless if the messenger lacks the wisdom. A missions could be destroyed by envoys who are arrogant or only pretend to be wise. How must I ensure that Rama’s mission is not ruined and that I do not become confused? How can my leaping across the ocean not become a waste? If the Rākṣasas see me, the mission of Rāma, who desires the destruction of Rāvaṇa, will be entirely ruined. It is impossible to stay anywhere without being detected by the Rākṣasas, even in the form of a Rākṣasa, let alone in any other form. I believe even the wind cannot move here undetected; nothing is unknown to the mighty Rākṣasas. If I stay here in my true form, I will meet my destruction, and my Svāmi's purpose will be defeated. Therefore, I shall reduce my form and enter Lanka at night to accomplish Rāghava's goal. Entering Rāvaṇa's impenetrable city at night, I will search every mansion to find the daughter of Janaka.'
+> **Meaning 40-47:** 'Even a well-settled plan proves ineffective in
+> distinguishing gain from loss when handled by envoys who merely fancy
+> themselves wise, for such messengers wreck their own missions. How then can
+> this task remain uncompromised? How do I prevent blunders? And how can my
+> crossing of the ocean not end in vain? If the Rākṣasas spot me, the entire
+> mission of the wise Rāma, who seeks the destruction of Rāvaṇa, will be ruined.
+> It is impossible to stay anywhere unnoticed by these demons, even in the guise
+> of a Rākṣasa, let alone in any other appearance. In my judgment, even the wind
+> cannot move here undetected, for nothing escapes the notice of these mighty
+> Rākṣasas. If I remain here in my natural form, I will bring about my own
+> destruction and the defeat of my master's goal. Therefore, contracting my body
+> to a tiny size under cover of night, I will enter Laṅkā to ensure Rāghava's
+> success. Slipping into Rāvaṇa's impenetrable city by night, I will search
+> through every mansion until I see the daughter of Janaka.'
 ---
 
 48.
@@ -300,15 +327,20 @@ laṅkāmuddyotayāmāsuḥ sarvataḥ samalaṁkr̥tām ||
 acintyāmadbhutākārāṁ dr̥ṣṭvā laṅkāṁ mahākapiḥ |
 āsīd viṣaṇṇo hr̥ṣṭaśca vaidehyā darśanotsukaḥ ||
 
-> **Meaning 48-55:** Thinking thus, Hanumān, eager to see Vaidehī, waited for the sun to
-> set. As twilight descended, Māruti contracted his body to the size of a tiny kitten. It was a marvelous sight to behold. In the evening twilight, he entered the beautiful city with its well-laid out main streets. The city was filled with rows of mansions, with pillars of
-> gold and silver, and windows of gold, resembling a city of the Gandharvas. He
-> saw the great city with seven and eight-storied buildings, their floors inlaid
-> with crystal and adorned with gold. The mansions of the Rākṣasas shone with
-> floors embellished with wondrous cat's-eye gems and pearls. The wondrous
-> golden gateways of the Rākṣasas illuminated Lanka, beautifully adorned from
-> all sides. Seeing Lanka, unimaginable and wondrous in appearance, the great
-> Hanumān was both despondent and joyous, eager to see Vaidehī.
+> **Meaning 48-55:** Having resolved upon this course, the heroic Kapi Hanumān,
+> eager to see Vaidehī, waited for the sun to set. When the sun had gone down,
+> Māruti contracted his body to the size of a cat under cover of darkness,
+> presenting a wondrous sight. In the dusk of evening, the valiant Hanumān
+> leaped up swiftly and slipped into the beautiful city with its neatly laid-out
+> broad thoroughfares. Filled with rows of grand palaces supported by pillars of
+> gold and silver and adorned with golden lattice windows, it looked like a
+> celestial city of the Gandharvas. He saw that magnificent city with seven- and
+> eight-storied mansions, whose floors were crafted of clear crystal and
+> embellished with gold. The residences of the Rākṣasas gleamed with pavements
+> inlaid with cat's-eye gems and adorned with strands of pearls. The ornate
+> golden gateway arches of the Rākṣasas illuminated the splendidly decorated
+> city on all sides. Seeing Laṅkā, unfathomable and marvelous in form, the
+> Mahākapi was filled with both sorrow and wonder as he yearned to find Vaidehī.
 ---
 
 56.
@@ -329,12 +361,13 @@ jyotsnāvitānena vitatya lokam
 dadarśa candraṁ sa kapipravīraḥ
  poplūyamānaṁ sarasīva haṁsaṁ ||
 
-> **Meaning 56-58:** He beheld that city, garlanded with white, towering mansions, with
-> gateways of precious gold, ruled by the arms of the glorious Rāvaṇa, and
-> protected by night-wandering Rākṣasas of terrifying strength. Just then, the
-> moon, as if to assist him, rose with its many thousands of rays, spreading a
-> canopy of light over the world and shining beautifully in the midst of the
-> stars. The valiant Kapīśreṣṭha saw the moon rising and shining with the
-> radiance of a conch shell and the color of a white lotus stem, like a swan
-> gracefully floating on a lake. .
+> **Meaning 56-58:** He gazed upon that renowned city, ringed with soaring,
+> gleaming white mansions, adorned with costly gateway arches of golden
+> lattice-work, guarded by the arms of Rāvaṇa, and held by night-roaming
+> Rākṣasas of terrifying strength. Just then, as if offering him aid, the moon
+> rose with its many thousands of rays, spreading a canopy of moonlight over the
+> earth and shining brightly in the midst of the star-strewn sky. The valiant
+> Kapipravīra saw the radiant moon ascending, bright as a white conch shell and
+> fair as milk and lotus stalks, gliding across the heavens like a swan swimming
+> upon a lake.
 ---

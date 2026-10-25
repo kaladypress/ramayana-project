@@ -1,3 +1,7 @@
+---
+trigger: always_on
+---
+
 # Translation Guidelines for Rāmāyaṇa Project
 
 These rules apply whenever generating, editing, or reviewing English meanings/translations for ślokas.
@@ -137,10 +141,6 @@ The Sanskrit word *aṅga* does NOT map to English "limb." It encompasses form, 
    - *suvibhaktāṅgī* → "exquisitely formed" (not "with well-proportioned limbs")
 4. **Exception**: "limb" is acceptable ONLY for physical/anatomical contexts unrelated to beauty (e.g., a limb trembling from a blow, a severed limb in battle)
 
-### Reference Sarga
-
-**Sarga 20 (Sundara Kāṇḍa)** has been revised as the reference implementation of this framework. Consult it for tone, pacing, and epithet handling before translating any new sarga.
-
 
 ## Glossary Maintenance
 
@@ -166,7 +166,6 @@ The Sanskrit word *aṅga* does NOT map to English "limb." It encompasses form, 
 Use this workflow for every new sarga. It changes **how** meanings are written into files, never **what** the translation rules above require.
 
 1. **Read the target sarga once** — `qa-review/<kanda>/sarga-NNN.txt` with `view_file`.
-2. **Context loading (lightweight):** read only the first ~40 lines of the previous sarga for tone. Read Sarga 20 only if epithet handling is unclear.
 3. **Do NOT read tracking logs in full.** New entries are appended by the script; duplicates across sargas are acceptable.
 4. **Write ONE compact scratch file** `scratch/meanings-NNN.txt` with `write_to_file`:
    ```
@@ -178,10 +177,6 @@ Use this workflow for every new sarga. It changes **how** meanings are written i
    ```
    - One entry per `=== meaning ===` placeholder. A block's key is its first and last verse number.
    - `@<LogFile> | <entry>` lines append to `qa-review/<LogFile>` (must already exist).
-5. **Run** `node inject-meanings.js NNN` (add `--kanda <dir>` outside Sundara Kāṇḍa; `--dry` to preview). The script:
-   - fills placeholders **in place** — śloka text and sandhi edits are never touched;
-   - adds the bold `Meaning N:` label, `> ` prefixes, and ~80-char wrapping;
-   - prints a one-line report and deletes the scratch file on full success.
 6. **If the report shows missing/unused entries**, fix only those lines in the scratch file and re-run. Do not re-read the whole sarga.
 7. **Never** use `multi_replace_file_content` for bulk meaning insertion, and never rebuild the sarga from `source/`.
 8. **Final reply:** a short list of items needing user review (doubtful readings, glossary additions) — no recap of the meanings.

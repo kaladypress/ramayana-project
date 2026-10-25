@@ -1,0 +1,31 @@
+1: The mighty Kapi saw a network of palaces adorned with latticework of cat's-eye gems and gold, looking like a vast mass of rain clouds in the monsoon, laced with lightning and accompanied by flocks of birds.
+2: He saw diverse halls within the mansions — great armories storing conches, weapons, and bows — and spacious, enchanting moonlit terrace pavilions set atop palace towers.
+3: The Kapi beheld mansions glittering with various treasures, honored even by devatās and Asuras, free of all flaws, won by the Rākṣasas through their own prowess.
+4: As if fashioned by the architect Maya himself with utmost care and artistry, those palaces of the ruler of Laṅkā stood unmatched on earth, endowed with every excellence.
+5: Then he saw the supreme palace of the king of Rākṣasas, towering like a cloud, enchanting with its radiant golden form, worthy of his mighty power, peerless in beauty.
+6: It seemed like heaven itself transplanted to earth, blazing with splendor, studded with countless gems, strewn with blossoms from various trees like a mountain peak dusted with floral pollen.
+7: Radiant with exquisite women like a cloud illumined by flashes of lightning, it looked like a splendid celestial aerial chariot soaring through the sky for the virtuous, as if borne aloft by noble swans.
+8: Like a mountain summit variegated with diverse ores, like the sky adorned with planets and the moon, or like artistic cloud formations, he saw that jewel among aerial chariots, decorated with myriad gems.
+9: On it, simulated earth was wrought complete with mountain ranges; the hills were fashioned with canopies of trees; the trees were crafted full of blossom canopies; and each blossom was detailed with filaments and petals.
+10: Brilliant white mansions were carved upon it, along with lotus ponds filled with blossoming water lilies, lotuses complete with inner filaments, and enchanting, richly varied pleasure groves.
+11: There the great Kapi saw that glorious aerial chariot named Puṣpaka, radiant and magnified by the luster of its gems, towering above the finest palaces.
+12: Crafted upon it were birds of cat's-eye gems, birds of silver and coral, serpents fashioned from various precious stones, and noble horses of exquisite form and breeding.
+13: Beautiful birds were sculpted with fine beaks and lovely wings made of coral and gold blossoms, their wings playfully curved and angled, gleaming like companions of the god of love.
+14: Elephants with graceful trunks, holding lotus petals with their filaments, were depicted bathing her, and Devī Lakṣmī herself was sculpted with lovely hands, holding a lotus, seated in a lotus pool.
+15: Filled with wonder, Hanumān approached that magnificent mansion gleaming like a majestic mountain, fragrant and beautiful like a mountain with lovely caves at the close of winter.
+16: Leaping across and wandering through that splendid city protected by the ten-headed king's arms, the Kapi did not see the revered daughter of Janaka, who was sorrowing deeply and wholly absorbed in her husband's virtues.
+17: Then, as he searched all around with keen eyes, the mind of that great-souled, disciplined, and wise hero was overcome with deep sorrow at not finding Janaka's daughter, who walked the path of righteousness.
+@Geography | Laṅkā (Citadel of Rāvaṇa) - [Sundara Kanda, Sarga 7, Verse 4, Lanka]
+@Architecture-Artifacts | Puṣpaka Vimāna (Great aerial chariot crafted with precious metals and gems) - [Sundara Kanda, Sarga 7, Verse 11, Lanka]
+@Architecture-Artifacts | Candraśālā (Moonlit terrace pavilion atop mansions) - [Sundara Kanda, Sarga 7, Verse 2, Lanka]
+@Architecture-Artifacts | Cāpaśālā / Āyudhaśālā (Armories for bows and weapons) - [Sundara Kanda, Sarga 7, Verse 2, Lanka]
+@Flora-Fauna | Haṁsa (Swans, simile for vimāna carrier) - [Sundara Kanda, Sarga 7, Verse 7, Simile]
+@Flora-Fauna | Gaja / Hasti (Elephants with fine trunks lustrating Lakṣmī) - [Sundara Kanda, Sarga 7, Verse 14, Puṣpaka Vimāna]
+@Flora-Fauna | Turaga (Horses of fine breed sculpted on vimāna) - [Sundara Kanda, Sarga 7, Verse 12, Puṣpaka Vimāna]
+@Flora-Fauna | Bhujaṅga (Serpents wrought of gems) - [Sundara Kanda, Sarga 7, Verse 12, Puṣpaka Vimāna]
+@Flora-Fauna | Vihaṅga (Birds sculpted of coral and gold) - [Sundara Kanda, Sarga 7, Verse 12, Puṣpaka Vimāna]
+@Flora-Fauna | Padma / Utpala (Lotuses in ponds) - [Sundara Kanda, Sarga 7, Verse 10, Puṣpaka Vimāna]
+@Jewelry-Clothing | Vaidūrya (Cat's-eye gem used in latticework and bird figures) - [Sundara Kanda, Sarga 7, Verse 1, Puṣpaka Vimāna]
+@Jewelry-Clothing | Pravāla (Coral used for sculptures and wings) - [Sundara Kanda, Sarga 7, Verse 12, Puṣpaka Vimāna]
+@Jewelry-Clothing | Rūpya (Silver used for sculptures) - [Sundara Kanda, Sarga 7, Verse 12, Puṣpaka Vimāna]
+@Jewelry-Clothing | Suvarṇa / Jāmbūnada / Kāñcana (Gold used throughout vimāna) - [Sundara Kanda, Sarga 7, Verse 1, Puṣpaka Vimāna]
