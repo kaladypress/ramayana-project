@@ -23,6 +23,7 @@ const https = require('https');
 const http = require('http');
 const fs = require('fs');
 const path = require('path');
+const Sanscript = require('@indic-transliteration/sanscript');
 
 // ─── Configuration ───────────────────────────────────────────────────────────
 
@@ -140,6 +141,22 @@ function generateGoldenSargaFile(sargaNum, versesMap) {
   return lines.join('\n');
 }
 
+/**
+ * Transliterate a map of Devanagari verses to ISO-15919 directly.
+ * Follows Devanagari word boundaries and sandhi.
+ */
+function transliterateDevanagariToIso(devVerses) {
+  const romanVerses = new Map();
+  for (const [verseNum, padas] of devVerses.entries()) {
+    const romanPadas = padas.map(({ pada, text }) => ({
+      pada,
+      text: Sanscript.t(text, 'devanagari', 'iso')
+    }));
+    romanVerses.set(verseNum, romanPadas);
+  }
+  return romanVerses;
+}
+
 // ─── Main ────────────────────────────────────────────────────────────────────
 
 async function processKanda(kandaKey) {
@@ -150,33 +167,36 @@ async function processKanda(kandaKey) {
     process.exit(1);
   }
 
+  // Protect completed Sundara Kanda
+  if (kandaKey === 'sundara-kanda') {
+    console.log(`\n🛡  Sundara Kāṇḍa is complete and protected. Skipping.`);
+    return { kandaKey, sargas: 0, verses: 0, skipped: true };
+  }
+
   console.log(`\n📖 Processing ${config.titlePlain} (${config.title})`);
   console.log(`${'─'.repeat(60)}`);
 
-  // Download Roman text
-  const romanUrl = `${BASE_URL}/UR/${config.file}`;
-  console.log(`⬇  Downloading Roman (ISO-15919): ${romanUrl}`);
-  const romanText = await download(romanUrl);
-  console.log(`   ✓ Downloaded (${(romanText.length / 1024).toFixed(1)} KB)`);
+  // Load Devanagari text (primary source of truth)
+  const rawDir = path.join(PROJECT_ROOT, 'source', 'raw');
+  fs.mkdirSync(rawDir, { recursive: true });
+  const rawDevPath = path.join(rawDir, `${kandaKey}-devanagari.txt`);
 
-  // Download Devanagari text
-  const devUrl = `${BASE_URL}/UD/${config.file}`;
-  console.log(`⬇  Downloading Devanagari: ${devUrl}`);
-  const devText = await download(devUrl);
-  console.log(`   ✓ Downloaded (${(devText.length / 1024).toFixed(1)} KB)`);
-
-  // Parse both
-  console.log(`🔍 Parsing...`);
-  const romanSargas = parseLines(romanText);
-  const devSargas = parseLines(devText);
-
-  console.log(`   ✓ Found ${romanSargas.size} sargas in Roman text`);
-  console.log(`   ✓ Found ${devSargas.size} sargas in Devanagari text`);
-
-  // Verify alignment
-  if (romanSargas.size !== devSargas.size) {
-    console.warn(`   ⚠ Sarga count mismatch! Roman: ${romanSargas.size}, Devanagari: ${devSargas.size}`);
+  let devText;
+  if (fs.existsSync(rawDevPath)) {
+    console.log(`📂 Using cached Devanagari: source/raw/${kandaKey}-devanagari.txt`);
+    devText = fs.readFileSync(rawDevPath, 'utf-8');
+  } else {
+    const devUrl = `${BASE_URL}/UD/${config.file}`;
+    console.log(`⬇  Downloading Devanagari: ${devUrl}`);
+    devText = await download(devUrl);
+    fs.writeFileSync(rawDevPath, devText, 'utf-8');
+    console.log(`   ✓ Downloaded and saved (${(devText.length / 1024).toFixed(1)} KB)`);
   }
+
+  // Parse Devanagari
+  console.log(`🔍 Parsing Devanagari...`);
+  const devSargas = parseLines(devText);
+  console.log(`   ✓ Found ${devSargas.size} sargas in Devanagari text`);
 
   // Create output directories
   const romanDir = path.join(PROJECT_ROOT, 'source', 'roman', kandaKey);
@@ -184,40 +204,31 @@ async function processKanda(kandaKey) {
   fs.mkdirSync(romanDir, { recursive: true });
   fs.mkdirSync(devDir, { recursive: true });
 
-  // Also save the raw downloaded files for archival
-  const rawDir = path.join(PROJECT_ROOT, 'source', 'raw');
-  fs.mkdirSync(rawDir, { recursive: true });
-  fs.writeFileSync(path.join(rawDir, `${kandaKey}-roman.txt`), romanText, 'utf-8');
-  fs.writeFileSync(path.join(rawDir, `${kandaKey}-devanagari.txt`), devText, 'utf-8');
-  console.log(`💾 Raw downloads saved to source/raw/`);
-
   // Generate sarga files
   let totalVerses = 0;
-  const sargaNums = [...romanSargas.keys()].sort((a, b) => a - b);
+  const sargaNums = [...devSargas.keys()].sort((a, b) => a - b);
 
   for (const sargaNum of sargaNums) {
-    const romanVerses = romanSargas.get(sargaNum);
     const devVerses = devSargas.get(sargaNum);
-    const verseCount = romanVerses.size;
+    const romanVerses = transliterateDevanagariToIso(devVerses);
+    const verseCount = devVerses.size;
     totalVerses += verseCount;
 
     const paddedNum = String(sargaNum).padStart(3, '0');
     const fileName = `sarga-${paddedNum}.txt`;
 
-    // Write Roman (ISO-15919) golden source
+    // Write Devanagari golden source
+    const devContent = generateGoldenSargaFile(sargaNum, devVerses);
+    fs.writeFileSync(path.join(devDir, fileName), devContent, 'utf-8');
+
+    // Write Roman (ISO-15919 derived directly from Devanagari) golden source
     const romanContent = generateGoldenSargaFile(sargaNum, romanVerses);
     fs.writeFileSync(path.join(romanDir, fileName), romanContent, 'utf-8');
-
-    // Write Devanagari golden source
-    if (devVerses) {
-      const devContent = generateGoldenSargaFile(sargaNum, devVerses);
-      fs.writeFileSync(path.join(devDir, fileName), devContent, 'utf-8');
-    }
   }
 
   console.log(`\n✅ ${config.titlePlain} complete!`);
   console.log(`   📄 ${sargaNums.length} sarga files × 2 scripts = ${sargaNums.length * 2} files`);
-  console.log(`   📝 ${totalVerses} total verses extracted`);
+  console.log(`   📝 ${totalVerses} total verses extracted (Roman derived from Devanagari)`);
   console.log(`   📂 source/roman/${kandaKey}/`);
   console.log(`   📂 source/devanagari/${kandaKey}/`);
 
@@ -243,16 +254,15 @@ Available Kandas:
   ayodhya-kanda      Ayodhyā Kāṇḍa     (Book 2)
   aranya-kanda       Āraṇya Kāṇḍa      (Book 3)
   kishkindha-kanda   Kiṣkindhā Kāṇḍa   (Book 4)
-  sundara-kanda      Sundara Kāṇḍa     (Book 5)
+  sundara-kanda      Sundara Kāṇḍa     (Book 5 - Protected)
   yuddha-kanda       Yuddha Kāṇḍa      (Book 6)
   uttara-kanda       Uttara Kāṇḍa      (Book 7)
 
 Source: IIT Bombay Critical Edition (bombay.indology.info)
 
 Output (golden source — never edit these):
-  source/roman/<kanda>/sarga-NNN.txt        ISO-15919 transliteration
   source/devanagari/<kanda>/sarga-NNN.txt   Devanagari script
-  source/raw/<kanda>-roman.txt              Raw download (archival)
+  source/roman/<kanda>/sarga-NNN.txt        ISO-15919 transliteration (derived from Devanagari)
   source/raw/<kanda>-devanagari.txt         Raw download (archival)
 `);
     process.exit(0);
@@ -267,19 +277,20 @@ Output (golden source — never edit these):
 ╚══════════════════════════════════════════════════════════════╝
 `);
   console.log(`Source: IIT Bombay Critical Edition (bombay.indology.info)`);
-  console.log(`Output: source/roman/ + source/devanagari/ (golden source)`);
+  console.log(`Output: source/devanagari/ + source/roman/ (golden source)`);
 
   const startTime = Date.now();
   const results = [];
 
   if (target === 'all') {
     for (const kandaKey of Object.keys(KANDA_MAP)) {
+      if (kandaKey === 'sundara-kanda') continue;
       const result = await processKanda(kandaKey);
-      results.push(result);
+      if (result && !result.skipped) results.push(result);
     }
   } else {
     const result = await processKanda(target);
-    results.push(result);
+    if (result && !result.skipped) results.push(result);
   }
 
   // Summary

@@ -109,6 +109,12 @@ function convertToQaFormat(goldenContent) {
 }
 
 function processKanda(kandaKey) {
+  // Protect completed Sundara Kanda
+  if (kandaKey === 'sundara-kanda') {
+    console.log(`🛡  Sundara Kāṇḍa is complete and protected. Skipping.`);
+    return null;
+  }
+
   const sourceDir = path.join(PROJECT_ROOT, 'source', 'roman', kandaKey);
   const qaDir = path.join(PROJECT_ROOT, 'qa-review', kandaKey);
 
