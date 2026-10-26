@@ -173,13 +173,13 @@ knowing such a man.
 | 1. Shloka Sourcing | **AI** | Automated Node.js script — run once | 0 (just run the script) |
 | 2. Meaning Generation | **AI** | Batched, ~15 sargas per session | ~5-6 per Kanda |
 | 3. Review | **User** | Manual — the core human work | At your own pace |
-| 4. Proofreading | **Temple Volunteer** | Manual — parallel track | At volunteer's pace |
+| 4. Shloka Validation | **Automated + User** | 4-Layer Verification Protocol (see `shloka-validation-framework.md`) | Automated runs + spot checks |
 | 5. Compilation | **AI** | Automated script — run once | 0 (just run the script) |
 
 ### Phase 1: Shloka Sourcing `[AI — automated script, zero quota]`
 
 AI writes a one-time Node.js script (`extract-shlokas.js`) that:
-1. Fetches all sargas for a given Kanda from valmikiramayan.net
+1. Fetches all sargas for a given Kanda from raw file dowloaded from IIT Kanpur
 2. Parses and cleans the Devanagari text
 3. Converts to ISO-15919 Roman transliteration
 4. Writes organized sarga files to `qa-review/<kanda-name>/`
@@ -209,10 +209,12 @@ AI generates draft English meanings in manageable batches:
 5. Adjust meaning block groupings to match your Gorakhpur copy if needed
 6. Mark sarga as reviewed
 
-### Phase 4: Shloka Proofreading `[Temple Volunteer — parallel track]`
-1. Volunteer verifies transliterated shlokas against printed Devanagari source
-2. Corrections applied to sarga files
-3. Can happen in parallel with Phase 3 (user reviews meanings while volunteer checks shlokas)
+### Phase 4: Śloka Validation `[Automated Scripts + User Ground-Truth Check]`
+Follows the protocol defined in `shloka-validation-framework.md`:
+1. **Layer 1 (Collation):** Multi-source diff comparing extracted digital text against secondary digital edition.
+2. **Layer 2 (Chandas Engine):** Automated metre verification (32 akṣaras/anuṣṭubh, pathyā cadences, ISO-15919 characters).
+3. **Layer 3 (Round-Trip):** Re-transliteration diff (ISO-15919 ➔ Devanagari ➔ Diff) checking for converter artifacts.
+4. **Layer 4 (Physical Check):** User inspects 100% of flagged verses + 5-10% random sample against physical Gorakhpur Telugu print book.
 
 ### Phase 5: Compilation & Publishing `[AI — fully automated]`
 1. Run `compile-pdf.js` for the Kanda
