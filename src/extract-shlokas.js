@@ -142,15 +142,38 @@ function generateGoldenSargaFile(sargaNum, versesMap) {
 }
 
 /**
+ * Parasavarna normalization (Devanagari level, ISO output only).
+ * Anusvara (ं) followed IMMEDIATELY (same word, no space) by a stop
+ * consonant becomes the homorganic class nasal + virama (Pāṇini 8.4.58).
+ * Word-final anusvara stays ṁ (8.4.59 is optional; we choose not to apply).
+ * Before semivowels, sibilants and ह the anusvara stays (→ ṁ).
+ * The saved Devanagari golden file is NOT altered.
+ */
+function applyParasavarna(text) {
+  const nasalFor = (cp) => {
+    if (cp >= 0x0915 && cp <= 0x0919) return '\u0919'; // ka-class → ṅ
+    if (cp >= 0x091A && cp <= 0x091E) return '\u091E'; // ca-class → ñ
+    if (cp >= 0x091F && cp <= 0x0923) return '\u0923'; // ṭa-class → ṇ
+    if (cp >= 0x0924 && cp <= 0x0928) return '\u0928'; // ta-class → n
+    if (cp >= 0x092A && cp <= 0x092E) return '\u092E'; // pa-class → m
+    return null;
+  };
+  return text.replace(/\u0902([\u0915-\u092E])/g, (m, c) => {
+    const n = nasalFor(c.codePointAt(0));
+    return n ? `${n}\u094D${c}` : m;
+  });
+}
+
+/**
  * Transliterate a map of Devanagari verses to ISO-15919 directly.
- * Follows Devanagari word boundaries and sandhi.
+ * Follows Devanagari word boundaries and sandhi; applies parasavarna.
  */
 function transliterateDevanagariToIso(devVerses) {
   const romanVerses = new Map();
   for (const [verseNum, padas] of devVerses.entries()) {
     const romanPadas = padas.map(({ pada, text }) => ({
       pada,
-      text: Sanscript.t(text, 'devanagari', 'iso')
+      text: Sanscript.t(applyParasavarna(text), 'devanagari', 'iso')
     }));
     romanVerses.set(verseNum, romanPadas);
   }

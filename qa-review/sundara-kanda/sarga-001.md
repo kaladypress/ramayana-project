@@ -3,7 +3,7 @@
 
 ---
 1.
-tato rāvaṇanītāyāḥ sītāyāḥ śatrukarśanaḥ |
+tato rāvaṇanītāyāḥ sītāyāśśatrukarśanaḥ |
 iyeṣa padam anveṣṭuṁ cāraṇācarite pathi ||
 
 > **Meaning 1:** Thus, the destroyer of foes resolved to seek out the path of
@@ -12,7 +12,7 @@ iyeṣa padam anveṣṭuṁ cāraṇācarite pathi ||
 
 ---
 2.
-duṣkaraṁ niṣpratidvaṁdvaṁ cikīrṣankarma vānaraḥ |
+duṣkaraṁ niṣpratidvaṁdvaṁ cikīrṣan karma vānaraḥ |
 samudagraśirōgrīvō gavāṁ patirivābabhau ||
 
 > **Meaning 2:** Wishing to accomplish an arduous and peerless task, the Vānara,
@@ -21,7 +21,7 @@ samudagraśirōgrīvō gavāṁ patirivābabhau ||
 ---
 3.
 atha vaidūryavarṇeṣu śādvaleṣu mahābalaḥ |
-dhīraḥ salilakalpeṣu vicacāra yathāsukham ||
+dhīrassalilakalpeṣu vicacāra yathāsukham ||
 
 > **Meaning 3:** Then the mighty and courageous hero roamed at ease across the
 > grassy meadows, which had the vibrant hue of lapis lazuli and appeared as
@@ -30,7 +30,7 @@ dhīraḥ salilakalpeṣu vicacāra yathāsukham ||
 ---
 4.
 dvijān vitrāsayan dhīmān urasā pādapān haran |
-mr̥gāṁś ca subahūn nighnan pravr̥ddha iva kesarī ||
+mr̥gāṁśca subahūn nighnan pravr̥ddha iva kesarī ||
 
 > **Meaning 4:** Moving like a full-grown lion, the wise hero startled the
 > birds, knocked down trees that scraped against his massive chest, and struck
@@ -38,8 +38,8 @@ mr̥gāṁś ca subahūn nighnan pravr̥ddha iva kesarī ||
 
 ---
 5.
-nīlalohitamāñjiṣṭhapadmavarṇaiḥ sitāsitaiḥ |
-svabhāvavihitaiś citrair dhātubhiḥ samalaṁkr̥tam ||
+nīlalohitamāñjiṣṭhapadmavarṇaissitāsitaiḥ |
+svabhāvavihitaiścitraiḥ dhātubhissamalaṁkr̥tam ||
 
 6.
 kāmarūpibhir āviṣṭam abhīkṣṇaṁ saparicchadaiḥ |
