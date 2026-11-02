@@ -185,5 +185,5 @@ for (const [f, e] of Object.entries(trackGroups)) {
     console.log(`  ${trackErrors.includes(f) ? '✗ unknown log' : '+'} ${f}: ${e.length}${f in added ? ` (new ${added[f]})` : ''}`);
 }
 if (!clean) console.log('  Nothing written (fix the issues above and re-run).');
-else if (!DRY && !KEEP) fs.unlinkSync(meaningsFile);
+// scratch meanings file is preserved
 process.exit(clean ? 0 : 2);

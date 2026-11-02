@@ -1,0 +1,49 @@
+1: This whole earth once belonged to those victorious kings, beginning with Prajāpati and coming down through the line of rulers.
+2: Among them was Sagara, at whose command the ocean was excavated (from whom the ocean took its name, Sāgara). Sixty thousand sons accompanied him as his royal retinue wherever he went.
+3: This great story, known as the Rāmāyaṇa, arose in the family of those great-souled Ikṣvāku kings.
+4: I will tell all of it, complete and from the beginning. It deals with dharma, kāma and artha, and it should be heard without finding fault.
+5: There was a great, prosperous and joyful country named Kosala, set on the banks of the Sarayū and rich in wealth and grain.
+6: In it stood a city named Ayodhyā, famous throughout the world. Manu, the king of men, built that city himself.
+7: The great and splendid city was twelve yojanas long and three yojanas wide, with well-laid great roads.
+8: It was made beautiful by a broad, well-planned royal highway, which was strewn with loose flowers and sprinkled with water every day.
+9: King Daśaratha, who made the great kingdom grow, settled in that city like the ruler of the devatās in heaven.
+10: The city had doors and arched gateways, well-arranged shops and markets, every kind of machine and weapon, and all kinds of craftsmen.
+11: It was crowded with bards and praise-singers, splendid and matchless in its radiance, with high watchtowers and banners, and hundreds of śataghnī weapons.
+12: The city was filled on every side with troupes of women performers and players, with gardens and mango groves, and was ringed by a great wall of sāla trees.
+13: Its moat was deep and hard to cross, and the city was a fortress that others could not approach. It was full of horses and elephants, and of cows, camels and donkeys.
+14: It was surrounded by neighbouring kings who came with tribute, and made splendid by merchants from many different lands.
+15: It was adorned with palaces set with jewels, as tall as mountains, and packed with peaked-roof mansions, like Indra's Amarāvatī.
+16: The city was wonderful, laid out like an aṣṭāpada board, and full of groups of the finest women. It was strewn with every kind of gem and adorned with houses like celestial vimānas.
+17: Its houses stood close together with no gaps, on level ground. It was full of rice and grain, and its water was as sweet as sugarcane juice.
+18: Dundubhis, mr̥daṅgas, vīṇās and paṇavas resounded through it loudly, and it was the finest city on earth.
+19: It was like a vimāna of the Siddhas, won through austerity and set in the heavens. Its houses were well built, and it was full of the best of men.
+20: There were warriors who would not shoot at someone who was alone or running away, though they were quick-handed and skilled at striking a target by sound alone.
+21: They killed rutting lions, tigers and boars roaring in the forest, using sharp weapons and the sheer strength of their arms.
+22: King Daśaratha then settled in that city, which was filled with thousands of such mahārathas.
+23: The city was full of excellent brāhmaṇas who kept the sacred fires, were virtuous and had mastered the Vedas with their six limbs. They gave thousands in charity and were devoted to truth. Great-souled sages, as good as maharṣis, and pure ṛṣis also lived there.
+@Geography | Kosala (Country) - [Bala Kanda, Sarga 5, Verse 5, Region of Ayodhyā]
+@Geography | Sarayū (River) - [Bala Kanda, Sarga 5, Verse 5, Bank on which Kosala lies]
+@Geography | Ayodhyā (City) - [Bala Kanda, Sarga 5, Verse 6, Capital of Kosala]
+@Geography | Amarāvatī (City of Indra) - [Bala Kanda, Sarga 5, Verse 15, Comparison]
+@Architecture-Artifacts | Rājamārga (Royal highway) - [Bala Kanda, Sarga 5, Verse 8, Ayodhyā]
+@Architecture-Artifacts | Toraṇa (Arched gateway) - [Bala Kanda, Sarga 5, Verse 10, Ayodhyā]
+@Architecture-Artifacts | Aṭṭāla (Watchtower) - [Bala Kanda, Sarga 5, Verse 11, Ayodhyā]
+@Architecture-Artifacts | Sālamēkhalā (Rampart/girdle of sāla trees) - [Bala Kanda, Sarga 5, Verse 12, Ayodhyā]
+@Architecture-Artifacts | Parikhā (Moat) - [Bala Kanda, Sarga 5, Verse 13, Ayodhyā]
+@Architecture-Artifacts | Kūṭāgāra (Peaked-roof mansion) - [Bala Kanda, Sarga 5, Verse 15, Ayodhyā]
+@Architecture-Artifacts | Vimānagṛha (House like a celestial vimāna) - [Bala Kanda, Sarga 5, Verse 16, Ayodhyā]
+@Weapons | Śataghnī (Hundred-killer weapon) - [Bala Kanda, Sarga 5, Verse 11, Ayodhyā defenses]
+@Weapons | Bāṇa (Arrow) - [Bala Kanda, Sarga 5, Verse 20, Warriors of Ayodhyā]
+@Musical-Instruments | Dundubhi (Drum) - [Bala Kanda, Sarga 5, Verse 18, Ayodhyā]
+@Musical-Instruments | Mṛdaṅga (Drum) - [Bala Kanda, Sarga 5, Verse 18, Ayodhyā]
+@Musical-Instruments | Vīṇā (Stringed instrument) - [Bala Kanda, Sarga 5, Verse 18, Ayodhyā]
+@Musical-Instruments | Paṇava (Small drum) - [Bala Kanda, Sarga 5, Verse 18, Ayodhyā]
+@Flora-Fauna | Sāla (Tree) - [Bala Kanda, Sarga 5, Verse 12, Ayodhyā]
+@Flora-Fauna | Āmra (Mango tree) - [Bala Kanda, Sarga 5, Verse 12, Ayodhyā groves]
+@Flora-Fauna | Aśva (Horse), Vāraṇa (Elephant), Go (Cow), Uṣṭra (Camel), Khara (Donkey) - [Bala Kanda, Sarga 5, Verse 13, Ayodhyā]
+@Flora-Fauna | Siṁha (Lion), Vyāghra (Tiger), Varāha (Boar) - [Bala Kanda, Sarga 5, Verse 21, Forest]
+@Flora-Fauna | Śāli (Rice), Ikṣu (Sugarcane) - [Bala Kanda, Sarga 5, Verse 17, Ayodhyā]
+@Food-Ingredients | Śālitaṇḍula (Rice grains) - [Bala Kanda, Sarga 5, Verse 17, Ayodhyā]
+@Food-Ingredients | Ikṣukāṇḍarasa (Sugarcane juice) - [Bala Kanda, Sarga 5, Verse 17, Water compared]
+@Jewelry-Clothing | Ratna (Gems) - [Bala Kanda, Sarga 5, Verse 15-16, Ayodhyā palaces]
+

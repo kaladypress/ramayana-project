@@ -36,7 +36,7 @@ These rules apply whenever generating, editing, or reviewing English meanings/tr
 - **Variant Readings (Pāṭhāntara):** If there are extra verses or variant readings present in the Gorakhpur text but absent in others, label them sequentially as `Patha-1.`, `Patha-2.`, etc., rather than standard numbered ślokas. Their meanings should be prefixed similarly (e.g., "Patha-1: ...").
 - **Definitive Source:** The primary source for translation verification, verse numbering, and inclusion/omission of specific ślokas is the **Gorakhpur (Gita Press) Telugu edition**. Be aware that this may contain variant readings (pāṭha-bhedas) or extra verses compared to other editions.
 - **NEVER use web search or external sources to find translations.** Always generate the translations and meanings using internal intelligence, knowledge of the Rāmāyaṇa, and Sanskrit proficiency.
-- **Context Loading:** Before generating translations for a new sarga, use the `view_file` tool to read the opening ~40 lines (including meanings) of the previous completed sarga. This keeps tone, rhythm, and narrative continuity consistent without reading whole files (see *Token-Efficient Workflow*).
+- **Context Loading:** Before generating translations for a new sarga, use the `view_file` tool to read the opening ~40 lines (including meanings) of scratch\in-001.txt. This keeps tone, rhythm, and narrative continuity consistent without reading whole files (see *Token-Efficient Workflow*).
 
 ## Register: Modern, Plain English
 

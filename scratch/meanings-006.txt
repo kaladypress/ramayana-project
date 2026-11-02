@@ -1,49 +1,50 @@
-1: In that city of Ayodhyā lived King Daśaratha — well versed in the Vedas, far-sighted, immensely radiant, gathering all virtues in himself, and deeply loved by both the townspeople and the countryfolk.
-2: He was a supreme chariot-warrior of the Ikṣvāku line, a performer of sacrifices, devoted to dharma, master of himself, a royal sage resembling a great rishi, and renowned throughout the three worlds.
-3: Mighty and having subdued his foes, blessed with loyal allies and master of his senses, he rivaled Indra and Kubera in wealth and accumulated treasures.
-4: Just as the glorious Manu had protected the world, so King Daśaratha, living in that city, protected the world.
-5: Steadfast in truth and pursuing the three ends of life — dharma, artha, and kāma — he protected that foremost city just as Indra protects Amarāvatī.
-6: In that noble city, the people were joyous, righteous, and highly learned; contented with their own wealth, they were free from greed and spoke only truth.
-7: In that supreme city, there was no householder who had a meager store, none who lacked fulfillment, and none who was without cattle, horses, wealth, and grain.
-8: Nowhere in Ayodhyā could one find a person who was lustful, miserly, cruel, unlettered, or skeptical of the divine.
-9: All the men and women were devoted to dharma, deeply self-restrained, joyous in character and conduct, and pure as great rishis.
-10: No one was to be found without earrings, a headdress, or garlands of flowers, none with meager comforts, and none whose body was unwashed, unanointed with fragrant pastes, or devoid of sweet perfume.
-11: No one was seen eating impure food or failing to give in charity; no one lacked armlets, gold necklaces, or bracelets, and no one lacked self-control.
-12: Among the brāhmaṇas of Ayodhyā, there was none who failed to maintain the sacred fire, none who did not perform sacrifices, none who gave less than thousands in charity, and none of mixed lineage.
-13: Always dedicated to their own duties, the brāhmaṇas had conquered their senses; they practiced charity, Vedic study, and were restrained in accepting gifts.
-14: At that time, no one was an atheist, no one was untruthful, no one lacked deep learning, no one was envious, no one was powerless, and no one was ignorant.
-15: In Ayodhyā, no man or woman could be found who was wretched, mentally distressed, afflicted by grief, devoid of beauty and grace, or disloyal to the king.
-16: Across all four orders of society, the people worshiped the devatās, honored guests, lived long lives, and remained steadfast in righteousness and truth.
-17: The kṣatriyas were guided by the brāhmaṇas, the vaiśyas cooperated with the kṣatriyas, and the śūdras, dedicated to their own duties, served the three other classes.
-18: That city was safeguarded by that king of the Ikṣvāku line, just as it had been guarded in ancient days by the wise Manu, first ruler of mankind.
-19: It was filled with warriors like blazing fire — highly skilled, fierce and unyielding, fully trained in the martial arts, like lions in mountain caves.
-20: The city was filled with superior horses born in Kāmboja, Bāhlīka, Vanāyu, and the river regions, all swift as the steeds of Indra.
-21: It abounded in mountain-like elephants born in the Vindhya ranges and the Himalayas, immensely powerful and exuding rut.
-22: That city was filled with noble elephants descended from the lineages of Añjana and Vāmana, comprising the prime breeds: Bhadra-Mandra, Bhadra-Mṛga, and Mṛga-Mandra.
-23: Always filled with mountain-like elephants in rut, that city shone true to its name, unconquerable for two yojanas around.
-24: Adorned with wondrous residences, secured by stout gates and locking-bars, auspicious and bustling with thousands of citizens, that truly unassailable city of Ayodhyā was ruled by the king, who equaled Indra himself.
-@Flora-Fauna | Go (Cattle / cow) - [Bala Kanda, Sarga 6, Verse 7, Ayodhyā]
-@Flora-Fauna | Aśva (Horse) - [Bala Kanda, Sarga 6, Verse 7, Ayodhyā]
-@Flora-Fauna | Kēsarin (Lion; simile for warriors) - [Bala Kanda, Sarga 6, Verse 19, Ayodhyā]
-@Flora-Fauna | Haya (Steeds / horses from Kāmboja, Bāhlīka, Vanāyu, and river regions) - [Bala Kanda, Sarga 6, Verse 20, Ayodhyā]
-@Flora-Fauna | Mātaṅga (Elephants born in the Vindhyas and Himalayas) - [Bala Kanda, Sarga 6, Verse 21, Ayodhyā]
-@Flora-Fauna | Dvipa / Nāga (Elephants of Añjana and Vāmana breeds: Bhadra, Mandra, Mṛga) - [Bala Kanda, Sarga 6, Verse 22-23, Ayodhyā]
-@Geography | Ayodhyā (Capital city) - [Bala Kanda, Sarga 6, Verse 1, Kosala]
-@Geography | Amarāvatī (Celestial city of Indra; comparison) - [Bala Kanda, Sarga 6, Verse 5, Referenced]
-@Geography | Kāmboja (Region famed for horses) - [Bala Kanda, Sarga 6, Verse 20, Ayodhyā stables]
-@Geography | Bāhlīka (Bactria; region famed for horses) - [Bala Kanda, Sarga 6, Verse 20, Ayodhyā stables]
-@Geography | Vanāyu (Region famed for horses; Arabia/Persia) - [Bala Kanda, Sarga 6, Verse 20, Ayodhyā stables]
-@Geography | Nadīja (River valleys / Indus basin famed for horses) - [Bala Kanda, Sarga 6, Verse 20, Ayodhyā stables]
-@Geography | Vindhya (Mountain range; source of elephants) - [Bala Kanda, Sarga 6, Verse 21, Ayodhyā stables]
-@Geography | Himavān / Haimavata (Himalaya mountains; source of elephants) - [Bala Kanda, Sarga 6, Verse 21, Ayodhyā stables]
-@Architecture-Artifacts | Tōraṇa / Argalā (Arched gates and heavy locking-bars) - [Bala Kanda, Sarga 6, Verse 24, Ayodhyā]
-@Architecture-Artifacts | Gṛha (Striking and ornate residences) - [Bala Kanda, Sarga 6, Verse 24, Ayodhyā]
-@Jewelry-Clothing | Kuṇḍala (Earrings) - [Bala Kanda, Sarga 6, Verse 10, Ayodhyā citizens]
-@Jewelry-Clothing | Mukuṭa (Crowns / headdresses) - [Bala Kanda, Sarga 6, Verse 10, Ayodhyā citizens]
-@Jewelry-Clothing | Sraj (Flower garlands) - [Bala Kanda, Sarga 6, Verse 10, Ayodhyā citizens]
-@Jewelry-Clothing | Aṅgada (Armlets) - [Bala Kanda, Sarga 6, Verse 11, Ayodhyā citizens]
-@Jewelry-Clothing | Niṣka (Gold necklace / gold coins worn as jewelry) - [Bala Kanda, Sarga 6, Verse 11, Ayodhyā citizens]
-@Jewelry-Clothing | Hastābharaṇa (Hand ornaments / bracelets) - [Bala Kanda, Sarga 6, Verse 11, Ayodhyā citizens]
-@Food-Ingredients | Dhānya (Grain) - [Bala Kanda, Sarga 6, Verse 7, Ayodhyā]
-@Food-Ingredients | Anulēpana (Fragrant body-paste / unguent) - [Bala Kanda, Sarga 6, Verse 10, Ayodhyā]
-@Food-Ingredients | Sugandha (Sweet perfumes / aromatics) - [Bala Kanda, Sarga 6, Verse 10, Ayodhyā]
+1: In that city of Ayodhyā lived Daśaratha, a knower of the Vedas who embraced all people, far-sighted, of great radiance, and beloved by the people of the city and the countryside.
+2: He was the Atiratha among the Ikṣvākus — a peerless chariot warrior who performed yajñas, loved dharma, and had mastered himself. Like a maharṣi, he was a rājarṣi (royal sage), renowned in all three worlds.
+3: He was mighty, a destroyer of his enemies, rich in friends and allies, and a master of his senses. In wealth and treasure, he was the equal of Śakra (Indra) and Vaiśravaṇa (Kubera).
+4: Just as the radiant Manu once protected the world, so King Daśaratha protected the world while living in Ayodhyā.
+5: He was true to his word and followed the trivarga — dharma, artha and kāma. Under his care that city was protected like Amarāvatī under Indra, the greatest of the devatās.
+6: In that finest of cities, the people were happy and learned. They had righteous hearts, were content with their own wealth, free of greed, and spoke only the truth.
+7: In that excellent city there was no householder with meager savings, none whose goals had gone unmet, and none without cows, horses, wealth and grain.
+8: Nowhere in Ayodhyā could one find a man ruled by lust, a miser, or a cruel person. There was no one uneducated and no nāstika, a denier of dharma and the Vedas.
+9: All the men and women were of dharmic character and well restrained. They were cheerful, and through their good nature and conduct they were as spotless as maharṣis.
+10: No one lacked earrings, a crown or a garland, and no one lived with few comforts. No one was unwashed, without sandalwood paste on the body, or without fragrance.
+11: No one ate poorly or was stingy with gifts, and no one went without armlets, a necklace (niṣka), or ornaments on the hands. No one lacked self-mastery either.
+12: In Ayodhyā there was no brāhmaṇa who had not established the sacred fire (āhitāgni), who did not perform yajñas, or who did not give thousands in charity. And there was no mixing of the varṇas.
+13: The brāhmaṇas were always devoted to their own duties and had mastered their senses. They loved giving and study, and were restrained in accepting gifts.
+14: At that time, no one was faithless toward the Vedas, untruthful, unlearned, envious, incapable, or ignorant.
+15: In that city, there was no one who did not know the six Vedāṅgas, none who lived without sacred vows, and none who failed to give gifts by the thousands. Not a single person was destitute, troubled in mind, or afflicted with grief.
+16: Nowhere in Ayodhyā could any man or woman be seen who was lacking in grace and prosperity, devoid of beauty, or wanting in devotion to the king.
+17: Across all four varṇas, beginning with the brāhmaṇas, the people worshipped the devatās and honored guests; all were grateful, generous, brave, and endowed with great prowess.
+18: In that foremost of cities, all the people were blessed with long life, devoted to dharma and truth, and lived happily in the company of their wives, sons, and grandsons.
+19: The kṣatriyas looked to the brāhmaṇas as their guide, while the vaiśyas followed the lead of the kṣatriyas. Devoted to their own duty, the śūdras served the other three varṇas in mutual harmony.
+20: That city was thoroughly protected by the sovereign of the Ikṣvākus, just as it had been safeguarded in ancient times by the wise Manu, ruler of mankind.
+21: The city was filled with warriors as fierce as fire — skilled, intolerant of insult, accomplished in every martial science, and formidable as lions in their mountain caves.
+22: It was filled with the finest steeds — bred in Kāmboja, Bāhlīka, and Vanāyu, and along the sacred rivers — swift and spirited as the green coursers of Indra.
+23: The city also teemed with mighty, mountain-like elephants, born in the Vindhya ranges and the snow-clad Himālayas, ferocious in rut and endowed with immense strength.
+24: It was populated by great elephants descended from the noble celestial lines of the four Diggajas — Airāvata, Mahāpadma, Añjana, and Vāmana.
+25: That city was perpetually filled with mountain-like elephants ever in rut — belonging to the three pure breeds: Bhadra, Mandra, and Mṛga; those combining all three; and the mixed breeds: Bhadra-Mandra, Bhadra-Mṛga, and Mṛga-Mandra.
+26: Extending for two more yojanas all around, that city shone forth, truly worthy of its name Ayodhyā (the Unconquerable) — dwelling within which King Daśaratha protected the entire world.
+27: Having subdued all his enemies, the great and glorious King Daśaratha ruled over that magnificent city, shining in their midst just as the moon presides over the stars.
+28: With its sturdy gateways and firm crossbars, adorned with wondrous mansions and teeming with thousands of citizens, that auspicious city of Ayodhyā — truly unassailable as its name proclaimed — was ruled by that lord of the earth, an equal to Indra himself.
+@Geography | Kāmboja (Region, source of fine horses) | 22 | Referenced
+@Geography | Bāhlīka (Region, source of fine horses) | 22 | Referenced
+@Geography | Vanāyu (Region, source of fine horses) | 22 | Referenced
+@Geography | Vindhya (Mountain range, source of elephants) | 23 | Referenced
+@Geography | Himavat / Himālaya (Mountain range, source of elephants) | 23 | Referenced
+@Geography | Amarāvatī (City of Indra) | 5 | Comparison
+@Architecture-Artifacts | Toraṇa (Gateway) | 28 | Ayodhyā
+@Architecture-Artifacts | Argala (Bar for fastening doors or gates) | 28 | Ayodhyā
+@Architecture-Artifacts | Gṛha (House, varied and wondrous) | 28 | Ayodhyā
+@Flora-Fauna | Hayottama (Fine horses of Kāmboja, Bāhlīka, Vanāyu and the river regions) | 22 | Ayodhyā
+@Flora-Fauna | Mātaṅga / Nāga (Elephants, mountain-like and rutting) | 23 | Ayodhyā
+@Flora-Fauna | Airāvata, Mahāpadma, Añjana, and Vāmana lineages (Lines of the directional elephants) | 24 | Ayodhyā
+@Flora-Fauna | Bhadra, Mandra and Mṛga (Elephant breeds) and their crosses | 25 | Ayodhyā
+@Flora-Fauna | Kēsarī (Lion, simile for warriors in caves) | 21 | Simile
+@Jewelry-Clothing | Kuṇḍala (Earrings) | 10 | Citizens of Ayodhyā
+@Jewelry-Clothing | Mukuṭa (Crown) | 10 | Citizens of Ayodhyā
+@Jewelry-Clothing | Sraj (Garland) | 10 | Citizens of Ayodhyā
+@Jewelry-Clothing | Aṅgada (Armlet) | 11 | Citizens of Ayodhyā
+@Jewelry-Clothing | Niṣka (Necklace or pendant) | 11 | Citizens of Ayodhyā
+@Jewelry-Clothing | Hastābharaṇa (Ornament for the hand) | 11 | Citizens of Ayodhyā
+@Jewelry-Clothing | Anulepana (Perfumed paste, sandalwood or similar) | 10 | Citizens of Ayodhyā
+
