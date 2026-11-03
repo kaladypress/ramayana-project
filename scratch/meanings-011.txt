@@ -1,0 +1,43 @@
+1: Sumantra continues: "Great king, listen once more to my words, which will do you good, just as that foremost of devatās (Sanatkumāra) spoke in his account."
+2: "In the Ikṣvāku dynasty will be born a king named Daśaratha—deeply righteous, radiant with royal splendor, and firm in keeping his word."
+3: "That king will form a friendship with the king of Aṅga, and a greatly fortunate daughter named Śāntā will be born to Daśaratha."
+4: "The king of Aṅga will have a son known as Lomapāda. The renowned Daśaratha will go to him."
+5: "Daśaratha will say: 'I have no children, righteous one. If you permit it, let Śāntā's husband perform a sacrifice for me, to bring me sons and continue my line.'"
+6: "Hearing the king's request, Lomapāda, a self-controlled man, will think it over in his mind and agree to send Śāntā's husband, the brahmin, to the one who longs for sons."
+7: "Accepting that brahmin, the king, free from his anguish, will perform that sacrifice with a joyful heart."
+8: "Daśaratha, who knows dharma and wishes to perform the sacrifice, will fold his hands and request Ṛśyaśṛṅga, the best of brahmins, to officiate."
+9: "For the sacrifice, for the birth of sons, and for the sake of heaven, the ruler of men, the protector of his people, will obtain his desire through that foremost brahmin."
+10: "Four sons of immeasurable valor will be born to him, famed in all the worlds, who will establish and carry on his lineage."
+11: "In this way, long ago in the age of the devatās, the revered and powerful Sanatkumāra told this account in the past."
+12: "So you, tiger among men, great king, go yourself with your army and vehicles, and bring that brahmin back with full honor."
+13: "Having taken Vasiṣṭha's permission and having heard the charioteer's words, the king set out with his queens and ministers to where that brahmin lived."
+14: "Crossing forests and rivers, traveling slowly and steadily, he reached the land where that best of munis lived."
+15: "Arriving there, he first saw the sage's son, the best of brahmins, seated near Lomapāda and blazing like a fire."
+16: "Then, because of his friendship with Lomapāda, the king, with a joyful heart, paid him special honor, according to custom."
+17: "Lomapāda told the wise sage's son of the friendship and the family bond between them, and Ṛśyaśṛṅga honored Daśaratha in return."
+18: "Honored well in this way, that bull among men stayed there for seven or eight days, and then he said to the king (Lomapāda):"
+19: "\"King, protector of your people, let your daughter Śāntā go to my city with her husband, for an important task awaits.\""
+20: "Hearing this, Lomapāda agreed, saying, \"So be it,\" and said to the wise brahmin, \"Go with your wife.\""
+21: "The sage's son agreed, saying \"So be it\" to the king. With the king's leave, he set out with his wife."
+22: "Then Daśaratha and the mighty Lomapāda folded their hands to each other, embraced warmly out of affection, and were both delighted."
+23: "After taking leave of his friend, the delight of the Raghus set out, and sent swift messengers ahead to the citizens, ordering that the entire city be decorated beautifully at once."
+24: "Then the citizens, delighted to hear that the king was coming, did everything the king had commanded."
+25: "Then the king entered the beautifully decorated city to the sounding of conches and drums, honoring the best of brahmins by placing him in front."
+26: "Then all the townspeople were overjoyed to see that brahmin being led in and honored by the king, who was equal to Indra in his deeds."
+27: "Bringing him into the inner palace, he worshipped him as the scriptures prescribe, and felt his life had been fulfilled because of the brahmin's arrival."
+28: "All the women of the palace saw Śāntā, the wide-eyed one, arriving with her husband, and were filled with joy and affection."
+29: "Honored by those women, and especially by the king, she lived there happily for some time with the brahmin, her husband."
+@Geography | Aṅga (Kingdom) - [Bala Kanda, Sarga 11, Verse 3, Referenced]
+@Geography | Ayodhya (City, implied as Daśaratha's capital) - [Bala Kanda, Sarga 11, Verse 25, Ayodhya]
+@Musical-Instruments | Śaṅkha (Conch) - [Bala Kanda, Sarga 11, Verse 25, Ayodhya]
+@Musical-Instruments | Dundubhi (Large drum) - [Bala Kanda, Sarga 11, Verse 25, Ayodhya]
+@Architecture-Artifacts | Antaḥpura (Inner palace, women's quarters) - [Bala Kanda, Sarga 11, Verse 27, Ayodhya]
+@Architecture-Artifacts | Nagara (City, decorated for the king's return) - [Bala Kanda, Sarga 11, Verse 23, Ayodhya]
+@glossary-terms | Sanatkumāra (One of the four mind-born sons of Brahmā, an eternal sage who foretold Daśaratha's sons) - [Bala Kanda, Sarga 11, Verse 11, Referenced]
+@glossary-terms | Ṛśyaśṛṅga (Sage, son of Vibhāṇḍaka, married to Śāntā, officiating priest of the sacrifice) - [Bala Kanda, Sarga 11, Verse 8, Aṅga/Ayodhya]
+@glossary-terms | Lomapāda (King of Aṅga, friend of Daśaratha) - [Bala Kanda, Sarga 11, Verse 4, Aṅga]
+@glossary-terms | Śāntā (Daughter of Daśaratha, raised by Lomapāda, wife of Ṛśyaśṛṅga) - [Bala Kanda, Sarga 11, Verse 3, Aṅga/Ayodhya]
+@glossary-terms | Raghunandana (Delight of the Raghus, epithet of Daśaratha) - [Bala Kanda, Sarga 11, Verse 23, Referenced]
+@glossary-terms | Nararṣabha (Bull among men, epithet of Daśaratha) - [Bala Kanda, Sarga 11, Verse 18, Referenced]
+@glossary-terms | Puruṣaśārdūla (Tiger among men, address to Daśaratha) - [Bala Kanda, Sarga 11, Verse 12, Referenced]
+@glossary-terms | Viśāmpati (Protector / ruler of the people, epithet of a king) - [Bala Kanda, Sarga 11, Verse 19, Referenced]
