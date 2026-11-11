@@ -142,11 +142,17 @@ The Sanskrit word *aṅga* does NOT map to English "limb." It encompasses form, 
 4. **Exception**: "limb" is acceptable ONLY for physical/anatomical contexts unrelated to beauty (e.g., a limb trembling from a blow, a severed limb in battle)
 
 
-## Glossary Maintenance
+## Glossary & Foot-Notes Maintenance
 
 - The glossary lives at `qa-review/glossary-terms`.
-- Foot-notes and commentary references go in `qa-review/Foot-Notes`.
 - When encountering terms for celestial beings (Yakṣas, Kinnaras, Gandharvas, Nāgas, Vidyādharas, Cāraṇas, Siddhas, etc.), add them to the glossary on first occurrence.
+
+### Foot-Notes Rules (`qa-review/Foot-Notes`)
+
+- **Location:** Foot-notes and commentary references go in `qa-review/Foot-Notes`.
+- **ABSOLUTE BAN ON PUBLISHER NAMES:** Foot-notes must **NEVER** mention "Gorakhpur", "Gita Press", or any specific modern publisher, edition, or press.
+- **Attribution Style:** Always refer to commentary explanations, contextual expansions, and traditional insights neutrally as coming from **"classical commentators"**, **"traditional commentaries"**, or **"the commentators"** (e.g., *"Classical commentators explain that..."*, *"Traditional commentaries clarify that..."*).
+- **Purpose & Scope:** Use footnotes to capture rich contextual expansions, traditional narrative backgrounds, allegorical or philosophical significance, and customary cultural enumerations (e.g., lists of customary gifts, background stories of boons and curses, ritual nuances) that explain the verse without cluttering or burdening the śloka's translation itself.
 
 ## Data Tracking (Flora, Fauna, Geography, Architecture, Weapons, Instruments, Adornments, Colors & Food)
 
