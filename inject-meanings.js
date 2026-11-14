@@ -4,9 +4,10 @@
  * and append tracker entries, in one run.
  *
  * Usage:
- *   node inject-meanings.js <sarga> --kanda bala-kanda [--dry] [--keep] [--force]
+ *   node inject-meanings.js <sarga> --kanda <kanda> [--scratch] [--dry] [--keep] [--force]
  *
  * Reads : source/roman/<kanda>/sarga-NNN.txt   (golden, never modified)
+ *         or scratch/in-NNN.txt when --scratch is passed
  *         scratch/meanings-NNN.txt
  * Writes: qa-review/<kanda>/sarga-NNN.txt      (refuses to overwrite unless --force)
  *         qa-review/<LogFile>                  (trackers, deduped, only on clean run)
@@ -36,13 +37,16 @@ if (kanda === 'sundara-kanda') { console.error('Sundara Kanda is protected. Abor
 const DRY = args.includes('--dry');
 const KEEP = args.includes('--keep');
 const FORCE = args.includes('--force');
+const SCRATCH = args.includes('--scratch');
 const WIDTH = 80;
 
 const num = sargaArg.padStart(3, '0');
 const sargaNo = parseInt(sargaArg, 10);
 const kandaTitle = kanda.replace(/-kanda$/, '').replace(/^./, c => c.toUpperCase()) + ' Kanda';
 const root = __dirname;
-const sourceFile = path.join(root, 'source', 'roman', kanda, `sarga-${num}.txt`);
+const sourceFile = SCRATCH
+    ? path.join(root, 'scratch', `in-${num}.txt`)
+    : path.join(root, 'source', 'roman', kanda, `sarga-${num}.txt`);
 const meaningsFile = path.join(root, 'scratch', `meanings-${num}.txt`);
 const targetFile = path.join(root, 'qa-review', kanda, `sarga-${num}.txt`);
 
@@ -62,7 +66,8 @@ let cur = null;
 for (const raw of srcLines) {
     const t = raw.trim();
     if (t.startsWith('=== Sarga')) { header = raw.trimEnd(); continue; }
-    const v = t.match(/^(\d+)\.$/);
+    if (t.startsWith('# Sarga')) { header = `=== Sarga ${sargaNo} ===`; continue; }
+    const v = t.match(/^(\d+)[.:]?$/);
     if (v) { cur = { num: parseInt(v[1], 10), label: v[1], lines: [] }; verses.push(cur); continue; }
     if (cur && t) cur.lines.push(raw.trimEnd());
 }
