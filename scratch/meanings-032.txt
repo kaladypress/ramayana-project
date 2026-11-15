@@ -1,0 +1,33 @@
+1: "There was once a great-souled ascetic named Kuśa, born of Brahmā, who understood dharma, kept his vows without faltering, and always honored the virtuous.
+2: "Through his noble-born and worthy wife, the princess of Vidarbha, that great-souled king fathered four mighty sons who matched him in stature:
+3: "Kuśāmba, Kuśanābha, Ādhūrtarajasa, and Vasu—all radiant, full of energy, and eager to uphold kṣatriya-dharma.
+4: "To those righteous and truthful sons, Kuśa said, 'My sons, devote yourselves to protecting the people; through that you will attain abundant dharma.'
+5: "Hearing Kuśa's words, all four of those finest kings, respected throughout the world, each founded a city of his own.
+6: "The radiant Kuśāmba built the city of Kauśāmbī, while the righteous Kuśanābha founded the splendid city of Mahōdaya.
+7: "King Ādhūrtarajasa, Rāma, built the great city of Dharmāraṇya, and Vasu founded Girivraja.
+8: "This land of Vasumatī, Rāma, belongs to that great-souled Vasu—see how these five great mountains rise brightly all around it!
+9: "The lovely, renowned river Sumāgadhī flows through Magadha, gleaming like a garland amidst those five great peaks.
+10: "This very Māgadhī, Rāma, belongs to that great-souled Vasu—turning eastward through fertile fields garlanded with crops.
+11: "Meanwhile, Raghunandana, the righteous royal sage Kuśanābha fathered a hundred peerless daughters through Ghr̥tācī.
+12: "In the full bloom of youth, lovely and finely adorned, those daughters entered the royal garden like flashes of lightning against monsoon clouds.
+13: "Decked in exquisite ornaments, Rāghava, they sang, danced, and played music, lost in pure delight.
+14: "Radiant in every way and unmatched in beauty on earth, they shone in that garden like stars emerging between the clouds.
+15: "Seeing them blessed with every virtue, beauty, and youth, the all-pervading Vāyu spoke to them:
+16: "'I desire all of you—become my wives! Leave behind your human state, and you will gain long life.
+17: "'Youth is always fleeting, especially among humans; with me, you will enjoy unending youth and become immortal.'
+18: "Hearing those words of Vāyu, whose deeds are effortless, the hundred daughters laughed his proposal aside and answered:
+19: "'Greatest of devatās, you move within all beings, and we all know your power—why then do you treat us with such disrespect?
+20: "'As Kuśanābha's daughters, we all have the power to bring even a devatā like you down from your station, yet we hold back to guard our austerity.
+21: "'Foolish one, may that time never come! Do not disrespect our truthful father—we follow dharma in choosing our husbands.
+22: "'Our father is our guardian and our highest devatā. Whoever our father gives us to will be our husband.'
+23: "Hearing their words, the mighty Vāyu flew into a terrible rage; entering their bodies, he twisted and broke their forms.
+24: "Broken by Vāyu, those daughters went into the king's palace, deeply shaken, ashamed, and with eyes brimming with tears.
+25: "Seeing his beloved, once-radiant daughters thus broken, the king was deeply alarmed and cried out:
+26: "'My daughters, what has happened? Tell me—who has trampled on dharma? Who has left you all bent and hunchbacked? Why do you writhe in pain and say nothing?' Sighing heavily, the king then composed himself in stillness."
+@Geography | Kauśāmbī (City founded by Kuśāmba) | 6 | Referenced
+@Geography | Mahōdaya (City founded by Kuśanābha) | 6 | Referenced
+@Geography | Dharmāraṇya (City founded by Ādhūrtarajasa) | 7 | Referenced
+@Geography | Girivraja (City founded by Vasu) | 7 | Referenced
+@Geography | Vasumatī (Land of Vasu surrounded by five great mountains) | 8 | Referenced
+@Geography | Sumāgadhī / Māgadhī (River flowing through Magadha amidst five peaks) | 9 | Referenced
+@Geography | Magadha (Region) | 9 | Referenced
