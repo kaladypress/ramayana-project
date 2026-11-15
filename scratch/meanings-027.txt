@@ -1,0 +1,62 @@
+1: Having spent that night there, the illustrious Viśvāmitra smiled and spoke these sweet-toned words to Rāghava:
+2: "Illustrious prince, I am deeply pleased with you—may all blessings be yours! Filled with the highest affection, I now give you all these astras,
+3: "with which you will overpower and conquer any enemies in battle—even hosts of devatās, asuras, gandharvas, and uragas.
+4: "Blessings on you—I give you all those divine astras. Rāghava, I will give you the great divine Daṇḍacakra,
+5: "and then, hero, the Dharmacakra, the Kālacakra, the fierce Viṣṇucakra, and the Aindra Cakra;
+6: "the Vajra astra, best of men, Śiva's supreme trident, the Brahmaśiras astra, and the Aiṣīka astra as well, Rāghava.
+7: "Mighty-armed Kākutstha, I give you the supreme Brāhma astra, and also the two maces, Modakī and Śikharī—
+8: "both blazing with radiance, tiger among men, prince—I bestow them upon you, along with the Dharmapāśa, Rāma, and the Kālapāśa,
+9: "and the supreme Vāruṇa-pāśa astra. Raghunandana, I also give you the two thunderbolts, Śuṣkā and Ārdrā.
+10: "I give you the Paināka astra, the Nārāyaṇa astra, and the beloved Āgneya astra known by the name Śikhara.
+11: "Rāghava, I give you the Vāyavya astra called Prathama, the astra named Hayaśiras, the Krauñca astra, and the two Śaktis, blameless Kākutstha.
+12: "I also give you all those weapons wielded by the asuras—the Kaṅkāla, the dreadful Musala, the Kāpāla, and the Kaṅkaṇa.
+13: "Mighty-armed prince, I give you the great Vaidyādhara astra known as Nandana, and the jewel among swords, Asiratna.
+14: "Rāghava, I give you the beloved Gāndharva astra named Mānava, the Prasvāpana and Praśamana astras, and the Saura astra;
+15: "the Varṣaṇa, Śoṣaṇa, Santāpana, and Vilāpana astras, as well as the irresistible Madana astra, dear to Kandarpa;
+16: "and the favorite Paiśāca astra named Mohana—receive them, illustrious prince, tiger among men!
+17: "Receive too, tiger among men, prince, the Tāmasa, the mighty Saumana, the irresistible Saṁvarta, and the Mausala astras;
+18: "the Satya astra, mighty-armed one, the supreme Māyādhara, and the dreadful Tejaḥprabha, which drains away the energy of enemies;
+19: "the Soma astra called Śiśira, Tvaṣṭā's astra called Sudāmana, the terrible astra of Bhaga, and the Śīteṣu and Mānava astras.
+20: "Mighty-armed, noble-hearted prince, quickly receive these mighty, shape-shifting astras!"
+21: Standing facing the east, purified and self-controlled, the deeply pleased sage then imparted to Rāma that supreme collection of mantras.
+22: That brāhmaṇa then handed over to Rāghava all those astras, whose complete mastery is hard to attain even for the devatās.
+23: As the wise sage Viśvāmitra chanted the mantras, all those precious astras appeared in person before Rāghava.
+24: Joyful and with palms joined in reverence, they all said to Rāma, "Most noble Rāghava, here we are, your servants!"
+25: Accepting them and touching them gently with his hand, Kākutstha instructed them, "Come to me whenever I call you to mind."
+26: Then, glad at heart, the radiant Rāma bowed in reverence to the great sage Viśvāmitra and prepared to set out.
+
+@glossary-terms | Uragas (Serpent-beings / Nāgas) | 3 | Referenced
+@glossary-terms | Gandharvas (Celestial musicians) | 3 | Referenced
+@Weapons | Daṇḍacakra (Divine discus) | 4 | Viśvāmitra to Rāma
+@Weapons | Dharmacakra (Divine discus) | 5 | Viśvāmitra to Rāma
+@Weapons | Kālacakra (Divine discus) | 5 | Viśvāmitra to Rāma
+@Weapons | Viṣṇucakra (Divine discus) | 5 | Viśvāmitra to Rāma
+@Weapons | Aindra Cakra (Indra's divine discus) | 5 | Viśvāmitra to Rāma
+@Weapons | Vajra (Thunderbolt astra) | 6 | Viśvāmitra to Rāma
+@Weapons | Śaiva Śūla (Śiva's supreme trident) | 6 | Viśvāmitra to Rāma
+@Weapons | Brahmaśiras (Divine astra) | 6 | Viśvāmitra to Rāma
+@Weapons | Aiṣīka (Divine astra) | 6 | Viśvāmitra to Rāma
+@Weapons | Brāhma Astra (Supreme divine astra) | 7 | Viśvāmitra to Rāma
+@Weapons | Modakī (Divine mace) | 7 | Viśvāmitra to Rāma
+@Weapons | Śikharī (Divine mace) | 7 | Viśvāmitra to Rāma
+@Weapons | Dharmapāśa (Divine noose) | 8 | Viśvāmitra to Rāma
+@Weapons | Kālapāśa (Divine noose) | 8 | Viśvāmitra to Rāma
+@Weapons | Vāruṇapāśa (Varuṇa's divine noose) | 9 | Viśvāmitra to Rāma
+@Weapons | Śuṣkā and Ārdrā Aśani (Dry and Wet thunderbolts) | 9 | Viśvāmitra to Rāma
+@Weapons | Paināka (Śiva's bow-astra) | 10 | Viśvāmitra to Rāma
+@Weapons | Nārāyaṇa Astra (Viṣṇu's divine astra) | 10 | Viśvāmitra to Rāma
+@Weapons | Śikhara Āgneya Astra (Fire astra) | 10 | Viśvāmitra to Rāma
+@Weapons | Prathama Vāyavya Astra (Wind astra) | 11 | Viśvāmitra to Rāma
+@Weapons | Hayaśiras (Divine astra) | 11 | Viśvāmitra to Rāma
+@Weapons | Krauñca Astra (Divine astra) | 11 | Viśvāmitra to Rāma
+@Weapons | Śakti Dvaya (Two divine spears) | 11 | Viśvāmitra to Rāma
+@Weapons | Kaṅkāla, Musala, Kāpāla, Kaṅkaṇa (Asura weapons) | 12 | Viśvāmitra to Rāma
+@Weapons | Nandana Vaidyādhara Astra (Great astra) | 13 | Viśvāmitra to Rāma
+@Weapons | Asiratna (Jewel among swords) | 13 | Viśvāmitra to Rāma
+@Weapons | Mānava Gāndharva Astra (Gandharva astra) | 14 | Viśvāmitra to Rāma
+@Weapons | Prasvāpana, Praśamana, Saura Astras (Divine astras) | 14 | Viśvāmitra to Rāma
+@Weapons | Varṣaṇa, Śoṣaṇa, Santāpana, Vilāpana, Madana Astras (Divine astras) | 15 | Viśvāmitra to Rāma
+@Weapons | Mohana Paiśāca Astra (Piśāca astra) | 16 | Viśvāmitra to Rāma
+@Weapons | Tāmasa, Saumana, Saṁvarta, Mausala Astras (Divine astras) | 17 | Viśvāmitra to Rāma
+@Weapons | Satya, Māyādhara, Tejaḥprabha Astras (Divine astras) | 18 | Viśvāmitra to Rāma
+@Weapons | Śiśira Somāstra, Sudāmana Tvāṣṭra, Bhaga's Astra, Śīteṣu, Mānava (Divine astras) | 19 | Viśvāmitra to Rāma
