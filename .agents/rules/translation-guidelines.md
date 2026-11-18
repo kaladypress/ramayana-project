@@ -17,6 +17,8 @@ These rules apply whenever generating, editing, or reviewing English meanings/tr
 | monkey / monkeys | Hanumān, Kapīśreṣṭha, Vānara(s), Plavaṅgama, Kapi, Hari, or the specific epithet from the śloka |
 | "tiger among monkeys" / "leader of monkeys" | "tiger among Vānaras", "Hariśārdūla", "leader of Vānaras", "Hariyūthapa", or "Hanumān" |
 | lord | god, goddess, or preferably devathā(s) / devatā(s) |
+| Brāhmaṇa (as a vocative / form of address) | revered sage, great r̥ṣi, or the sage's name (e.g., Viśvāmitra, Bhr̥gu) |
+| sacrifice (for yajña / kratu) | yajña (or kratu) |
 
 ### Character Names & Epithets
 
