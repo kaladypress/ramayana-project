@@ -16,6 +16,7 @@ These rules apply whenever generating, editing, or reviewing English meanings/tr
 |---|---|
 | monkey / monkeys | Hanumān, Kapīśreṣṭha, Vānara(s), Plavaṅgama, Kapi, Hari, or the specific epithet from the śloka |
 | "tiger among monkeys" / "leader of monkeys" | "tiger among Vānaras", "Hariśārdūla", "leader of Vānaras", "Hariyūthapa", or "Hanumān" |
+| "tiger among men" (for naraśārdūla / puruṣavyāghra / naravyāghra) | "greatest of men", "foremost of men", or the Sanskrit epithet |
 | lord | god, goddess, or preferably devathā(s) / devatā(s) |
 | Brāhmaṇa (as a vocative / form of address) | revered sage, great r̥ṣi, or the sage's name (e.g., Viśvāmitra, Bhr̥gu) |
 | sacrifice (for yajña / kratu) | yajña (or kratu) |
@@ -55,7 +56,10 @@ Older English translations of the Rāmāyaṇa imposed a Western, Biblical/Shake
 3. **Short, clear sentences.** Break long Sanskrit compounds and clause chains into natural English sentences while keeping the śloka order.
 4. **Dialogue must sound spoken.** Characters should sound like real people talking — contractions ("you're", "don't") are allowed, especially in heated or crude speech (e.g., the Rākṣasīs).
 5. **Accuracy first.** Plain does not mean loose — every idea in the śloka must still be present, in order.
-6. **Vocatives:** Avoid the archaic "O ...!" where possible. Fold address terms into the sentence naturally ("Listen, Sītā", "beautiful one"). Use "O" only in genuine invocations/prayers.
+6. **Vocatives:** Avoid the archaic "O ...!" where possible. Use "O" only in genuine invocations/prayers.
+   - **Front-load vocatives:** Place address terms (`Rāma`, `Kākutstha`, `Raghunandana`, `king`, etc.) at the **start** of the sentence or speech rather than wedging them mid-sentence (`"..., Kākutstha, ..."`) or tacking them onto the very end (`"..., king."`), which disrupts English reading flow.
+   - **Deduplicate double vocatives:** When a single śloka has two vocatives for the same listener (e.g., `rāma` + `vīra`, or `manujādhipa` + `rājan`), merge them or keep one clean opening address rather than interrupting the sentence twice.
+   - **No bare mid-sentence `", hero,"`:** Render `vīra` at the start of the sentence as `"Brave prince,"` / `"Valiant Rāma,"` (or omit if paired with another vocative in the same verse).
 
 ### Banned Archaisms
 

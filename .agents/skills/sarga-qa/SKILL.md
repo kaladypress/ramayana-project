@@ -19,6 +19,7 @@ Use this skill during interactive sarga-by-sarga QA review. It complements `tran
      - **No sentence fragments:** Ensure each meaning block reads cleanly (either a complete sentence or a clearly punctuated continuation).
      - **Unambiguous subjects & epithets:** Disambiguate `Kākutstha` when both Rāma and Lakṣmaṇa are present; use `Viśvāmitra` instead of generic `"that brāhmaṇa"`/`"brāhmaṇa"` when addressing or referring to him; use active subjects instead of vague passives (`"until Viśvāmitra awakened him"`, not `"until he was awakened"`).
      - **Clarify metaphorical/personified terms:** Make implicit categories explicit where needed (e.g., `"the divine astras known as the sons of Kr̥śāśva"`).
+     - **Vocative placement & density:** Place vocatives (`Rāma`, `Kākutstha`, `Raghunandana`, `king`, etc.) at the **start** of the sentence rather than wedging them mid-sentence or tacking them onto the end. If a verse has two vocatives to the same listener (e.g., `rāma` + `vīra`, or `manujādhipa` + `rājan`), keep one clean opening address. Never use bare mid-sentence `", hero,"` or `"tiger among men"` (use `"greatest of men"` / `"foremost of men"`).
      - **Natural spoken/narrative English:** Replace stiff literalisms (`"shape-shifting"` → `"able to take any form at will"`, `"demonstrated"` → `"showed"`, `"hosts"` → `"ranks"`/`"assemblies"`).
 
 3. **Grouping & List Cleanup**
