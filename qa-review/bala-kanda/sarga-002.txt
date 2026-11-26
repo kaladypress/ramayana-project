@@ -6,8 +6,8 @@ The Genesis of the Rāmāyaṇa Epic
 nāradasya tu tadvākyaṁ śrutvā vākyaviśāradaḥ |
 pūjayāmāsa dharmātmā sahaśiṣyō mahāmuniḥ ||
 
-> **Meaning 1:** After hearing Nārada's words, the great sage Vālmīki — a master
-> of speech and a soul devoted to dharma — honored him, together with his
+> **Meaning 1:** After hearing Nārada's words, the great sage Vālmīki, a master
+> of speech and a soul devoted to dharma, honored him together with his
 > disciples.
 
 ---
@@ -40,7 +40,7 @@ sa tu tīraṁ samāsādya tamasāyā mahāmuniḥ |
 akardamamidaṁ tīrthaṁ bharadvāja niśāmaya |
 ramaṇīyaṁ prasannāmbu sanmanuṣyamanō yathā ||
 
-> **Meaning 5:** "Look, Bharadvāja — this bathing place has no mud at all. It is
+> **Meaning 5:** "Look, Bharadvāja, this bathing place has no mud at all. It is
 > serene, and its water is as clear as the mind of a good person.
 
 ---
@@ -80,8 +80,8 @@ dadarśa bhagavāṁstatra krauñcayōścārunisvanam ||
 tasmāttu mithunādēkaṁ pumāṁsaṁ pāpaniścayaḥ |
 jaghāna vairanilayō niṣādastasya paśyataḥ ||
 
-> **Meaning 10:** Then, as the sage watched, a Niṣāda hunter — full of
-> hostility and set on doing evil — struck down the male of that pair.
+> **Meaning 10:** Then, as the sage watched, a Niṣāda hunter, full of hostility
+> and set on doing evil, struck down the male of that pair.
 
 ---
 11.
@@ -96,9 +96,9 @@ bhāryā tu nihataṁ dr̥ṣṭvā rurāva karuṇāṁ giram ||
 viyuktā patinā tēna dvijēna sahacāriṇā |
 tāmraśīrṣēṇa mattēna patriṇā sahitēna vai ||
 
-> **Meaning 12:** Separated from that mate of hers — her constant winged
-> companion, copper-headed and intoxicated with love, who had been united with
-> her — she cried out in sorrow.
+> **Meaning 12:** Separated from her mate, her constant winged companion,
+> copper-headed and intoxicated with love, who had just been united with her,
+> she cried out in sorrow.
 
 ---
 13.
@@ -146,9 +146,9 @@ cintayansa mahāprājñaścakāra matimānmatim |
 pādabaddhō'kṣarasamastantrīlayasamanvitaḥ |
 śōkārtasya pravr̥ttō mē ślōkō bhavatu nānyathā ||
 
-> **Meaning 18:** "Bound in metrical feet, with an equal number of syllables in
-> each, and fit to be sung to the rhythm of the strings — let what came from me
-> in my grief (śōka) be called a śloka, and nothing else."
+> **Meaning 18:** "Because it is bound in metrical feet, with an equal number of
+> syllables in each, and fit to be sung to the rhythm of the strings, let what
+> came from me in my grief (śōka) be called a śloka, and nothing else."
 
 ---
 19.
@@ -230,7 +230,7 @@ pāpātmanā kr̥taṁ kaṣṭaṁ vairagrahaṇabuddhinā |
 yastādr̥śaṁ cāruravaṁ krauñcaṁ hanyādakāraṇāt ||
 
 > **Meaning 28:** "What a terrible thing that evil man did, his mind set on
-> hostility — to kill such a sweetly singing Krauñca for no reason at all!"
+> hostility, to kill such a sweetly singing Krauñca for no reason at all!"
 
 ---
 29.
@@ -261,8 +261,8 @@ rāmasya caritaṁ sarvaṁ kuru tvamr̥ṣisattama ||
 dharmātmanō guṇavatō lōkē rāmasya dhīmataḥ |
 vr̥ttaṁ kathaya dhīrasya yathā tē nāradācchrutam ||
 
-> **Meaning 32:** Tell the story of Rāma — his virtues, his steadfastness,
-> and his devotion to dharma — just as you heard it from Nārada.
+> **Meaning 32:** Tell the story of Rāma, his virtues, his steadfastness, and
+> his devotion to dharma, just as you heard it from Nārada.
 
 ---
 33.
@@ -274,9 +274,9 @@ vaidēhyāścaiva yadvr̥ttaṁ prakāśaṁ yadi vā rahaḥ |
 taccāpyaviditaṁ sarvaṁ viditaṁ tē bhaviṣyati ||
 
 > **Meaning 33-34:** Everything that happened to the wise Rāma, to Saumitri
-> (Lakṣmaṇa), to all the Rākṣasas, and to Vaidēhī (Sītā) — both their public
-> deeds and what took place in private solitude — even what has remained
-> unknown to the world will all be revealed to you.
+> (Lakṣmaṇa), to all the Rākṣasas, and to Vaidēhī (Sītā), including both their
+> public deeds and what took place in private solitude, even what has remained
+> unknown to the world, will all be revealed to you.
 ---
 
 35.
@@ -340,8 +340,8 @@ udāravr̥ttārthapadairmanōramaiḥ stadāsya rāmasya cakāra kīrtimān |
 samākṣaraiḥ ślōkaśatairyaśasvinō yaśaskaraṁ kāvyamudāradhīrmuniḥ ||
 
 > **Meaning 42:** Then that renowned and noble-minded sage composed a poem that
-> brings glory to the glorious Rāma — hundreds (twenty four thousand) of ślokas with equal syllables,
-> with beautiful words and lofty meaning and style.
+> brings glory to the glorious Rāma, in hundreds (twenty-four thousand) of
+> ślokas with equal syllables, beautiful words, and lofty meaning and style.
 
 ---
 43.
@@ -350,7 +350,7 @@ samamadhurōpanatārthavākyabaddham |
 raghuvaracaritaṁ munipraṇītaṁ
 daśaśirasaśca vadhaṁ niśāmayadhvam ||
 
-> **Meaning 43:** Listen with devotion to this epic composed by the sage Vālmīki— richly
-> adorned with elegant compounds and euphony, sweet and profound in meaning —
-> recounting the noble life of the foremost of the Raghus and the destruction of
-> the ten-headed Rāvaṇa.
+> **Meaning 43:** Listen with devotion to this epic composed by the sage
+> Vālmīki, richly adorned with elegant compounds and euphony, sweet and profound
+> in meaning, recounting the noble life of the foremost of the Raghus and the
+> destruction of the ten-headed Rāvaṇa.

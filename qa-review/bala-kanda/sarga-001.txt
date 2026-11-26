@@ -9,8 +9,8 @@ Om
 tapaḥsvādhyāyanirataṁ tapasvī vāgvidāṁ varam |
 nāradaṁ paripapraccha vālmīkirmunipuṅgavam ||
 
-> **Meaning 1:** Vālmīki, the ascetic, questioned Nārada — the foremost of
-> sages, devoted to tapas and the study of the Vedas, and the finest of those
+> **Meaning 1:** Vālmīki, the ascetic, questioned Nārada, the foremost of sages,
+> who was devoted to tapas and the study of the Vedas, and the finest of those
 > skilled in speech.
 
 ---
@@ -76,7 +76,7 @@ niyatātmā mahāvīryō dyutimāndhr̥timānvaśī ||
 buddhimān nītimān vāgmī śrīmāñ śatrunibarhaṇaḥ |
 vipulāṁsō mahābāhuḥ kambugrīvō mahāhanuḥ ||
 
-> **Meaning 9:** He is wise, skilled in statecraft, eloquent, and glorious — a
+> **Meaning 9:** He is wise, skilled in statecraft, eloquent, glorious, and a
 > destroyer of enemies. His shoulders are broad, his arms mighty, his neck
 > shaped like a conch, and his jaw strong.
 
@@ -212,8 +212,8 @@ piturvacananirdēśātkaikēyyāḥ priyakāraṇāt ||
 taṁ vrajantaṁ priyō bhrātā lakṣmaṇō'nujagāma ha |
 snēhādvinayasampannaḥ sumitrānandavardhanaḥ ||
 
-> **Meaning 25:** As he left, his beloved brother Lakṣmaṇa — humble, and the joy
-> of Sumitrā — followed him out of love.
+> **Meaning 25:** As he left, his beloved brother Lakṣmaṇa, humble and the joy
+> of Sumitrā, followed him out of love.
 
 ---
 
@@ -289,7 +289,7 @@ tvamēva rājā dharmajña iti rāmaṁ vacō'bravīt ||
 
 > **Meaning 35:** Approaching his noble brother Rāma, whose valor was unfailing,
 > Bharata spoke with heartfelt devotion and pleaded: "You know what dharma
-> requires — you alone must rule." 
+> requires, so you alone must rule."
 
 ---
 36.
@@ -375,8 +375,8 @@ r̥ṣīṇāmagnikalpānāṁ daṇḍakāraṇyavāsinām ||
 tēna tatraiva vasatā janasthānanivāsinī |
 virūpitā śūrpaṇakhā rākṣasī kāmarūpiṇī ||
 
-> **Meaning 46:** While he lived there, Śūrpaṇakhā — a Rākṣasī of Janasthāna who
-> could take any form she wished — was disfigured.
+> **Meaning 46:** While he lived there, Śūrpaṇakhā, a Rākṣasī of Janasthāna who
+> could take any form she wished, was disfigured.
 
 ---
 47.
@@ -385,8 +385,8 @@ kharaṁ triśirasaṁ caiva dūṣaṇaṁ caiva rākṣasam |
 nijaghāna raṇē rāmastēṣāṁ caiva padānugān ||
 
 > **Meaning 47:** Then, incited by Śūrpaṇakhā's words, all the Rākṣasas marched
-> out against him; and Rāma killed them in battle — Khara, Triśiras, the
-> Rākṣasa Dūṣaṇa, and all their followers.
+> out against him; and in battle Rāma killed them all: Khara, Triśiras, the
+> Rākṣasa Dūṣaṇa, and their followers.
 
 ---
 48.
@@ -629,8 +629,8 @@ marṣayanrākṣasānvīrō yantriṇastānyadr̥cchayā ||
 tatō dagdhvā purīṁ laṅkāmr̥tē sītāṁ ca maithilīm |
 rāmāya priyamākhyātuṁ punarāyānmahākapiḥ ||
 
-> **Meaning 77:** Then the great Kapi, Hanumān burned the city of Laṅkā — all except
-> Sītā, Maithilī — and came back to give Rāma the good news.
+> **Meaning 77:** Then the great Kapi, Hanumān, burned the entire city of Laṅkā
+> except for Sītā, Maithilī, and came back to give Rāma the good news.
 
 ---
 78.
@@ -686,8 +686,8 @@ karmaṇā tēna mahatā trailōkyaṁ sacarācaram |
 sadēvarṣigaṇaṁ tuṣṭaṁ rāghavasya mahātmanaḥ ||
 
 > **Meaning 84:** That great deed of the great-souled Rāghava, of killing Rāvaṇa
-> and restoring Sītā, delighted the three worlds — all creation, moving and still,
-> along with the devas and r̥ṣis.
+> and restoring Sītā, delighted the three worlds and all creation, moving and
+> still, along with the devas and r̥ṣis.
 
 ---
 85.
@@ -760,7 +760,8 @@ na cāpi kṣudbhayaṁ tatra na taskarabhayaṁ tathā ||
 nagarāṇi ca rāṣṭrāṇi dhanadhānyayutāni ca |
 nityaṁ pramuditāḥ sarvē yathā kr̥tayugē tathā ||
 
-> **Meaning 93:** The cities and provinces abound in wealth and grain, and all the people are ever joyful — just as it was in the Kr̥tayuga.
+> **Meaning 93:** The cities and provinces abound in wealth and grain, and all
+> the people are ever joyful, just as it was in the Kr̥tayuga.
 
 ---
 94.

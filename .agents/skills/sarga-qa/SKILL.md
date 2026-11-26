@@ -21,6 +21,7 @@ Use this skill during interactive sarga-by-sarga QA review. It complements `tran
      - **Clarify metaphorical/personified terms:** Make implicit categories explicit where needed (e.g., `"the divine astras known as the sons of Kr̥śāśva"`).
      - **Vocative placement & density:** Place vocatives (`Rāma`, `Kākutstha`, `Raghunandana`, `king`, etc.) at the **start** of the sentence rather than wedging them mid-sentence or tacking them onto the end. If a verse has two vocatives to the same listener (e.g., `rāma` + `vīra`, or `manujādhipa` + `rājan`), keep one clean opening address. Never use bare mid-sentence `", hero,"` or `"tiger among men"` (use `"greatest of men"` / `"foremost of men"`).
      - **Natural spoken/narrative English:** Replace stiff literalisms (`"shape-shifting"` → `"able to take any form at will"`, `"demonstrated"` → `"showed"`, `"hosts"` → `"ranks"`/`"assemblies"`).
+     - **Zero em-dashes (`—`):** Never use em-dashes in meaning blocks. Replace paired appositive dashes with commas or relative clauses, list dashes with colons or direct objects, clause-joining dashes with periods/semicolons/conjunctions, and left-dislocated `"X, Y, Z — he did it all"` sentences with natural Subject–Verb–Object order.
 
 3. **Grouping & List Cleanup**
    - Group verses that share one grammatical sentence, a single continuous speech, or a tightly linked list (e.g., accusative names governed by one verb).

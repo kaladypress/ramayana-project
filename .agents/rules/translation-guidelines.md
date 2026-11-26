@@ -60,6 +60,11 @@ Older English translations of the Rāmāyaṇa imposed a Western, Biblical/Shake
    - **Front-load vocatives:** Place address terms (`Rāma`, `Kākutstha`, `Raghunandana`, `king`, etc.) at the **start** of the sentence or speech rather than wedging them mid-sentence (`"..., Kākutstha, ..."`) or tacking them onto the very end (`"..., king."`), which disrupts English reading flow.
    - **Deduplicate double vocatives:** When a single śloka has two vocatives for the same listener (e.g., `rāma` + `vīra`, or `manujādhipa` + `rājan`), merge them or keep one clean opening address rather than interrupting the sentence twice.
    - **No bare mid-sentence `", hero,"`:** Render `vīra` at the start of the sentence as `"Brave prince,"` / `"Valiant Rāma,"` (or omit if paired with another vocative in the same verse).
+7. **ABSOLUTE BAN ON EM-DASHES (`—`):** Never use em-dashes (`—`) anywhere in the meaning blocks.
+   - Use **commas** for short appositives and epithets (*"his beloved brother Lakṣmaṇa, humble and the joy of Sumitrā, followed him..."*).
+   - Use **periods or semicolons** to break long descriptive chains or independent clauses into separate, clean sentences.
+   - Use a **colon (`:`)** or direct verb objects when introducing lists or enumerations.
+   - Use **normal Subject–Verb–Object word order** instead of left-dislocation summary structures (*"He perceived their laughter, their speech, and their every movement"*, NEVER *"Their laughter, their speech... — he perceived it all"*).
 
 ### Banned Archaisms
 
@@ -125,13 +130,13 @@ Use Strategy 2 (Contextual Rendering) or Strategy 3 (Selective Preservation of S
 | *asitakeśānte* | "O lady with beautiful dark hair" | "dark-tressed one" |
 | *vilāsinī* | "O charming lady" | "enchanting one" / "O enchanting one" |
 | *bhīru* | "O timid lady" | "shy one" / "O gentle one" (context-dependent) |
-| Stacked *cāru-* vocatives | "O lady with X! O lady with Y!" | Merge: "O enchanting one — your smile, your radiance, your eyes —" |
+| Stacked *cāru-* vocatives | "O lady with X! O lady with Y!" | Merge: "Enchanting one, with your radiant smile and luminous eyes," |
 
 ### Speaker-Sensitive Voice
 
 The same epithet must **feel different** based on who speaks and when. Calibrate the emotional register:
 
-- **Rāvaṇa** addressing Sītā → **Intoxicated, obsessive, incantatory.** His epithets are weapons of seduction. Cascade them as a single wave, not a list. Use em-dashes to create breathless momentum.
+- **Rāvaṇa** addressing Sītā → **Intoxicated, obsessive, incantatory.** His epithets are weapons of seduction. Cascade them as a single wave, not a list. Use flowing clauses to create breathless momentum (never em-dashes).
 - **Hanumān** describing Sītā → **Reverent, grieving, awestruck.** He is witnessing a goddess in captivity. Epithets should be tender and restrained.
 - **Narrative voice** (poet's descriptions) → **Measured, majestic, epic.** The poet paints a scene. Epithets should feel like brushstrokes, not annotations.
 - **Rākṣasīs** taunting Sītā → **Crude, mocking, aggressive.** Their use of beauty-epithets is ironic — the translation should carry that edge.
